@@ -1,0 +1,24 @@
+
+Tapatalk Mod for vBulletin 3.7/3.8 installation
+
+ - Upload directory 'mobiquo/' which contains this file to your forum root
+ - Login to your forum Admin Control Panel 
+ - Go to 'Plugin & Products' -> 'Manage Products' and click 'Add/Import Products' on the page bottom.
+ - Import the XML file 'product-tapatalk.xml' inside directory mobiquo. You can just choose 'import the XML file from your server' and input this './mobiquo/product-tapatalk.xml', then click Import button.
+ - The mod installation was done here and you can go to 'Settings' -> 'Options' -> 'Tapatalk Options' to mod config.
+
+
+More actions you may need to check
+ - Check the push notification status
+    Open the url {Your forum root url path}/mobiquo/push.php in browser and you should get response like this 'Tapatalk push notification test: Success'.
+    If you did not get correct response, tapatalk still can work without push notification feature.
+ - Go back to Tapatalk forum owner area to complete your forum register in tapatalk network.
+ - Verify the mod installation in tapatalk forum owner area and publish your fourm, after that app users can find and visit your forum in Tapatalk App.
+
+
+Upgrade from old plugin (Without XML file import)
+ - It's the same as fresh installation, replace the old plugin directory with the new one.
+
+
+Upgrade for future release
+ - It's the same as fresh installation, replace the old plugin directory with the new one. And make sure set 'Allow Overwrite' to yes when importing the new product XML file.

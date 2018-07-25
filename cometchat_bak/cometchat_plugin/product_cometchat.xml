@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<product productid="cometchatplugin" active="1">
+	<title>CometChat Plugin</title>
+	<description>Thank you for downloading CometChat plugin.</description>
+	<version>1.0</version>
+	<url>http://www.cometchat.com</url>
+	<versioncheckurl />
+	<dependencies>
+	</dependencies>
+	<codes>
+    <code version="1.0.0">
+      <installcode><![CDATA[
+    ob_start();
+    include(CWD.'/cometchat/install.php');
+    $includedphp = ob_get_contents();
+    copy(CWD.'/cometchat_plugin/cpnav_cometchat_panel.xml',CWD.'/includes/xml/cpnav_cometchat_panel.xml');
+
+    $sql = "SELECT * FROM  `setting` WHERE varname LIKE  'push_key' AND product LIKE  'tapatalk'";
+    $result = $vbulletin->db->query($sql);
+    $row = mysqli_fetch_assoc($result);
+    if(!empty($row['value'])){
+      $pushUrl = $row['value'];
+
+      $file = CWD.'/cometchat/extensions/tapatalk/config.php';
+      $content = @file_get_contents($file);
+
+      if ($content != '') {
+        $myvar = "define('PUSH_KEY' , '$pushUrl');";
+
+        $replacement = "<?php \n\n//////////////////////\n\n/* SETTINGS START */\r\n\r\n".$myvar."\r\n\r\n/* SETTINGS END */\n\n////////////////////";
+
+        $content = $replacement;
+        $f = fopen($file,'w');
+        if($f) {
+          fwrite($f, $content);
+          fclose($f);
+        }
+      }
+    }
+
+    ob_end_clean();
+
+]]></installcode>
+      <uninstallcode><![CDATA[ ]]></uninstallcode>
+    </code>
+</codes>
+	<templates>
+	</templates>
+	<stylevardfns>
+	</stylevardfns>
+	<stylevars>
+	</stylevars>
+		<plugins>
+		<plugin active="1" executionorder="5">
+			<title>CometChat Plugin</title>
+			<hookname>global_complete</hookname>
+	<phpcode><![CDATA[
+    $cometchatCss  = "<style>
+      #cc_instantpmA{
+        margin-top: 5px;
+        display: block;
+        opacity:0.9;
+      }
+      #cc_instantpmB{
+        opacity:0.9;
+      }
+      #cc_instantpmA:hover,#cc_instantpmB{
+        cursor:pointer;
+        opacity:1;
+      }
+    </style>";
+
+    $base = '/cometchat/';
+    $baseurl = 'cometchat/';
+
+    if ($vbulletin->options['cometchat_baseurl']){
+    	$baseurl = $vbulletin->options['cometchat_baseurl'].$base;
+    }
+
+    $cometchatcode = '<link type="text/css" href="'.$baseurl.'cometchatcss.php" rel="stylesheet" charset="utf-8">
+    <script type="text/javascript" src="'.$baseurl.'cometchatjs.php" charset="utf-8"></script>';
+    $CHCH_find_add_before = "$cometchatcode".$cometchatCss.PHP_EOL;
+
+    $userid = $vbulletin->userinfo['userid'];
+
+    $sql = "SELECT usergroupid,membergroupids
+    FROM user
+    WHERE userid = ".$userid;
+
+    $result = $vbulletin->db->query_first($sql);
+    $usergroups = explode(',',$result['membergroupids']);
+    $usergroups[] = $result['usergroupid'];
+
+    $allowCometChat = true;
+    if(isset($vbulletin->options['cometchat_allowedusergroups']) && !empty($vbulletin->options['cometchat_allowedusergroups']))
+    {
+    	$allowCometChat = false;
+      $allow_usergroups = explode(',', $vbulletin->options['cometchat_allowedusergroups']);
+      foreach($usergroups as $group_id)
+      {
+        if(in_array($group_id, $allow_usergroups))
+          $allowCometChat = true;
+      }
+    }
+
+    if($allowCometChat){
+    	$CHCH_find = '</head>';
+    	$output = str_replace($CHCH_find,$CHCH_find_add_before.$CHCH_find, $output);
+    }
+
+ ]]></phpcode>
+</plugin>
+<plugin active="1" executionorder="5">
+  <title>CometChat Add chatWith button</title>
+  <hookname>postbit_display_start</hookname>
+  <phpcode><![CDATA[
+    global $template_hook;
+    $file = $_SERVER['PHP_SELF'];
+
+    if(strpos($file, 'showthread.php') !== FALSE){
+        $template_hook['postbit_user_popup'] = "<tr><td class='cc_chatwith vbmenu_option vbmenu_option_alink'><a onclick=\"jqcc.cometchat.chatWith('$post[userid]')\">Instant PM</a></td></tr>
+        <script>
+        var setUsersThread = setInterval(function(){
+          if(typeof jqcc.tapatalk.setUsersThread === 'function'){
+            jqcc.tapatalk.setUsersThread('$post[userid]','$post[username]');
+            clearInterval(setUsersThread);
+          }
+        },1000);
+
+      </script>";
+      $imgPathB = 'cometchat/themes/tapatalk/images/custom/instantPmB.png';
+        $template_hook[postbit_controls] = "<a onclick=\"jqcc.cometchat.chatWith('$post[userid]')\" id='cc_instantpmB'>
+      <img src='$imgPathB' alt='Instant PM' border='0' title='Start instant PM'></a>";
+
+      $imgPathA = 'cometchat/themes/tapatalk/images/custom/instantPmA.png';
+      $template_hook[postbit_userinfo_left] = "<a onclick=\"jqcc.cometchat.chatWith('$post[userid]')\" id='cc_instantpmA'>
+      <img src='$imgPathA' alt='Instant PM' border='0' title='Start instant PM'></a>";
+    }
+  ]]>
+</phpcode>
+</plugin>
+
+<plugin active="1" executionorder="5">
+      <title>CometChat Options Process</title>
+      <hookname>admin_options_processing</hookname>
+      <phpcode><![CDATA[
+
+        $baseurl = $settings['cometchat_baseurl'].'/cometchat/';
+        $file = CWD.'/cometchat/config.php';
+        $content = @file_get_contents($file);
+
+        if ($content != '') {
+
+          $myvar = "define('BASE_URL','{$baseurl}');";
+
+          //$content = str_replace("define('BASE_URL','/cometchat/');",$myvar, $content);
+
+          $pattern = "/\/\* BASE URL START \*\/(\s*)(.*?)(\s*)\/\* BASE URL END \*\//is";
+
+
+          $replacement = "/* BASE URL START */\r\n\r\n".$myvar."\r\n\r\n/* BASE URL END */";
+
+
+          $content = preg_replace($pattern, $replacement, $content);
+
+          $f = @fopen($file,'w');
+          if($f) {
+            @fwrite($f, $content);
+            @fclose($f);
+          } else {
+            $extra .= "<br/><br/><strong>Unable to edit config.php.</strong> Find the BASE_URL line in config.php and replace it with:<br/><br/>define('BASE_URL','{$baseurl}');";
+          }
+        }else{
+          $extra .= "<br/><br/><strong>Unable to edit config.php.</strong> Find the BASE_URL line in config.php and replace it with:<br/><br/>define('BASE_URL','{$baseurl}'); $file";
+          echo $extra;
+          exit;
+        }
+        ]]></phpcode>
+    </plugin>
+
+	</plugins>
+	<phrases>
+		<phrasetype name="vBulletin Settings" fieldname="vbsettings">
+			<phrase name="setting_cometchat_baseurl_desc" date="1350249110" username="CometchatTeam" version="1.0"><![CDATA[Enter the location of your vBulletin directory. E.g:(www.yoursite.com/vbulletin3). Do not add trailing '/']]></phrase>
+			<phrase name="setting_cometchat_baseurl_title" date="1350268111" username="CometchatTeam" version="1.0"><![CDATA[CometChat Base URL]]></phrase>
+
+			<phrase name="setting_cometchat_allowedusergroups_desc" date="1350249110" username="CometchatTeam" version="1.0"><![CDATA[To allow all user groups to access CometChat, leave this field empty. To allow only certain user groups to to access CometChat, specify them in this field. Each user group name should be separated with a comma. For example, entering "3,11,6" (without quotes) would allow users from user groups 3, 11, and 6 to be able to to access CometChat.]]></phrase>
+			<phrase name="setting_cometchat_allowedusergroups_title" date="1350268111" username="CometchatTeam" version="1.0"><![CDATA[CometChat Allowed Groups]]></phrase>
+
+			<phrase name="settinggroup_cometchat" date="1350259125" username="CometchatTeam" version="1.0"><![CDATA[CometChat Settings]]></phrase>
+		</phrasetype>
+	</phrases>
+	<options>
+		<settinggroup name="cometchat" displayorder="2">
+			<setting varname="cometchat_baseurl" displayorder="10">
+				<datatype>free</datatype>
+				<optioncode>textarea</optioncode>
+				<public>1</public>
+			</setting>
+			<setting varname="cometchat_allowedusergroups" displayorder="1">
+				<datatype>free</datatype>
+			</setting>
+		</settinggroup>
+	</options>
+	<helptopics>
+	</helptopics>
+	<cronentries>
+	</cronentries>
+	<faqentries>
+	</faqentries>
+	<widgets>
+	</widgets>
+</product>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<navgroups product="vbulletin">
+<navgroup text="CometChat" permissions="canadminsettings" hr="true" displayorder="1">
+<navoption displayorder="1">
+<text>Admin Panel</text>
+<link>../cometchat/admin/index.php</link>
+</navoption>
+</navgroup>
+</navgroups>

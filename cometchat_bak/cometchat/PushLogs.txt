@@ -1,0 +1,1933 @@
+Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":19,"type":"chat","content":"bbbh","id":3698,"author":"wxk2","authorid":24,"dateline":1420361816}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aToxOTtzOjQ6InR5cGUiO3M6NDoiY2hhdCI7czo3OiJjb250ZW50IjtzOjQ6ImJiYmgiO3M6MjoiaWQiO2k6MzY5ODtzOjY6ImF1dGhvciI7czo0OiJ3eGsyIjtzOjg6ImF1dGhvcmlkIjtpOjI0O3M6ODoiZGF0ZWxpbmUiO2k6MTQyMDM2MTgxNjt9fQ==","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":24,"type":"chat","content":"Bhhh","id":3699,"author":"lijing","authorid":19,"dateline":1420361892}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aToyNDtzOjQ6InR5cGUiO3M6NDoiY2hhdCI7czo3OiJjb250ZW50IjtzOjQ6IkJoaGgiO3M6MjoiaWQiO2k6MzY5OTtzOjY6ImF1dGhvciI7czo2OiJsaWppbmciO3M6ODoiYXV0aG9yaWQiO2k6MTk7czo4OiJkYXRlbGluZSI7aToxNDIwMzYxODkyO319","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":19,"type":"chat","content":"hnbbh","id":3700,"author":"wxk2","authorid":24,"dateline":1420361905}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aToxOTtzOjQ6InR5cGUiO3M6NDoiY2hhdCI7czo3OiJjb250ZW50IjtzOjU6ImhuYmJoIjtzOjI6ImlkIjtpOjM3MDA7czo2OiJhdXRob3IiO3M6NDoid3hrMiI7czo4OiJhdXRob3JpZCI7aToyNDtzOjg6ImRhdGVsaW5lIjtpOjE0MjAzNjE5MDU7fX0=","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":4,"type":"chat","content":"Fgg","id":3707,"author":"cometchat9","authorid":5,"dateline":1420386938}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aTo0O3M6NDoidHlwZSI7czo0OiJjaGF0IjtzOjc6ImNvbnRlbnQiO3M6MzoiRmdnIjtzOjI6ImlkIjtpOjM3MDc7czo2OiJhdXRob3IiO3M6MTA6ImNvbWV0Y2hhdDkiO3M6ODoiYXV0aG9yaWQiO2k6NTtzOjg6ImRhdGVsaW5lIjtpOjE0MjAzODY5Mzg7fX0=","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":5,"type":"chat","content":"Dh","id":3708,"author":"cometchat5","authorid":4,"dateline":1420386958}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aTo1O3M6NDoidHlwZSI7czo0OiJjaGF0IjtzOjc6ImNvbnRlbnQiO3M6MjoiRGgiO3M6MjoiaWQiO2k6MzcwODtzOjY6ImF1dGhvciI7czoxMDoiY29tZXRjaGF0NSI7czo4OiJhdXRob3JpZCI7aTo0O3M6ODoiZGF0ZWxpbmUiO2k6MTQyMDM4Njk1ODt9fQ==","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":4,"type":"chat","content":"Ggg","id":3709,"author":"cometchat9","authorid":5,"dateline":1420386977}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aTo0O3M6NDoidHlwZSI7czo0OiJjaGF0IjtzOjc6ImNvbnRlbnQiO3M6MzoiR2dnIjtzOjI6ImlkIjtpOjM3MDk7czo2OiJhdXRob3IiO3M6MTA6ImNvbWV0Y2hhdDkiO3M6ODoiYXV0aG9yaWQiO2k6NTtzOjg6ImRhdGVsaW5lIjtpOjE0MjAzODY5Nzc7fX0=","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":5,"type":"chat","content":"Hhha","id":3710,"author":"cometchat5","authorid":4,"dateline":1420386998}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aTo1O3M6NDoidHlwZSI7czo0OiJjaGF0IjtzOjc6ImNvbnRlbnQiO3M6NDoiSGhoYSI7czoyOiJpZCI7aTozNzEwO3M6NjoiYXV0aG9yIjtzOjEwOiJjb21ldGNoYXQ1IjtzOjg6ImF1dGhvcmlkIjtpOjQ7czo4OiJkYXRlbGluZSI7aToxNDIwMzg2OTk4O319","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":6,"type":"chat","content":"hi","id":3712,"author":"cometchat5","authorid":4,"dateline":1420429234}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aTo2O3M6NDoidHlwZSI7czo0OiJjaGF0IjtzOjc6ImNvbnRlbnQiO3M6MjoiaGkiO3M6MjoiaWQiO2k6MzcxMjtzOjY6ImF1dGhvciI7czoxMDoiY29tZXRjaGF0NSI7czo4OiJhdXRob3JpZCI7aTo0O3M6ODoiZGF0ZWxpbmUiO2k6MTQyMDQyOTIzNDt9fQ==","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":6,"type":"chat","content":"hkjh","id":3715,"author":"cometchat5","authorid":4,"dateline":1420429239}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aTo2O3M6NDoidHlwZSI7czo0OiJjaGF0IjtzOjc6ImNvbnRlbnQiO3M6NDoiaGtqaCI7czoyOiJpZCI7aTozNzE1O3M6NjoiYXV0aG9yIjtzOjEwOiJjb21ldGNoYXQ1IjtzOjg6ImF1dGhvcmlkIjtpOjQ7czo4OiJkYXRlbGluZSI7aToxNDIwNDI5MjM5O319","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":5,"type":"chat","content":"hi","id":3720,"author":"cometchat5","authorid":4,"dateline":1420441755}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aTo1O3M6NDoidHlwZSI7czo0OiJjaGF0IjtzOjc6ImNvbnRlbnQiO3M6MjoiaGkiO3M6MjoiaWQiO2k6MzcyMDtzOjY6ImF1dGhvciI7czoxMDoiY29tZXRjaGF0NSI7czo4OiJhdXRob3JpZCI7aTo0O3M6ODoiZGF0ZWxpbmUiO2k6MTQyMDQ0MTc1NTt9fQ==","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":1,"type":"chat","content":"gello","id":3721,"author":"cometchat5","authorid":4,"dateline":1420523646}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aToxO3M6NDoidHlwZSI7czo0OiJjaGF0IjtzOjc6ImNvbnRlbnQiO3M6NToiZ2VsbG8iO3M6MjoiaWQiO2k6MzcyMTtzOjY6ImF1dGhvciI7czoxMDoiY29tZXRjaGF0NSI7czo4OiJhdXRob3JpZCI7aTo0O3M6ODoiZGF0ZWxpbmUiO2k6MTQyMDUyMzY0Njt9fQ==","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":1,"type":"chat","content":"hi","id":3724,"author":"cometchat5","authorid":4,"dateline":1420523810}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aToxO3M6NDoidHlwZSI7czo0OiJjaGF0IjtzOjc6ImNvbnRlbnQiO3M6MjoiaGkiO3M6MjoiaWQiO2k6MzcyNDtzOjY6ImF1dGhvciI7czoxMDoiY29tZXRjaGF0NSI7czo4OiJhdXRob3JpZCI7aTo0O3M6ODoiZGF0ZWxpbmUiO2k6MTQyMDUyMzgxMDt9fQ==","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":1,"type":"chat","content":"yi","id":3725,"author":"cometchat5","authorid":4,"dateline":1420523889}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aToxO3M6NDoidHlwZSI7czo0OiJjaGF0IjtzOjc6ImNvbnRlbnQiO3M6MjoieWkiO3M6MjoiaWQiO2k6MzcyNTtzOjY6ImF1dGhvciI7czoxMDoiY29tZXRjaGF0NSI7czo4OiJhdXRob3JpZCI7aTo0O3M6ODoiZGF0ZWxpbmUiO2k6MTQyMDUyMzg4OTt9fQ==","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":1,"type":"chat","content":"fuj","id":3726,"author":"cometchat5","authorid":4,"dateline":1420524154}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aToxO3M6NDoidHlwZSI7czo0OiJjaGF0IjtzOjc6ImNvbnRlbnQiO3M6MzoiZnVqIjtzOjI6ImlkIjtpOjM3MjY7czo2OiJhdXRob3IiO3M6MTA6ImNvbWV0Y2hhdDUiO3M6ODoiYXV0aG9yaWQiO2k6NDtzOjg6ImRhdGVsaW5lIjtpOjE0MjA1MjQxNTQ7fX0=","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":1,"type":"chat","content":"gi","id":3728,"author":"cometchat5","authorid":4,"dateline":1420524268}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aToxO3M6NDoidHlwZSI7czo0OiJjaGF0IjtzOjc6ImNvbnRlbnQiO3M6MjoiZ2kiO3M6MjoiaWQiO2k6MzcyODtzOjY6ImF1dGhvciI7czoxMDoiY29tZXRjaGF0NSI7czo4OiJhdXRob3JpZCI7aTo0O3M6ODoiZGF0ZWxpbmUiO2k6MTQyMDUyNDI2ODt9fQ==","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":4,"type":"chat","content":"Hello","id":3731,"author":"cometchat9","authorid":5,"dateline":1420524338}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aTo0O3M6NDoidHlwZSI7czo0OiJjaGF0IjtzOjc6ImNvbnRlbnQiO3M6NToiSGVsbG8iO3M6MjoiaWQiO2k6MzczMTtzOjY6ImF1dGhvciI7czoxMDoiY29tZXRjaGF0OSI7czo4OiJhdXRob3JpZCI7aTo1O3M6ODoiZGF0ZWxpbmUiO2k6MTQyMDUyNDMzODt9fQ==","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":1,"type":"chat","content":"Hshdhd","id":3732,"author":"cometchat9","authorid":5,"dateline":1420524450}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aToxO3M6NDoidHlwZSI7czo0OiJjaGF0IjtzOjc6ImNvbnRlbnQiO3M6NjoiSHNoZGhkIjtzOjI6ImlkIjtpOjM3MzI7czo2OiJhdXRob3IiO3M6MTA6ImNvbWV0Y2hhdDkiO3M6ODoiYXV0aG9yaWQiO2k6NTtzOjg6ImRhdGVsaW5lIjtpOjE0MjA1MjQ0NTA7fX0=","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":1,"type":"chat","content":"Hshdh","id":3733,"author":"cometchat9","authorid":5,"dateline":1420524451}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aToxO3M6NDoidHlwZSI7czo0OiJjaGF0IjtzOjc6ImNvbnRlbnQiO3M6NToiSHNoZGgiO3M6MjoiaWQiO2k6MzczMztzOjY6ImF1dGhvciI7czoxMDoiY29tZXRjaGF0OSI7czo4OiJhdXRob3JpZCI7aTo1O3M6ODoiZGF0ZWxpbmUiO2k6MTQyMDUyNDQ1MTt9fQ==","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":1,"type":"chat","content":"gi","id":3734,"author":"cometchat5","authorid":4,"dateline":1420524454}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aToxO3M6NDoidHlwZSI7czo0OiJjaGF0IjtzOjc6ImNvbnRlbnQiO3M6MjoiZ2kiO3M6MjoiaWQiO2k6MzczNDtzOjY6ImF1dGhvciI7czoxMDoiY29tZXRjaGF0NSI7czo4OiJhdXRob3JpZCI7aTo0O3M6ODoiZGF0ZWxpbmUiO2k6MTQyMDUyNDQ1NDt9fQ==","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":5,"type":"chat","content":"Hello","id":3735,"author":"admin","authorid":1,"dateline":1420524457}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aTo1O3M6NDoidHlwZSI7czo0OiJjaGF0IjtzOjc6ImNvbnRlbnQiO3M6NToiSGVsbG8iO3M6MjoiaWQiO2k6MzczNTtzOjY6ImF1dGhvciI7czo1OiJhZG1pbiI7czo4OiJhdXRob3JpZCI7aToxO3M6ODoiZGF0ZWxpbmUiO2k6MTQyMDUyNDQ1Nzt9fQ==","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":5,"type":"chat","content":"??","id":3736,"author":"admin","authorid":1,"dateline":1420524465}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aTo1O3M6NDoidHlwZSI7czo0OiJjaGF0IjtzOjc6ImNvbnRlbnQiO3M6MjoiPz8iO3M6MjoiaWQiO2k6MzczNjtzOjY6ImF1dGhvciI7czo1OiJhZG1pbiI7czo4OiJhdXRob3JpZCI7aToxO3M6ODoiZGF0ZWxpbmUiO2k6MTQyMDUyNDQ2NTt9fQ==","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":1,"type":"chat","content":"Fjfjd","id":3739,"author":"cometchat9","authorid":5,"dateline":1420524489}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aToxO3M6NDoidHlwZSI7czo0OiJjaGF0IjtzOjc6ImNvbnRlbnQiO3M6NToiRmpmamQiO3M6MjoiaWQiO2k6MzczOTtzOjY6ImF1dGhvciI7czoxMDoiY29tZXRjaGF0OSI7czo4OiJhdXRob3JpZCI7aTo1O3M6ODoiZGF0ZWxpbmUiO2k6MTQyMDUyNDQ4OTt9fQ==","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":1,"type":"chat","content":"Jdjdjd","id":3740,"author":"cometchat9","authorid":5,"dateline":1420524491}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aToxO3M6NDoidHlwZSI7czo0OiJjaGF0IjtzOjc6ImNvbnRlbnQiO3M6NjoiSmRqZGpkIjtzOjI6ImlkIjtpOjM3NDA7czo2OiJhdXRob3IiO3M6MTA6ImNvbWV0Y2hhdDkiO3M6ODoiYXV0aG9yaWQiO2k6NTtzOjg6ImRhdGVsaW5lIjtpOjE0MjA1MjQ0OTE7fX0=","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":1,"type":"chat","content":"Jdjdjd","id":3741,"author":"cometchat9","authorid":5,"dateline":1420524492}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aToxO3M6NDoidHlwZSI7czo0OiJjaGF0IjtzOjc6ImNvbnRlbnQiO3M6NjoiSmRqZGpkIjtzOjI6ImlkIjtpOjM3NDE7czo2OiJhdXRob3IiO3M6MTA6ImNvbWV0Y2hhdDkiO3M6ODoiYXV0aG9yaWQiO2k6NTtzOjg6ImRhdGVsaW5lIjtpOjE0MjA1MjQ0OTI7fX0=","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":1,"type":"chat","content":"Jejene","id":3742,"author":"cometchat9","authorid":5,"dateline":1420524493}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aToxO3M6NDoidHlwZSI7czo0OiJjaGF0IjtzOjc6ImNvbnRlbnQiO3M6NjoiSmVqZW5lIjtzOjI6ImlkIjtpOjM3NDI7czo2OiJhdXRob3IiO3M6MTA6ImNvbWV0Y2hhdDkiO3M6ODoiYXV0aG9yaWQiO2k6NTtzOjg6ImRhdGVsaW5lIjtpOjE0MjA1MjQ0OTM7fX0=","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":1,"type":"chat","content":"Dmkd","id":3743,"author":"cometchat9","authorid":5,"dateline":1420524494}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aToxO3M6NDoidHlwZSI7czo0OiJjaGF0IjtzOjc6ImNvbnRlbnQiO3M6NDoiRG1rZCI7czoyOiJpZCI7aTozNzQzO3M6NjoiYXV0aG9yIjtzOjEwOiJjb21ldGNoYXQ5IjtzOjg6ImF1dGhvcmlkIjtpOjU7czo4OiJkYXRlbGluZSI7aToxNDIwNTI0NDk0O319","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":1,"type":"chat","content":"Jdjdjd","id":3744,"author":"cometchat9","authorid":5,"dateline":1420524496}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aToxO3M6NDoidHlwZSI7czo0OiJjaGF0IjtzOjc6ImNvbnRlbnQiO3M6NjoiSmRqZGpkIjtzOjI6ImlkIjtpOjM3NDQ7czo2OiJhdXRob3IiO3M6MTA6ImNvbWV0Y2hhdDkiO3M6ODoiYXV0aG9yaWQiO2k6NTtzOjg6ImRhdGVsaW5lIjtpOjE0MjA1MjQ0OTY7fX0=","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":1,"type":"chat","content":"Bend","id":3745,"author":"cometchat9","authorid":5,"dateline":1420524497}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aToxO3M6NDoidHlwZSI7czo0OiJjaGF0IjtzOjc6ImNvbnRlbnQiO3M6NDoiQmVuZCI7czoyOiJpZCI7aTozNzQ1O3M6NjoiYXV0aG9yIjtzOjEwOiJjb21ldGNoYXQ5IjtzOjg6ImF1dGhvcmlkIjtpOjU7czo4OiJkYXRlbGluZSI7aToxNDIwNTI0NDk3O319","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":1,"type":"chat","content":"Dmkd","id":3746,"author":"cometchat9","authorid":5,"dateline":1420524498}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aToxO3M6NDoidHlwZSI7czo0OiJjaGF0IjtzOjc6ImNvbnRlbnQiO3M6NDoiRG1rZCI7czoyOiJpZCI7aTozNzQ2O3M6NjoiYXV0aG9yIjtzOjEwOiJjb21ldGNoYXQ5IjtzOjg6ImF1dGhvcmlkIjtpOjU7czo4OiJkYXRlbGluZSI7aToxNDIwNTI0NDk4O319","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":1,"type":"chat","content":"Nndnd","id":3747,"author":"cometchat9","authorid":5,"dateline":1420524499}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aToxO3M6NDoidHlwZSI7czo0OiJjaGF0IjtzOjc6ImNvbnRlbnQiO3M6NToiTm5kbmQiO3M6MjoiaWQiO2k6Mzc0NztzOjY6ImF1dGhvciI7czoxMDoiY29tZXRjaGF0OSI7czo4OiJhdXRob3JpZCI7aTo1O3M6ODoiZGF0ZWxpbmUiO2k6MTQyMDUyNDQ5OTt9fQ==","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":1,"type":"chat","content":"Bend","id":3748,"author":"cometchat9","authorid":5,"dateline":1420524500}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aToxO3M6NDoidHlwZSI7czo0OiJjaGF0IjtzOjc6ImNvbnRlbnQiO3M6NDoiQmVuZCI7czoyOiJpZCI7aTozNzQ4O3M6NjoiYXV0aG9yIjtzOjEwOiJjb21ldGNoYXQ5IjtzOjg6ImF1dGhvcmlkIjtpOjU7czo4OiJkYXRlbGluZSI7aToxNDIwNTI0NTAwO319","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":1,"type":"chat","content":"Jdjdjd","id":3749,"author":"cometchat9","authorid":5,"dateline":1420524507}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aToxO3M6NDoidHlwZSI7czo0OiJjaGF0IjtzOjc6ImNvbnRlbnQiO3M6NjoiSmRqZGpkIjtzOjI6ImlkIjtpOjM3NDk7czo2OiJhdXRob3IiO3M6MTA6ImNvbWV0Y2hhdDkiO3M6ODoiYXV0aG9yaWQiO2k6NTtzOjg6ImRhdGVsaW5lIjtpOjE0MjA1MjQ1MDc7fX0=","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":1,"type":"chat","content":"Jdjd","id":3750,"author":"cometchat9","authorid":5,"dateline":1420524509}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aToxO3M6NDoidHlwZSI7czo0OiJjaGF0IjtzOjc6ImNvbnRlbnQiO3M6NDoiSmRqZCI7czoyOiJpZCI7aTozNzUwO3M6NjoiYXV0aG9yIjtzOjEwOiJjb21ldGNoYXQ5IjtzOjg6ImF1dGhvcmlkIjtpOjU7czo4OiJkYXRlbGluZSI7aToxNDIwNTI0NTA5O319","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":1,"type":"chat","content":"Hj","id":3751,"author":"cometchat9","authorid":5,"dateline":1420524510}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aToxO3M6NDoidHlwZSI7czo0OiJjaGF0IjtzOjc6ImNvbnRlbnQiO3M6MjoiSGoiO3M6MjoiaWQiO2k6Mzc1MTtzOjY6ImF1dGhvciI7czoxMDoiY29tZXRjaGF0OSI7czo4OiJhdXRob3JpZCI7aTo1O3M6ODoiZGF0ZWxpbmUiO2k6MTQyMDUyNDUxMDt9fQ==","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":1,"type":"chat","content":"B","id":3752,"author":"cometchat9","authorid":5,"dateline":1420524511}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aToxO3M6NDoidHlwZSI7czo0OiJjaGF0IjtzOjc6ImNvbnRlbnQiO3M6MToiQiI7czoyOiJpZCI7aTozNzUyO3M6NjoiYXV0aG9yIjtzOjEwOiJjb21ldGNoYXQ5IjtzOjg6ImF1dGhvcmlkIjtpOjU7czo4OiJkYXRlbGluZSI7aToxNDIwNTI0NTExO319","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":1,"type":"chat","content":"B","id":3753,"author":"cometchat9","authorid":5,"dateline":1420524512}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aToxO3M6NDoidHlwZSI7czo0OiJjaGF0IjtzOjc6ImNvbnRlbnQiO3M6MToiQiI7czoyOiJpZCI7aTozNzUzO3M6NjoiYXV0aG9yIjtzOjEwOiJjb21ldGNoYXQ5IjtzOjg6ImF1dGhvcmlkIjtpOjU7czo4OiJkYXRlbGluZSI7aToxNDIwNTI0NTEyO319","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":1,"type":"chat","content":"B","id":3754,"author":"cometchat9","authorid":5,"dateline":1420524513}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aToxO3M6NDoidHlwZSI7czo0OiJjaGF0IjtzOjc6ImNvbnRlbnQiO3M6MToiQiI7czoyOiJpZCI7aTozNzU0O3M6NjoiYXV0aG9yIjtzOjEwOiJjb21ldGNoYXQ5IjtzOjg6ImF1dGhvcmlkIjtpOjU7czo4OiJkYXRlbGluZSI7aToxNDIwNTI0NTEzO319","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":1,"type":"chat","content":"B","id":3755,"author":"cometchat9","authorid":5,"dateline":1420524514}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aToxO3M6NDoidHlwZSI7czo0OiJjaGF0IjtzOjc6ImNvbnRlbnQiO3M6MToiQiI7czoyOiJpZCI7aTozNzU1O3M6NjoiYXV0aG9yIjtzOjEwOiJjb21ldGNoYXQ5IjtzOjg6ImF1dGhvcmlkIjtpOjU7czo4OiJkYXRlbGluZSI7aToxNDIwNTI0NTE0O319","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":1,"type":"chat","content":"V","id":3756,"author":"cometchat9","authorid":5,"dateline":1420524515}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aToxO3M6NDoidHlwZSI7czo0OiJjaGF0IjtzOjc6ImNvbnRlbnQiO3M6MToiViI7czoyOiJpZCI7aTozNzU2O3M6NjoiYXV0aG9yIjtzOjEwOiJjb21ldGNoYXQ5IjtzOjg6ImF1dGhvcmlkIjtpOjU7czo4OiJkYXRlbGluZSI7aToxNDIwNTI0NTE1O319","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":1,"type":"chat","content":"Bh","id":3757,"author":"cometchat9","authorid":5,"dateline":1420524517}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aToxO3M6NDoidHlwZSI7czo0OiJjaGF0IjtzOjc6ImNvbnRlbnQiO3M6MjoiQmgiO3M6MjoiaWQiO2k6Mzc1NztzOjY6ImF1dGhvciI7czoxMDoiY29tZXRjaGF0OSI7czo4OiJhdXRob3JpZCI7aTo1O3M6ODoiZGF0ZWxpbmUiO2k6MTQyMDUyNDUxNzt9fQ==","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":1,"type":"chat","content":"B","id":3758,"author":"cometchat9","authorid":5,"dateline":1420524518}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aToxO3M6NDoidHlwZSI7czo0OiJjaGF0IjtzOjc6ImNvbnRlbnQiO3M6MToiQiI7czoyOiJpZCI7aTozNzU4O3M6NjoiYXV0aG9yIjtzOjEwOiJjb21ldGNoYXQ5IjtzOjg6ImF1dGhvcmlkIjtpOjU7czo4OiJkYXRlbGluZSI7aToxNDIwNTI0NTE4O319","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":1,"type":"chat","content":"","id":null,"author":"cometchat9","authorid":5,"dateline":1420524519}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aToxO3M6NDoidHlwZSI7czo0OiJjaGF0IjtzOjc6ImNvbnRlbnQiO3M6MDoiIjtzOjI6ImlkIjtOO3M6NjoiYXV0aG9yIjtzOjEwOiJjb21ldGNoYXQ5IjtzOjg6ImF1dGhvcmlkIjtpOjU7czo4OiJkYXRlbGluZSI7aToxNDIwNTI0NTE5O319","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":1,"type":"chat","content":"Bh","id":3759,"author":"cometchat9","authorid":5,"dateline":1420524520}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aToxO3M6NDoidHlwZSI7czo0OiJjaGF0IjtzOjc6ImNvbnRlbnQiO3M6MjoiQmgiO3M6MjoiaWQiO2k6Mzc1OTtzOjY6ImF1dGhvciI7czoxMDoiY29tZXRjaGF0OSI7czo4OiJhdXRob3JpZCI7aTo1O3M6ODoiZGF0ZWxpbmUiO2k6MTQyMDUyNDUyMDt9fQ==","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":5,"type":"chat","content":"121212","id":3760,"author":"admin","authorid":1,"dateline":1420524520}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aTo1O3M6NDoidHlwZSI7czo0OiJjaGF0IjtzOjc6ImNvbnRlbnQiO3M6NjoiMTIxMjEyIjtzOjI6ImlkIjtpOjM3NjA7czo2OiJhdXRob3IiO3M6NToiYWRtaW4iO3M6ODoiYXV0aG9yaWQiO2k6MTtzOjg6ImRhdGVsaW5lIjtpOjE0MjA1MjQ1MjA7fX0=","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":1,"type":"chat","content":"hi","id":3761,"author":"cometchat5","authorid":4,"dateline":1420524521}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aToxO3M6NDoidHlwZSI7czo0OiJjaGF0IjtzOjc6ImNvbnRlbnQiO3M6MjoiaGkiO3M6MjoiaWQiO2k6Mzc2MTtzOjY6ImF1dGhvciI7czoxMDoiY29tZXRjaGF0NSI7czo4OiJhdXRob3JpZCI7aTo0O3M6ODoiZGF0ZWxpbmUiO2k6MTQyMDUyNDUyMTt9fQ==","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":1,"type":"chat","content":"ho","id":3764,"author":"cometchat5","authorid":4,"dateline":1420524545}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aToxO3M6NDoidHlwZSI7czo0OiJjaGF0IjtzOjc6ImNvbnRlbnQiO3M6MjoiaG8iO3M6MjoiaWQiO2k6Mzc2NDtzOjY6ImF1dGhvciI7czoxMDoiY29tZXRjaGF0NSI7czo4OiJhdXRob3JpZCI7aTo0O3M6ODoiZGF0ZWxpbmUiO2k6MTQyMDUyNDU0NTt9fQ==","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":1,"type":"chat","content":"tijgg","id":3767,"author":"cometchat5","authorid":4,"dateline":1420524621}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aToxO3M6NDoidHlwZSI7czo0OiJjaGF0IjtzOjc6ImNvbnRlbnQiO3M6NToidGlqZ2ciO3M6MjoiaWQiO2k6Mzc2NztzOjY6ImF1dGhvciI7czoxMDoiY29tZXRjaGF0NSI7czo4OiJhdXRob3JpZCI7aTo0O3M6ODoiZGF0ZWxpbmUiO2k6MTQyMDUyNDYyMTt9fQ==","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":1,"type":"chat","content":"hi","id":3770,"author":"cometchat5","authorid":4,"dateline":1420524740}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aToxO3M6NDoidHlwZSI7czo0OiJjaGF0IjtzOjc6ImNvbnRlbnQiO3M6MjoiaGkiO3M6MjoiaWQiO2k6Mzc3MDtzOjY6ImF1dGhvciI7czoxMDoiY29tZXRjaGF0NSI7czo4OiJhdXRob3JpZCI7aTo0O3M6ODoiZGF0ZWxpbmUiO2k6MTQyMDUyNDc0MDt9fQ==","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":1,"type":"chat","content":"yhi","id":3773,"author":"cometchat5","authorid":4,"dateline":1420524880}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aToxO3M6NDoidHlwZSI7czo0OiJjaGF0IjtzOjc6ImNvbnRlbnQiO3M6MzoieWhpIjtzOjI6ImlkIjtpOjM3NzM7czo2OiJhdXRob3IiO3M6MTA6ImNvbWV0Y2hhdDUiO3M6ODoiYXV0aG9yaWQiO2k6NDtzOjg6ImRhdGVsaW5lIjtpOjE0MjA1MjQ4ODA7fX0=","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":1,"type":"chat","content":"bhh","id":3774,"author":"cometchat5","authorid":4,"dateline":1420524947}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aToxO3M6NDoidHlwZSI7czo0OiJjaGF0IjtzOjc6ImNvbnRlbnQiO3M6MzoiYmhoIjtzOjI6ImlkIjtpOjM3NzQ7czo2OiJhdXRob3IiO3M6MTA6ImNvbWV0Y2hhdDUiO3M6ODoiYXV0aG9yaWQiO2k6NDtzOjg6ImRhdGVsaW5lIjtpOjE0MjA1MjQ5NDc7fX0=","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":1,"type":"chat","content":"g","id":3777,"author":"cometchat5","authorid":4,"dateline":1420525038}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aToxO3M6NDoidHlwZSI7czo0OiJjaGF0IjtzOjc6ImNvbnRlbnQiO3M6MToiZyI7czoyOiJpZCI7aTozNzc3O3M6NjoiYXV0aG9yIjtzOjEwOiJjb21ldGNoYXQ1IjtzOjg6ImF1dGhvcmlkIjtpOjQ7czo4OiJkYXRlbGluZSI7aToxNDIwNTI1MDM4O319","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":1,"type":"chat","content":"ggk","id":3780,"author":"cometchat5","authorid":4,"dateline":1420525099}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aToxO3M6NDoidHlwZSI7czo0OiJjaGF0IjtzOjc6ImNvbnRlbnQiO3M6MzoiZ2drIjtzOjI6ImlkIjtpOjM3ODA7czo2OiJhdXRob3IiO3M6MTA6ImNvbWV0Y2hhdDUiO3M6ODoiYXV0aG9yaWQiO2k6NDtzOjg6ImRhdGVsaW5lIjtpOjE0MjA1MjUwOTk7fX0=","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":1,"type":"chat","content":"hhhk","id":3783,"author":"cometchat5","authorid":4,"dateline":1420525105}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aToxO3M6NDoidHlwZSI7czo0OiJjaGF0IjtzOjc6ImNvbnRlbnQiO3M6NDoiaGhoayI7czoyOiJpZCI7aTozNzgzO3M6NjoiYXV0aG9yIjtzOjEwOiJjb21ldGNoYXQ1IjtzOjg6ImF1dGhvcmlkIjtpOjQ7czo4OiJkYXRlbGluZSI7aToxNDIwNTI1MTA1O319","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":1,"type":"chat","content":"gggg","id":3786,"author":"cometchat5","authorid":4,"dateline":1420525107}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aToxO3M6NDoidHlwZSI7czo0OiJjaGF0IjtzOjc6ImNvbnRlbnQiO3M6NDoiZ2dnZyI7czoyOiJpZCI7aTozNzg2O3M6NjoiYXV0aG9yIjtzOjEwOiJjb21ldGNoYXQ1IjtzOjg6ImF1dGhvcmlkIjtpOjQ7czo4OiJkYXRlbGluZSI7aToxNDIwNTI1MTA3O319","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":1,"type":"chat","content":"fff","id":3789,"author":"cometchat5","authorid":4,"dateline":1420525109}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aToxO3M6NDoidHlwZSI7czo0OiJjaGF0IjtzOjc6ImNvbnRlbnQiO3M6MzoiZmZmIjtzOjI6ImlkIjtpOjM3ODk7czo2OiJhdXRob3IiO3M6MTA6ImNvbWV0Y2hhdDUiO3M6ODoiYXV0aG9yaWQiO2k6NDtzOjg6ImRhdGVsaW5lIjtpOjE0MjA1MjUxMDk7fX0=","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":1,"type":"chat","content":"cccc","id":3792,"author":"cometchat5","authorid":4,"dateline":1420525111}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aToxO3M6NDoidHlwZSI7czo0OiJjaGF0IjtzOjc6ImNvbnRlbnQiO3M6NDoiY2NjYyI7czoyOiJpZCI7aTozNzkyO3M6NjoiYXV0aG9yIjtzOjEwOiJjb21ldGNoYXQ1IjtzOjg6ImF1dGhvcmlkIjtpOjQ7czo4OiJkYXRlbGluZSI7aToxNDIwNTI1MTExO319","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":1,"type":"chat","content":"jjjj","id":3795,"author":"cometchat5","authorid":4,"dateline":1420525113}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aToxO3M6NDoidHlwZSI7czo0OiJjaGF0IjtzOjc6ImNvbnRlbnQiO3M6NDoiampqaiI7czoyOiJpZCI7aTozNzk1O3M6NjoiYXV0aG9yIjtzOjEwOiJjb21ldGNoYXQ1IjtzOjg6ImF1dGhvcmlkIjtpOjQ7czo4OiJkYXRlbGluZSI7aToxNDIwNTI1MTEzO319","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":1,"type":"chat","content":"cc","id":3798,"author":"cometchat5","authorid":4,"dateline":1420525115}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aToxO3M6NDoidHlwZSI7czo0OiJjaGF0IjtzOjc6ImNvbnRlbnQiO3M6MjoiY2MiO3M6MjoiaWQiO2k6Mzc5ODtzOjY6ImF1dGhvciI7czoxMDoiY29tZXRjaGF0NSI7czo4OiJhdXRob3JpZCI7aTo0O3M6ODoiZGF0ZWxpbmUiO2k6MTQyMDUyNTExNTt9fQ==","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":1,"type":"chat","content":"hi","id":3799,"author":"cometchat5","authorid":4,"dateline":1420525116}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aToxO3M6NDoidHlwZSI7czo0OiJjaGF0IjtzOjc6ImNvbnRlbnQiO3M6MjoiaGkiO3M6MjoiaWQiO2k6Mzc5OTtzOjY6ImF1dGhvciI7czoxMDoiY29tZXRjaGF0NSI7czo4OiJhdXRob3JpZCI7aTo0O3M6ODoiZGF0ZWxpbmUiO2k6MTQyMDUyNTExNjt9fQ==","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":1,"type":"chat","content":"hi","id":3804,"author":"cometchat5","authorid":4,"dateline":1420525119}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aToxO3M6NDoidHlwZSI7czo0OiJjaGF0IjtzOjc6ImNvbnRlbnQiO3M6MjoiaGkiO3M6MjoiaWQiO2k6MzgwNDtzOjY6ImF1dGhvciI7czoxMDoiY29tZXRjaGF0NSI7czo4OiJhdXRob3JpZCI7aTo0O3M6ODoiZGF0ZWxpbmUiO2k6MTQyMDUyNTExOTt9fQ==","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":1,"type":"chat","content":"hi","id":3807,"author":"cometchat5","authorid":4,"dateline":1420525120}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aToxO3M6NDoidHlwZSI7czo0OiJjaGF0IjtzOjc6ImNvbnRlbnQiO3M6MjoiaGkiO3M6MjoiaWQiO2k6MzgwNztzOjY6ImF1dGhvciI7czoxMDoiY29tZXRjaGF0NSI7czo4OiJhdXRob3JpZCI7aTo0O3M6ODoiZGF0ZWxpbmUiO2k6MTQyMDUyNTEyMDt9fQ==","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":1,"type":"chat","content":"hi","id":3810,"author":"cometchat5","authorid":4,"dateline":1420525122}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aToxO3M6NDoidHlwZSI7czo0OiJjaGF0IjtzOjc6ImNvbnRlbnQiO3M6MjoiaGkiO3M6MjoiaWQiO2k6MzgxMDtzOjY6ImF1dGhvciI7czoxMDoiY29tZXRjaGF0NSI7czo4OiJhdXRob3JpZCI7aTo0O3M6ODoiZGF0ZWxpbmUiO2k6MTQyMDUyNTEyMjt9fQ==","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":1,"type":"chat","content":"hi","id":3813,"author":"cometchat5","authorid":4,"dateline":1420525124}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aToxO3M6NDoidHlwZSI7czo0OiJjaGF0IjtzOjc6ImNvbnRlbnQiO3M6MjoiaGkiO3M6MjoiaWQiO2k6MzgxMztzOjY6ImF1dGhvciI7czoxMDoiY29tZXRjaGF0NSI7czo4OiJhdXRob3JpZCI7aTo0O3M6ODoiZGF0ZWxpbmUiO2k6MTQyMDUyNTEyNDt9fQ==","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":1,"type":"chat","content":"nkkj","id":3816,"author":"cometchat5","authorid":4,"dateline":1420525255}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aToxO3M6NDoidHlwZSI7czo0OiJjaGF0IjtzOjc6ImNvbnRlbnQiO3M6NDoibmtraiI7czoyOiJpZCI7aTozODE2O3M6NjoiYXV0aG9yIjtzOjEwOiJjb21ldGNoYXQ1IjtzOjg6ImF1dGhvcmlkIjtpOjQ7czo4OiJkYXRlbGluZSI7aToxNDIwNTI1MjU1O319","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":1,"type":"chat","content":"uui","id":3819,"author":"cometchat5","authorid":4,"dateline":1420525259}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aToxO3M6NDoidHlwZSI7czo0OiJjaGF0IjtzOjc6ImNvbnRlbnQiO3M6MzoidXVpIjtzOjI6ImlkIjtpOjM4MTk7czo2OiJhdXRob3IiO3M6MTA6ImNvbWV0Y2hhdDUiO3M6ODoiYXV0aG9yaWQiO2k6NDtzOjg6ImRhdGVsaW5lIjtpOjE0MjA1MjUyNTk7fX0=","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":1,"type":"chat","content":"hh","id":3822,"author":"cometchat5","authorid":4,"dateline":1420525262}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aToxO3M6NDoidHlwZSI7czo0OiJjaGF0IjtzOjc6ImNvbnRlbnQiO3M6MjoiaGgiO3M6MjoiaWQiO2k6MzgyMjtzOjY6ImF1dGhvciI7czoxMDoiY29tZXRjaGF0NSI7czo4OiJhdXRob3JpZCI7aTo0O3M6ODoiZGF0ZWxpbmUiO2k6MTQyMDUyNTI2Mjt9fQ==","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":1,"type":"chat","content":"hkkn","id":3825,"author":"cometchat5","authorid":4,"dateline":1420525271}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aToxO3M6NDoidHlwZSI7czo0OiJjaGF0IjtzOjc6ImNvbnRlbnQiO3M6NDoiaGtrbiI7czoyOiJpZCI7aTozODI1O3M6NjoiYXV0aG9yIjtzOjEwOiJjb21ldGNoYXQ1IjtzOjg6ImF1dGhvcmlkIjtpOjQ7czo4OiJkYXRlbGluZSI7aToxNDIwNTI1MjcxO319","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":4,"type":"chat","content":"test","id":3828,"author":"admin","authorid":1,"dateline":1420610813}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aTo0O3M6NDoidHlwZSI7czo0OiJjaGF0IjtzOjc6ImNvbnRlbnQiO3M6NDoidGVzdCI7czoyOiJpZCI7aTozODI4O3M6NjoiYXV0aG9yIjtzOjU6ImFkbWluIjtzOjg6ImF1dGhvcmlkIjtpOjE7czo4OiJkYXRlbGluZSI7aToxNDIwNjEwODEzO319","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":4,"type":"chat","content":"lol","id":3837,"author":"admin","authorid":1,"dateline":1420617346}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aTo0O3M6NDoidHlwZSI7czo0OiJjaGF0IjtzOjc6ImNvbnRlbnQiO3M6MzoibG9sIjtzOjI6ImlkIjtpOjM4Mzc7czo2OiJhdXRob3IiO3M6NToiYWRtaW4iO3M6ODoiYXV0aG9yaWQiO2k6MTtzOjg6ImRhdGVsaW5lIjtpOjE0MjA2MTczNDY7fX0=","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":4,"type":"chat","content":"121212","id":3844,"author":"admin","authorid":1,"dateline":1420624323}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aTo0O3M6NDoidHlwZSI7czo0OiJjaGF0IjtzOjc6ImNvbnRlbnQiO3M6NjoiMTIxMjEyIjtzOjI6ImlkIjtpOjM4NDQ7czo2OiJhdXRob3IiO3M6NToiYWRtaW4iO3M6ODoiYXV0aG9yaWQiO2k6MTtzOjg6ImRhdGVsaW5lIjtpOjE0MjA2MjQzMjM7fX0=","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":4,"type":"chat","content":"121","id":3845,"author":"admin","authorid":1,"dateline":1420624325}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aTo0O3M6NDoidHlwZSI7czo0OiJjaGF0IjtzOjc6ImNvbnRlbnQiO3M6MzoiMTIxIjtzOjI6ImlkIjtpOjM4NDU7czo2OiJhdXRob3IiO3M6NToiYWRtaW4iO3M6ODoiYXV0aG9yaWQiO2k6MTtzOjg6ImRhdGVsaW5lIjtpOjE0MjA2MjQzMjU7fX0=","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":4,"type":"chat","content":":expressionless: :sweat_smile: :stuck_out_tongue: :sleeping:","id":3848,"author":"admin","authorid":1,"dateline":1420624395}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aTo0O3M6NDoidHlwZSI7czo0OiJjaGF0IjtzOjc6ImNvbnRlbnQiO3M6NjA6IjpleHByZXNzaW9ubGVzczogOnN3ZWF0X3NtaWxlOiA6c3R1Y2tfb3V0X3Rvbmd1ZTogOnNsZWVwaW5nOiI7czoyOiJpZCI7aTozODQ4O3M6NjoiYXV0aG9yIjtzOjU6ImFkbWluIjtzOjg6ImF1dGhvcmlkIjtpOjE7czo4OiJkYXRlbGluZSI7aToxNDIwNjI0Mzk1O319","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":1,"type":"chat","content":"gu","id":3851,"author":"cometchat5","authorid":4,"dateline":1420631564}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aToxO3M6NDoidHlwZSI7czo0OiJjaGF0IjtzOjc6ImNvbnRlbnQiO3M6MjoiZ3UiO3M6MjoiaWQiO2k6Mzg1MTtzOjY6ImF1dGhvciI7czoxMDoiY29tZXRjaGF0NSI7czo4OiJhdXRob3JpZCI7aTo0O3M6ODoiZGF0ZWxpbmUiO2k6MTQyMDYzMTU2NDt9fQ==","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":1,"type":"chat","content":"gj","id":3854,"author":"cometchat5","authorid":4,"dateline":1420632510}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aToxO3M6NDoidHlwZSI7czo0OiJjaGF0IjtzOjc6ImNvbnRlbnQiO3M6MjoiZ2oiO3M6MjoiaWQiO2k6Mzg1NDtzOjY6ImF1dGhvciI7czoxMDoiY29tZXRjaGF0NSI7czo4OiJhdXRob3JpZCI7aTo0O3M6ODoiZGF0ZWxpbmUiO2k6MTQyMDYzMjUxMDt9fQ==","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":2,"type":"chat","content":"jo","id":3856,"author":"cometchat5","authorid":4,"dateline":1420632862}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aToyO3M6NDoidHlwZSI7czo0OiJjaGF0IjtzOjc6ImNvbnRlbnQiO3M6Mjoiam8iO3M6MjoiaWQiO2k6Mzg1NjtzOjY6ImF1dGhvciI7czoxMDoiY29tZXRjaGF0NSI7czo4OiJhdXRob3JpZCI7aTo0O3M6ODoiZGF0ZWxpbmUiO2k6MTQyMDYzMjg2Mjt9fQ==","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":6,"type":"chat","content":"fu","id":3857,"author":"cometchat5","authorid":4,"dateline":1420633201}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aTo2O3M6NDoidHlwZSI7czo0OiJjaGF0IjtzOjc6ImNvbnRlbnQiO3M6MjoiZnUiO3M6MjoiaWQiO2k6Mzg1NztzOjY6ImF1dGhvciI7czoxMDoiY29tZXRjaGF0NSI7czo4OiJhdXRob3JpZCI7aTo0O3M6ODoiZGF0ZWxpbmUiO2k6MTQyMDYzMzIwMTt9fQ==","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":1,"type":"chat","content":"vk","id":3858,"author":"cometchat5","authorid":4,"dateline":1420633386}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aToxO3M6NDoidHlwZSI7czo0OiJjaGF0IjtzOjc6ImNvbnRlbnQiO3M6MjoidmsiO3M6MjoiaWQiO2k6Mzg1ODtzOjY6ImF1dGhvciI7czoxMDoiY29tZXRjaGF0NSI7czo4OiJhdXRob3JpZCI7aTo0O3M6ODoiZGF0ZWxpbmUiO2k6MTQyMDYzMzM4Njt9fQ==","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":1,"type":"chat","content":"hi","id":3859,"author":"cometchat5","authorid":4,"dateline":1420633400}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aToxO3M6NDoidHlwZSI7czo0OiJjaGF0IjtzOjc6ImNvbnRlbnQiO3M6MjoiaGkiO3M6MjoiaWQiO2k6Mzg1OTtzOjY6ImF1dGhvciI7czoxMDoiY29tZXRjaGF0NSI7czo4OiJhdXRob3JpZCI7aTo0O3M6ODoiZGF0ZWxpbmUiO2k6MTQyMDYzMzQwMDt9fQ==","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":1,"type":"chat","content":"hj","id":3860,"author":"cometchat5","authorid":4,"dateline":1420633661}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aToxO3M6NDoidHlwZSI7czo0OiJjaGF0IjtzOjc6ImNvbnRlbnQiO3M6MjoiaGoiO3M6MjoiaWQiO2k6Mzg2MDtzOjY6ImF1dGhvciI7czoxMDoiY29tZXRjaGF0NSI7czo4OiJhdXRob3JpZCI7aTo0O3M6ODoiZGF0ZWxpbmUiO2k6MTQyMDYzMzY2MTt9fQ==","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":6,"type":"chat","content":"cvj","id":3861,"author":"cometchat5","authorid":4,"dateline":1420633869}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aTo2O3M6NDoidHlwZSI7czo0OiJjaGF0IjtzOjc6ImNvbnRlbnQiO3M6MzoiY3ZqIjtzOjI6ImlkIjtpOjM4NjE7czo2OiJhdXRob3IiO3M6MTA6ImNvbWV0Y2hhdDUiO3M6ODoiYXV0aG9yaWQiO2k6NDtzOjg6ImRhdGVsaW5lIjtpOjE0MjA2MzM4Njk7fX0=","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":6,"type":"chat","content":"bh","id":3862,"author":"cometchat5","authorid":4,"dateline":1420633907}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aTo2O3M6NDoidHlwZSI7czo0OiJjaGF0IjtzOjc6ImNvbnRlbnQiO3M6MjoiYmgiO3M6MjoiaWQiO2k6Mzg2MjtzOjY6ImF1dGhvciI7czoxMDoiY29tZXRjaGF0NSI7czo4OiJhdXRob3JpZCI7aTo0O3M6ODoiZGF0ZWxpbmUiO2k6MTQyMDYzMzkwNzt9fQ==","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":6,"type":"chat","content":"ffhh","id":3863,"author":"cometchat5","authorid":4,"dateline":1420633911}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aTo2O3M6NDoidHlwZSI7czo0OiJjaGF0IjtzOjc6ImNvbnRlbnQiO3M6NDoiZmZoaCI7czoyOiJpZCI7aTozODYzO3M6NjoiYXV0aG9yIjtzOjEwOiJjb21ldGNoYXQ1IjtzOjg6ImF1dGhvcmlkIjtpOjQ7czo4OiJkYXRlbGluZSI7aToxNDIwNjMzOTExO319","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":6,"type":"chat","content":"hdssh","id":3864,"author":"cometchat5","authorid":4,"dateline":1420633915}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aTo2O3M6NDoidHlwZSI7czo0OiJjaGF0IjtzOjc6ImNvbnRlbnQiO3M6NToiaGRzc2giO3M6MjoiaWQiO2k6Mzg2NDtzOjY6ImF1dGhvciI7czoxMDoiY29tZXRjaGF0NSI7czo4OiJhdXRob3JpZCI7aTo0O3M6ODoiZGF0ZWxpbmUiO2k6MTQyMDYzMzkxNTt9fQ==","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":2,"type":"chat","content":"rho","id":3868,"author":"cometchat5","authorid":4,"dateline":1420634363}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aToyO3M6NDoidHlwZSI7czo0OiJjaGF0IjtzOjc6ImNvbnRlbnQiO3M6MzoicmhvIjtzOjI6ImlkIjtpOjM4Njg7czo2OiJhdXRob3IiO3M6MTA6ImNvbWV0Y2hhdDUiO3M6ODoiYXV0aG9yaWQiO2k6NDtzOjg6ImRhdGVsaW5lIjtpOjE0MjA2MzQzNjM7fX0=","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":6,"type":"chat","content":"nj","id":3869,"author":"cometchat5","authorid":4,"dateline":1420634435}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aTo2O3M6NDoidHlwZSI7czo0OiJjaGF0IjtzOjc6ImNvbnRlbnQiO3M6MjoibmoiO3M6MjoiaWQiO2k6Mzg2OTtzOjY6ImF1dGhvciI7czoxMDoiY29tZXRjaGF0NSI7czo4OiJhdXRob3JpZCI7aTo0O3M6ODoiZGF0ZWxpbmUiO2k6MTQyMDYzNDQzNTt9fQ==","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":2,"type":"chat","content":"j","id":3870,"author":"cometchat5","authorid":4,"dateline":1420634523}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aToyO3M6NDoidHlwZSI7czo0OiJjaGF0IjtzOjc6ImNvbnRlbnQiO3M6MToiaiI7czoyOiJpZCI7aTozODcwO3M6NjoiYXV0aG9yIjtzOjEwOiJjb21ldGNoYXQ1IjtzOjg6ImF1dGhvcmlkIjtpOjQ7czo4OiJkYXRlbGluZSI7aToxNDIwNjM0NTIzO319","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":5,"type":"chat","content":"b","id":3871,"author":"cometchat5","authorid":4,"dateline":1420634582}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aTo1O3M6NDoidHlwZSI7czo0OiJjaGF0IjtzOjc6ImNvbnRlbnQiO3M6MToiYiI7czoyOiJpZCI7aTozODcxO3M6NjoiYXV0aG9yIjtzOjEwOiJjb21ldGNoYXQ1IjtzOjg6ImF1dGhvcmlkIjtpOjQ7czo4OiJkYXRlbGluZSI7aToxNDIwNjM0NTgyO319","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":5,"type":"chat","content":"fff I love you so much better if it","id":3872,"author":"cometchat5","authorid":4,"dateline":1420634594}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aTo1O3M6NDoidHlwZSI7czo0OiJjaGF0IjtzOjc6ImNvbnRlbnQiO3M6MzU6ImZmZiBJIGxvdmUgeW91IHNvIG11Y2ggYmV0dGVyIGlmIGl0IjtzOjI6ImlkIjtpOjM4NzI7czo2OiJhdXRob3IiO3M6MTA6ImNvbWV0Y2hhdDUiO3M6ODoiYXV0aG9yaWQiO2k6NDtzOjg6ImRhdGVsaW5lIjtpOjE0MjA2MzQ1OTQ7fX0=","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":6,"type":"chat","content":"I'm not","id":3873,"author":"cometchat5","authorid":4,"dateline":1420634640}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aTo2O3M6NDoidHlwZSI7czo0OiJjaGF0IjtzOjc6ImNvbnRlbnQiO3M6NzoiSSdtIG5vdCI7czoyOiJpZCI7aTozODczO3M6NjoiYXV0aG9yIjtzOjEwOiJjb21ldGNoYXQ1IjtzOjg6ImF1dGhvcmlkIjtpOjQ7czo4OiJkYXRlbGluZSI7aToxNDIwNjM0NjQwO319","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":6,"type":"chat","content":"the new","id":3874,"author":"cometchat5","authorid":4,"dateline":1420634644}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aTo2O3M6NDoidHlwZSI7czo0OiJjaGF0IjtzOjc6ImNvbnRlbnQiO3M6NzoidGhlIG5ldyI7czoyOiJpZCI7aTozODc0O3M6NjoiYXV0aG9yIjtzOjEwOiJjb21ldGNoYXQ1IjtzOjg6ImF1dGhvcmlkIjtpOjQ7czo4OiJkYXRlbGluZSI7aToxNDIwNjM0NjQ0O319","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":6,"type":"chat","content":"I'm so excited to be","id":3875,"author":"cometchat5","authorid":4,"dateline":1420634648}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aTo2O3M6NDoidHlwZSI7czo0OiJjaGF0IjtzOjc6ImNvbnRlbnQiO3M6MjA6IkknbSBzbyBleGNpdGVkIHRvIGJlIjtzOjI6ImlkIjtpOjM4NzU7czo2OiJhdXRob3IiO3M6MTA6ImNvbWV0Y2hhdDUiO3M6ODoiYXV0aG9yaWQiO2k6NDtzOjg6ImRhdGVsaW5lIjtpOjE0MjA2MzQ2NDg7fX0=","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":1,"type":"chat","content":"bb","id":3879,"author":"cometchat5","authorid":4,"dateline":1420634881}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aToxO3M6NDoidHlwZSI7czo0OiJjaGF0IjtzOjc6ImNvbnRlbnQiO3M6MjoiYmIiO3M6MjoiaWQiO2k6Mzg3OTtzOjY6ImF1dGhvciI7czoxMDoiY29tZXRjaGF0NSI7czo4OiJhdXRob3JpZCI7aTo0O3M6ODoiZGF0ZWxpbmUiO2k6MTQyMDYzNDg4MTt9fQ==","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":1,"type":"chat","content":"trdggg","id":3880,"author":"cometchat5","authorid":4,"dateline":1420634886}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aToxO3M6NDoidHlwZSI7czo0OiJjaGF0IjtzOjc6ImNvbnRlbnQiO3M6NjoidHJkZ2dnIjtzOjI6ImlkIjtpOjM4ODA7czo2OiJhdXRob3IiO3M6MTA6ImNvbWV0Y2hhdDUiO3M6ODoiYXV0aG9yaWQiO2k6NDtzOjg6ImRhdGVsaW5lIjtpOjE0MjA2MzQ4ODY7fX0=","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":1,"type":"chat","content":"fffggfggggggg I don't think that","id":3881,"author":"cometchat5","authorid":4,"dateline":1420634892}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aToxO3M6NDoidHlwZSI7czo0OiJjaGF0IjtzOjc6ImNvbnRlbnQiO3M6MzI6ImZmZmdnZmdnZ2dnZ2cgSSBkb24ndCB0aGluayB0aGF0IjtzOjI6ImlkIjtpOjM4ODE7czo2OiJhdXRob3IiO3M6MTA6ImNvbWV0Y2hhdDUiO3M6ODoiYXV0aG9yaWQiO2k6NDtzOjg6ImRhdGVsaW5lIjtpOjE0MjA2MzQ4OTI7fX0=","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":1,"type":"chat","content":"the fact I can get it right away","id":3882,"author":"cometchat5","authorid":4,"dateline":1420634901}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aToxO3M6NDoidHlwZSI7czo0OiJjaGF0IjtzOjc6ImNvbnRlbnQiO3M6MzI6InRoZSBmYWN0IEkgY2FuIGdldCBpdCByaWdodCBhd2F5IjtzOjI6ImlkIjtpOjM4ODI7czo2OiJhdXRob3IiO3M6MTA6ImNvbWV0Y2hhdDUiO3M6ODoiYXV0aG9yaWQiO2k6NDtzOjg6ImRhdGVsaW5lIjtpOjE0MjA2MzQ5MDE7fX0=","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":1,"type":"chat","content":"ggggggggggggg is a great way of the day before I get a follow back on my way home from work to be the","id":3883,"author":"cometchat5","authorid":4,"dateline":1420634926}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aToxO3M6NDoidHlwZSI7czo0OiJjaGF0IjtzOjc6ImNvbnRlbnQiO3M6MTAxOiJnZ2dnZ2dnZ2dnZ2dnIGlzIGEgZ3JlYXQgd2F5IG9mIHRoZSBkYXkgYmVmb3JlIEkgZ2V0IGEgZm9sbG93IGJhY2sgb24gbXkgd2F5IGhvbWUgZnJvbSB3b3JrIHRvIGJlIHRoZSI7czoyOiJpZCI7aTozODgzO3M6NjoiYXV0aG9yIjtzOjEwOiJjb21ldGNoYXQ1IjtzOjg6ImF1dGhvcmlkIjtpOjQ7czo4OiJkYXRlbGluZSI7aToxNDIwNjM0OTI2O319","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":1,"type":"chat","content":"the","id":3884,"author":"cometchat5","authorid":4,"dateline":1420634948}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aToxO3M6NDoidHlwZSI7czo0OiJjaGF0IjtzOjc6ImNvbnRlbnQiO3M6MzoidGhlIjtzOjI6ImlkIjtpOjM4ODQ7czo2OiJhdXRob3IiO3M6MTA6ImNvbWV0Y2hhdDUiO3M6ODoiYXV0aG9yaWQiO2k6NDtzOjg6ImRhdGVsaW5lIjtpOjE0MjA2MzQ5NDg7fX0=","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":6,"type":"chat","content":"the","id":3885,"author":"cometchat5","authorid":4,"dateline":1420634992}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aTo2O3M6NDoidHlwZSI7czo0OiJjaGF0IjtzOjc6ImNvbnRlbnQiO3M6MzoidGhlIjtzOjI6ImlkIjtpOjM4ODU7czo2OiJhdXRob3IiO3M6MTA6ImNvbWV0Y2hhdDUiO3M6ODoiYXV0aG9yaWQiO2k6NDtzOjg6ImRhdGVsaW5lIjtpOjE0MjA2MzQ5OTI7fX0=","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":1,"type":"chat","content":"the","id":3886,"author":"cometchat5","authorid":4,"dateline":1420635080}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aToxO3M6NDoidHlwZSI7czo0OiJjaGF0IjtzOjc6ImNvbnRlbnQiO3M6MzoidGhlIjtzOjI6ImlkIjtpOjM4ODY7czo2OiJhdXRob3IiO3M6MTA6ImNvbWV0Y2hhdDUiO3M6ODoiYXV0aG9yaWQiO2k6NDtzOjg6ImRhdGVsaW5lIjtpOjE0MjA2MzUwODA7fX0=","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":1,"type":"chat","content":"the fact that","id":3887,"author":"cometchat5","authorid":4,"dateline":1420635090}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aToxO3M6NDoidHlwZSI7czo0OiJjaGF0IjtzOjc6ImNvbnRlbnQiO3M6MTM6InRoZSBmYWN0IHRoYXQiO3M6MjoiaWQiO2k6Mzg4NztzOjY6ImF1dGhvciI7czoxMDoiY29tZXRjaGF0NSI7czo4OiJhdXRob3JpZCI7aTo0O3M6ODoiZGF0ZWxpbmUiO2k6MTQyMDYzNTA5MDt9fQ==","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":6,"type":"chat","content":"the","id":3888,"author":"cometchat5","authorid":4,"dateline":1420635232}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aTo2O3M6NDoidHlwZSI7czo0OiJjaGF0IjtzOjc6ImNvbnRlbnQiO3M6MzoidGhlIjtzOjI6ImlkIjtpOjM4ODg7czo2OiJhdXRob3IiO3M6MTA6ImNvbWV0Y2hhdDUiO3M6ODoiYXV0aG9yaWQiO2k6NDtzOjg6ImRhdGVsaW5lIjtpOjE0MjA2MzUyMzI7fX0=","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":1,"type":"chat","content":"the","id":3889,"author":"cometchat5","authorid":4,"dateline":1420635260}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aToxO3M6NDoidHlwZSI7czo0OiJjaGF0IjtzOjc6ImNvbnRlbnQiO3M6MzoidGhlIjtzOjI6ImlkIjtpOjM4ODk7czo2OiJhdXRob3IiO3M6MTA6ImNvbWV0Y2hhdDUiO3M6ODoiYXV0aG9yaWQiO2k6NDtzOjg6ImRhdGVsaW5lIjtpOjE0MjA2MzUyNjA7fX0=","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":1,"type":"chat","content":"I","id":3890,"author":"cometchat5","authorid":4,"dateline":1420635263}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aToxO3M6NDoidHlwZSI7czo0OiJjaGF0IjtzOjc6ImNvbnRlbnQiO3M6MToiSSI7czoyOiJpZCI7aTozODkwO3M6NjoiYXV0aG9yIjtzOjEwOiJjb21ldGNoYXQ1IjtzOjg6ImF1dGhvcmlkIjtpOjQ7czo4OiJkYXRlbGluZSI7aToxNDIwNjM1MjYzO319","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":1,"type":"chat","content":"I don't know how much I hate it","id":3891,"author":"cometchat5","authorid":4,"dateline":1420635277}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aToxO3M6NDoidHlwZSI7czo0OiJjaGF0IjtzOjc6ImNvbnRlbnQiO3M6MzE6IkkgZG9uJ3Qga25vdyBob3cgbXVjaCBJIGhhdGUgaXQiO3M6MjoiaWQiO2k6Mzg5MTtzOjY6ImF1dGhvciI7czoxMDoiY29tZXRjaGF0NSI7czo4OiJhdXRob3JpZCI7aTo0O3M6ODoiZGF0ZWxpbmUiO2k6MTQyMDYzNTI3Nzt9fQ==","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":6,"type":"chat","content":"ho","id":3892,"author":"cometchat5","authorid":4,"dateline":1420635808}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aTo2O3M6NDoidHlwZSI7czo0OiJjaGF0IjtzOjc6ImNvbnRlbnQiO3M6MjoiaG8iO3M6MjoiaWQiO2k6Mzg5MjtzOjY6ImF1dGhvciI7czoxMDoiY29tZXRjaGF0NSI7czo4OiJhdXRob3JpZCI7aTo0O3M6ODoiZGF0ZWxpbmUiO2k6MTQyMDYzNTgwODt9fQ==","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":2,"type":"chat","content":"gu","id":3893,"author":"cometchat5","authorid":4,"dateline":1420635850}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aToyO3M6NDoidHlwZSI7czo0OiJjaGF0IjtzOjc6ImNvbnRlbnQiO3M6MjoiZ3UiO3M6MjoiaWQiO2k6Mzg5MztzOjY6ImF1dGhvciI7czoxMDoiY29tZXRjaGF0NSI7czo4OiJhdXRob3JpZCI7aTo0O3M6ODoiZGF0ZWxpbmUiO2k6MTQyMDYzNTg1MDt9fQ==","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":2,"type":"chat","content":"hkjhhhhhhy I love it so I don't think that I have a great way of the day","id":3894,"author":"cometchat5","authorid":4,"dateline":1420635862}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aToyO3M6NDoidHlwZSI7czo0OiJjaGF0IjtzOjc6ImNvbnRlbnQiO3M6NzI6ImhramhoaGhoaHkgSSBsb3ZlIGl0IHNvIEkgZG9uJ3QgdGhpbmsgdGhhdCBJIGhhdmUgYSBncmVhdCB3YXkgb2YgdGhlIGRheSI7czoyOiJpZCI7aTozODk0O3M6NjoiYXV0aG9yIjtzOjEwOiJjb21ldGNoYXQ1IjtzOjg6ImF1dGhvcmlkIjtpOjQ7czo4OiJkYXRlbGluZSI7aToxNDIwNjM1ODYyO319","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":6,"type":"chat","content":"the only thing that would have to go back and I don't think I can get it right away with the fact I","id":3895,"author":"cometchat5","authorid":4,"dateline":1420635932}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aTo2O3M6NDoidHlwZSI7czo0OiJjaGF0IjtzOjc6ImNvbnRlbnQiO3M6OTk6InRoZSBvbmx5IHRoaW5nIHRoYXQgd291bGQgaGF2ZSB0byBnbyBiYWNrIGFuZCBJIGRvbid0IHRoaW5rIEkgY2FuIGdldCBpdCByaWdodCBhd2F5IHdpdGggdGhlIGZhY3QgSSI7czoyOiJpZCI7aTozODk1O3M6NjoiYXV0aG9yIjtzOjEwOiJjb21ldGNoYXQ1IjtzOjg6ImF1dGhvcmlkIjtpOjQ7czo4OiJkYXRlbGluZSI7aToxNDIwNjM1OTMyO319","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":6,"type":"chat","content":"the only thing that would have","id":3896,"author":"cometchat5","authorid":4,"dateline":1420635944}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aTo2O3M6NDoidHlwZSI7czo0OiJjaGF0IjtzOjc6ImNvbnRlbnQiO3M6MzA6InRoZSBvbmx5IHRoaW5nIHRoYXQgd291bGQgaGF2ZSI7czoyOiJpZCI7aTozODk2O3M6NjoiYXV0aG9yIjtzOjEwOiJjb21ldGNoYXQ1IjtzOjg6ImF1dGhvcmlkIjtpOjQ7czo4OiJkYXRlbGluZSI7aToxNDIwNjM1OTQ0O319","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":6,"type":"chat","content":"the","id":3897,"author":"cometchat5","authorid":4,"dateline":1420635946}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aTo2O3M6NDoidHlwZSI7czo0OiJjaGF0IjtzOjc6ImNvbnRlbnQiO3M6MzoidGhlIjtzOjI6ImlkIjtpOjM4OTc7czo2OiJhdXRob3IiO3M6MTA6ImNvbWV0Y2hhdDUiO3M6ODoiYXV0aG9yaWQiO2k6NDtzOjg6ImRhdGVsaW5lIjtpOjE0MjA2MzU5NDY7fX0=","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":6,"type":"chat","content":"the fact I can see it as an excuse for the next few weeks","id":3898,"author":"cometchat5","authorid":4,"dateline":1420635952}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aTo2O3M6NDoidHlwZSI7czo0OiJjaGF0IjtzOjc6ImNvbnRlbnQiO3M6NTc6InRoZSBmYWN0IEkgY2FuIHNlZSBpdCBhcyBhbiBleGN1c2UgZm9yIHRoZSBuZXh0IGZldyB3ZWVrcyI7czoyOiJpZCI7aTozODk4O3M6NjoiYXV0aG9yIjtzOjEwOiJjb21ldGNoYXQ1IjtzOjg6ImF1dGhvcmlkIjtpOjQ7czo4OiJkYXRlbGluZSI7aToxNDIwNjM1OTUyO319","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":1,"type":"chat","content":"vhj","id":3899,"author":"cometchat5","authorid":4,"dateline":1420636015}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aToxO3M6NDoidHlwZSI7czo0OiJjaGF0IjtzOjc6ImNvbnRlbnQiO3M6MzoidmhqIjtzOjI6ImlkIjtpOjM4OTk7czo2OiJhdXRob3IiO3M6MTA6ImNvbWV0Y2hhdDUiO3M6ODoiYXV0aG9yaWQiO2k6NDtzOjg6ImRhdGVsaW5lIjtpOjE0MjA2MzYwMTU7fX0=","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":1,"type":"chat","content":"tyyujggg I don't know how much you mean to be the first half of the year and","id":3900,"author":"cometchat5","authorid":4,"dateline":1420636025}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aToxO3M6NDoidHlwZSI7czo0OiJjaGF0IjtzOjc6ImNvbnRlbnQiO3M6NzY6InR5eXVqZ2dnIEkgZG9uJ3Qga25vdyBob3cgbXVjaCB5b3UgbWVhbiB0byBiZSB0aGUgZmlyc3QgaGFsZiBvZiB0aGUgeWVhciBhbmQiO3M6MjoiaWQiO2k6MzkwMDtzOjY6ImF1dGhvciI7czoxMDoiY29tZXRjaGF0NSI7czo4OiJhdXRob3JpZCI7aTo0O3M6ODoiZGF0ZWxpbmUiO2k6MTQyMDYzNjAyNTt9fQ==","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":1,"type":"chat","content":"the fact I have a good time with the fact I can see it as an excuse","id":3901,"author":"cometchat5","authorid":4,"dateline":1420636032}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aToxO3M6NDoidHlwZSI7czo0OiJjaGF0IjtzOjc6ImNvbnRlbnQiO3M6Njc6InRoZSBmYWN0IEkgaGF2ZSBhIGdvb2QgdGltZSB3aXRoIHRoZSBmYWN0IEkgY2FuIHNlZSBpdCBhcyBhbiBleGN1c2UiO3M6MjoiaWQiO2k6MzkwMTtzOjY6ImF1dGhvciI7czoxMDoiY29tZXRjaGF0NSI7czo4OiJhdXRob3JpZCI7aTo0O3M6ODoiZGF0ZWxpbmUiO2k6MTQyMDYzNjAzMjt9fQ==","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":1,"type":"chat","content":"h","id":3902,"author":"cometchat5","authorid":4,"dateline":1420636431}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aToxO3M6NDoidHlwZSI7czo0OiJjaGF0IjtzOjc6ImNvbnRlbnQiO3M6MToiaCI7czoyOiJpZCI7aTozOTAyO3M6NjoiYXV0aG9yIjtzOjEwOiJjb21ldGNoYXQ1IjtzOjg6ImF1dGhvcmlkIjtpOjQ7czo4OiJkYXRlbGluZSI7aToxNDIwNjM2NDMxO319","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":1,"type":"chat","content":"hhssifff","id":3903,"author":"cometchat5","authorid":4,"dateline":1420636436}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aToxO3M6NDoidHlwZSI7czo0OiJjaGF0IjtzOjc6ImNvbnRlbnQiO3M6ODoiaGhzc2lmZmYiO3M6MjoiaWQiO2k6MzkwMztzOjY6ImF1dGhvciI7czoxMDoiY29tZXRjaGF0NSI7czo4OiJhdXRob3JpZCI7aTo0O3M6ODoiZGF0ZWxpbmUiO2k6MTQyMDYzNjQzNjt9fQ==","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":2,"type":"chat","content":"hj","id":3904,"author":"cometchat5","authorid":4,"dateline":1420636500}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aToyO3M6NDoidHlwZSI7czo0OiJjaGF0IjtzOjc6ImNvbnRlbnQiO3M6MjoiaGoiO3M6MjoiaWQiO2k6MzkwNDtzOjY6ImF1dGhvciI7czoxMDoiY29tZXRjaGF0NSI7czo4OiJhdXRob3JpZCI7aTo0O3M6ODoiZGF0ZWxpbmUiO2k6MTQyMDYzNjUwMDt9fQ==","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":5,"type":"chat","content":"hi","id":3905,"author":"cometchat5","authorid":4,"dateline":1420636733}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aTo1O3M6NDoidHlwZSI7czo0OiJjaGF0IjtzOjc6ImNvbnRlbnQiO3M6MjoiaGkiO3M6MjoiaWQiO2k6MzkwNTtzOjY6ImF1dGhvciI7czoxMDoiY29tZXRjaGF0NSI7czo4OiJhdXRob3JpZCI7aTo0O3M6ODoiZGF0ZWxpbmUiO2k6MTQyMDYzNjczMzt9fQ==","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":5,"type":"chat","content":"very easy to use it for a while ago but it was the best of the","id":3906,"author":"cometchat5","authorid":4,"dateline":1420636740}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aTo1O3M6NDoidHlwZSI7czo0OiJjaGF0IjtzOjc6ImNvbnRlbnQiO3M6NjI6InZlcnkgZWFzeSB0byB1c2UgaXQgZm9yIGEgd2hpbGUgYWdvIGJ1dCBpdCB3YXMgdGhlIGJlc3Qgb2YgdGhlIjtzOjI6ImlkIjtpOjM5MDY7czo2OiJhdXRob3IiO3M6MTA6ImNvbWV0Y2hhdDUiO3M6ODoiYXV0aG9yaWQiO2k6NDtzOjg6ImRhdGVsaW5lIjtpOjE0MjA2MzY3NDA7fX0=","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":5,"type":"chat","content":"the new version is better then that I have a great way for me and I","id":3907,"author":"cometchat5","authorid":4,"dateline":1420636750}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aTo1O3M6NDoidHlwZSI7czo0OiJjaGF0IjtzOjc6ImNvbnRlbnQiO3M6Njc6InRoZSBuZXcgdmVyc2lvbiBpcyBiZXR0ZXIgdGhlbiB0aGF0IEkgaGF2ZSBhIGdyZWF0IHdheSBmb3IgbWUgYW5kIEkiO3M6MjoiaWQiO2k6MzkwNztzOjY6ImF1dGhvciI7czoxMDoiY29tZXRjaGF0NSI7czo4OiJhdXRob3JpZCI7aTo0O3M6ODoiZGF0ZWxpbmUiO2k6MTQyMDYzNjc1MDt9fQ==","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":5,"type":"chat","content":"I'm so excited to be uuurr","id":3908,"author":"cometchat5","authorid":4,"dateline":1420636761}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aTo1O3M6NDoidHlwZSI7czo0OiJjaGF0IjtzOjc6ImNvbnRlbnQiO3M6MjY6IkknbSBzbyBleGNpdGVkIHRvIGJlIHV1dXJyIjtzOjI6ImlkIjtpOjM5MDg7czo2OiJhdXRob3IiO3M6MTA6ImNvbWV0Y2hhdDUiO3M6ODoiYXV0aG9yaWQiO2k6NDtzOjg6ImRhdGVsaW5lIjtpOjE0MjA2MzY3NjE7fX0=","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":5,"type":"chat","content":"the fact I can get it right away with the","id":3909,"author":"cometchat5","authorid":4,"dateline":1420636778}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aTo1O3M6NDoidHlwZSI7czo0OiJjaGF0IjtzOjc6ImNvbnRlbnQiO3M6NDE6InRoZSBmYWN0IEkgY2FuIGdldCBpdCByaWdodCBhd2F5IHdpdGggdGhlIjtzOjI6ImlkIjtpOjM5MDk7czo2OiJhdXRob3IiO3M6MTA6ImNvbWV0Y2hhdDUiO3M6ODoiYXV0aG9yaWQiO2k6NDtzOjg6ImRhdGVsaW5lIjtpOjE0MjA2MzY3Nzg7fX0=","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":1,"type":"chat","content":"bk","id":3910,"author":"cometchat5","authorid":4,"dateline":1420636828}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aToxO3M6NDoidHlwZSI7czo0OiJjaGF0IjtzOjc6ImNvbnRlbnQiO3M6MjoiYmsiO3M6MjoiaWQiO2k6MzkxMDtzOjY6ImF1dGhvciI7czoxMDoiY29tZXRjaGF0NSI7czo4OiJhdXRob3JpZCI7aTo0O3M6ODoiZGF0ZWxpbmUiO2k6MTQyMDYzNjgyODt9fQ==","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":1,"type":"chat","content":"bk","id":3911,"author":"cometchat5","authorid":4,"dateline":1420637335}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aToxO3M6NDoidHlwZSI7czo0OiJjaGF0IjtzOjc6ImNvbnRlbnQiO3M6MjoiYmsiO3M6MjoiaWQiO2k6MzkxMTtzOjY6ImF1dGhvciI7czoxMDoiY29tZXRjaGF0NSI7czo4OiJhdXRob3JpZCI7aTo0O3M6ODoiZGF0ZWxpbmUiO2k6MTQyMDYzNzMzNTt9fQ==","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":1,"type":"chat","content":"hhjj","id":3912,"author":"cometchat5","authorid":4,"dateline":1420637342}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aToxO3M6NDoidHlwZSI7czo0OiJjaGF0IjtzOjc6ImNvbnRlbnQiO3M6NDoiaGhqaiI7czoyOiJpZCI7aTozOTEyO3M6NjoiYXV0aG9yIjtzOjEwOiJjb21ldGNoYXQ1IjtzOjg6ImF1dGhvcmlkIjtpOjQ7czo4OiJkYXRlbGluZSI7aToxNDIwNjM3MzQyO319","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":1,"type":"chat","content":"tedf","id":3913,"author":"cometchat5","authorid":4,"dateline":1420637343}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aToxO3M6NDoidHlwZSI7czo0OiJjaGF0IjtzOjc6ImNvbnRlbnQiO3M6NDoidGVkZiI7czoyOiJpZCI7aTozOTEzO3M6NjoiYXV0aG9yIjtzOjEwOiJjb21ldGNoYXQ1IjtzOjg6ImF1dGhvcmlkIjtpOjQ7czo4OiJkYXRlbGluZSI7aToxNDIwNjM3MzQzO319","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":6,"type":"chat","content":"gkl","id":3914,"author":"cometchat5","authorid":4,"dateline":1420637382}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aTo2O3M6NDoidHlwZSI7czo0OiJjaGF0IjtzOjc6ImNvbnRlbnQiO3M6MzoiZ2tsIjtzOjI6ImlkIjtpOjM5MTQ7czo2OiJhdXRob3IiO3M6MTA6ImNvbWV0Y2hhdDUiO3M6ODoiYXV0aG9yaWQiO2k6NDtzOjg6ImRhdGVsaW5lIjtpOjE0MjA2MzczODI7fX0=","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":6,"type":"chat","content":"the new","id":3915,"author":"cometchat5","authorid":4,"dateline":1420637385}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aTo2O3M6NDoidHlwZSI7czo0OiJjaGF0IjtzOjc6ImNvbnRlbnQiO3M6NzoidGhlIG5ldyI7czoyOiJpZCI7aTozOTE1O3M6NjoiYXV0aG9yIjtzOjEwOiJjb21ldGNoYXQ1IjtzOjg6ImF1dGhvcmlkIjtpOjQ7czo4OiJkYXRlbGluZSI7aToxNDIwNjM3Mzg1O319","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":6,"type":"chat","content":"jo","id":3916,"author":"cometchat5","authorid":4,"dateline":1420637389}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aTo2O3M6NDoidHlwZSI7czo0OiJjaGF0IjtzOjc6ImNvbnRlbnQiO3M6Mjoiam8iO3M6MjoiaWQiO2k6MzkxNjtzOjY6ImF1dGhvciI7czoxMDoiY29tZXRjaGF0NSI7czo4OiJhdXRob3JpZCI7aTo0O3M6ODoiZGF0ZWxpbmUiO2k6MTQyMDYzNzM4OTt9fQ==","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":6,"type":"chat","content":"gij","id":3917,"author":"cometchat5","authorid":4,"dateline":1420637408}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aTo2O3M6NDoidHlwZSI7czo0OiJjaGF0IjtzOjc6ImNvbnRlbnQiO3M6MzoiZ2lqIjtzOjI6ImlkIjtpOjM5MTc7czo2OiJhdXRob3IiO3M6MTA6ImNvbWV0Y2hhdDUiO3M6ODoiYXV0aG9yaWQiO2k6NDtzOjg6ImRhdGVsaW5lIjtpOjE0MjA2Mzc0MDg7fX0=","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":7,"type":"chat","content":"hi william","id":3928,"author":"mintapatalk","authorid":10,"dateline":1420708922}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aTo3O3M6NDoidHlwZSI7czo0OiJjaGF0IjtzOjc6ImNvbnRlbnQiO3M6MTA6ImhpIHdpbGxpYW0iO3M6MjoiaWQiO2k6MzkyODtzOjY6ImF1dGhvciI7czoxMToibWludGFwYXRhbGsiO3M6ODoiYXV0aG9yaWQiO2k6MTA7czo4OiJkYXRlbGluZSI7aToxNDIwNzA4OTIyO319","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":7,"type":"chat","content":"how are you?","id":3929,"author":"mintapatalk","authorid":10,"dateline":1420708924}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aTo3O3M6NDoidHlwZSI7czo0OiJjaGF0IjtzOjc6ImNvbnRlbnQiO3M6MTI6ImhvdyBhcmUgeW91PyI7czoyOiJpZCI7aTozOTI5O3M6NjoiYXV0aG9yIjtzOjExOiJtaW50YXBhdGFsayI7czo4OiJhdXRob3JpZCI7aToxMDtzOjg6ImRhdGVsaW5lIjtpOjE0MjA3MDg5MjQ7fX0=","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":11,"type":"chat","content":"yo yo ken","id":3930,"author":"mintapatalk","authorid":10,"dateline":1420708948}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aToxMTtzOjQ6InR5cGUiO3M6NDoiY2hhdCI7czo3OiJjb250ZW50IjtzOjk6InlvIHlvIGtlbiI7czoyOiJpZCI7aTozOTMwO3M6NjoiYXV0aG9yIjtzOjExOiJtaW50YXBhdGFsayI7czo4OiJhdXRob3JpZCI7aToxMDtzOjg6ImRhdGVsaW5lIjtpOjE0MjA3MDg5NDg7fX0=","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":11,"type":"chat","content":":neutral_face:","id":3931,"author":"mintapatalk","authorid":10,"dateline":1420708957}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aToxMTtzOjQ6InR5cGUiO3M6NDoiY2hhdCI7czo3OiJjb250ZW50IjtzOjE0OiI6bmV1dHJhbF9mYWNlOiI7czoyOiJpZCI7aTozOTMxO3M6NjoiYXV0aG9yIjtzOjExOiJtaW50YXBhdGFsayI7czo4OiJhdXRob3JpZCI7aToxMDtzOjg6ImRhdGVsaW5lIjtpOjE0MjA3MDg5NTc7fX0=","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":1,"type":"chat","content":"hey man","id":3934,"author":"mintapatalk","authorid":10,"dateline":1420772231}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aToxO3M6NDoidHlwZSI7czo0OiJjaGF0IjtzOjc6ImNvbnRlbnQiO3M6NzoiaGV5IG1hbiI7czoyOiJpZCI7aTozOTM0O3M6NjoiYXV0aG9yIjtzOjExOiJtaW50YXBhdGFsayI7czo4OiJhdXRob3JpZCI7aToxMDtzOjg6ImRhdGVsaW5lIjtpOjE0MjA3NzIyMzE7fX0=","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":10,"type":"chat","content":"Oh wow","id":3935,"author":"admin","authorid":1,"dateline":1420772245}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aToxMDtzOjQ6InR5cGUiO3M6NDoiY2hhdCI7czo3OiJjb250ZW50IjtzOjY6Ik9oIHdvdyI7czoyOiJpZCI7aTozOTM1O3M6NjoiYXV0aG9yIjtzOjU6ImFkbWluIjtzOjg6ImF1dGhvcmlkIjtpOjE7czo4OiJkYXRlbGluZSI7aToxNDIwNzcyMjQ1O319","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":10,"type":"chat","content":"Nice job","id":3936,"author":"admin","authorid":1,"dateline":1420772255}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aToxMDtzOjQ6InR5cGUiO3M6NDoiY2hhdCI7czo3OiJjb250ZW50IjtzOjg6Ik5pY2Ugam9iIjtzOjI6ImlkIjtpOjM5MzY7czo2OiJhdXRob3IiO3M6NToiYWRtaW4iO3M6ODoiYXV0aG9yaWQiO2k6MTtzOjg6ImRhdGVsaW5lIjtpOjE0MjA3NzIyNTU7fX0=","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":10,"type":"chat","content":"This is looking really good","id":3937,"author":"admin","authorid":1,"dateline":1420772270}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aToxMDtzOjQ6InR5cGUiO3M6NDoiY2hhdCI7czo3OiJjb250ZW50IjtzOjI3OiJUaGlzIGlzIGxvb2tpbmcgcmVhbGx5IGdvb2QiO3M6MjoiaWQiO2k6MzkzNztzOjY6ImF1dGhvciI7czo1OiJhZG1pbiI7czo4OiJhdXRob3JpZCI7aToxO3M6ODoiZGF0ZWxpbmUiO2k6MTQyMDc3MjI3MDt9fQ==","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":1,"type":"chat","content":"yeah, for sure","id":3938,"author":"mintapatalk","authorid":10,"dateline":1420772282}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aToxO3M6NDoidHlwZSI7czo0OiJjaGF0IjtzOjc6ImNvbnRlbnQiO3M6MTQ6InllYWgsIGZvciBzdXJlIjtzOjI6ImlkIjtpOjM5Mzg7czo2OiJhdXRob3IiO3M6MTE6Im1pbnRhcGF0YWxrIjtzOjg6ImF1dGhvcmlkIjtpOjEwO3M6ODoiZGF0ZWxpbmUiO2k6MTQyMDc3MjI4Mjt9fQ==","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":1,"type":"chat","content":"lemme see","id":3939,"author":"mintapatalk","authorid":10,"dateline":1420772415}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aToxO3M6NDoidHlwZSI7czo0OiJjaGF0IjtzOjc6ImNvbnRlbnQiO3M6OToibGVtbWUgc2VlIjtzOjI6ImlkIjtpOjM5Mzk7czo2OiJhdXRob3IiO3M6MTE6Im1pbnRhcGF0YWxrIjtzOjg6ImF1dGhvcmlkIjtpOjEwO3M6ODoiZGF0ZWxpbmUiO2k6MTQyMDc3MjQxNTt9fQ==","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":1,"type":"chat","content":"try again","id":3940,"author":"mintapatalk","authorid":10,"dateline":1420772444}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aToxO3M6NDoidHlwZSI7czo0OiJjaGF0IjtzOjc6ImNvbnRlbnQiO3M6OToidHJ5IGFnYWluIjtzOjI6ImlkIjtpOjM5NDA7czo2OiJhdXRob3IiO3M6MTE6Im1pbnRhcGF0YWxrIjtzOjg6ImF1dGhvcmlkIjtpOjEwO3M6ODoiZGF0ZWxpbmUiO2k6MTQyMDc3MjQ0NDt9fQ==","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":21,"type":"chat","content":"test","id":3941,"author":"luosheng","authorid":20,"dateline":1420772750}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aToyMTtzOjQ6InR5cGUiO3M6NDoiY2hhdCI7czo3OiJjb250ZW50IjtzOjQ6InRlc3QiO3M6MjoiaWQiO2k6Mzk0MTtzOjY6ImF1dGhvciI7czo4OiJsdW9zaGVuZyI7czo4OiJhdXRob3JpZCI7aToyMDtzOjg6ImRhdGVsaW5lIjtpOjE0MjA3NzI3NTA7fX0=","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":1,"type":"chat","content":"hello again","id":3942,"author":"mintapatalk","authorid":10,"dateline":1420772906}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aToxO3M6NDoidHlwZSI7czo0OiJjaGF0IjtzOjc6ImNvbnRlbnQiO3M6MTE6ImhlbGxvIGFnYWluIjtzOjI6ImlkIjtpOjM5NDI7czo2OiJhdXRob3IiO3M6MTE6Im1pbnRhcGF0YWxrIjtzOjg6ImF1dGhvcmlkIjtpOjEwO3M6ODoiZGF0ZWxpbmUiO2k6MTQyMDc3MjkwNjt9fQ==","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":1,"type":"chat","content":"hi ya","id":3943,"author":"mintapatalk","authorid":10,"dateline":1420773016}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aToxO3M6NDoidHlwZSI7czo0OiJjaGF0IjtzOjc6ImNvbnRlbnQiO3M6NToiaGkgeWEiO3M6MjoiaWQiO2k6Mzk0MztzOjY6ImF1dGhvciI7czoxMToibWludGFwYXRhbGsiO3M6ODoiYXV0aG9yaWQiO2k6MTA7czo4OiJkYXRlbGluZSI7aToxNDIwNzczMDE2O319","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":10,"type":"chat","content":"Yo mang","id":3944,"author":"admin","authorid":1,"dateline":1420773050}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aToxMDtzOjQ6InR5cGUiO3M6NDoiY2hhdCI7czo3OiJjb250ZW50IjtzOjc6IllvIG1hbmciO3M6MjoiaWQiO2k6Mzk0NDtzOjY6ImF1dGhvciI7czo1OiJhZG1pbiI7czo4OiJhdXRob3JpZCI7aToxO3M6ODoiZGF0ZWxpbmUiO2k6MTQyMDc3MzA1MDt9fQ==","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":1,"type":"chat","content":"woooow","id":3945,"author":"mintapatalk","authorid":10,"dateline":1420774069}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aToxO3M6NDoidHlwZSI7czo0OiJjaGF0IjtzOjc6ImNvbnRlbnQiO3M6Njoid29vb293IjtzOjI6ImlkIjtpOjM5NDU7czo2OiJhdXRob3IiO3M6MTE6Im1pbnRhcGF0YWxrIjtzOjg6ImF1dGhvcmlkIjtpOjEwO3M6ODoiZGF0ZWxpbmUiO2k6MTQyMDc3NDA2OTt9fQ==","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":4,"type":"chat","content":"Test","id":3946,"author":"admin","authorid":1,"dateline":1420780023}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aTo0O3M6NDoidHlwZSI7czo0OiJjaGF0IjtzOjc6ImNvbnRlbnQiO3M6NDoiVGVzdCI7czoyOiJpZCI7aTozOTQ2O3M6NjoiYXV0aG9yIjtzOjU6ImFkbWluIjtzOjg6ImF1dGhvcmlkIjtpOjE7czo4OiJkYXRlbGluZSI7aToxNDIwNzgwMDIzO319","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":2,"type":"chat","content":"Hello","id":3947,"author":"admin","authorid":1,"dateline":1420780093}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aToyO3M6NDoidHlwZSI7czo0OiJjaGF0IjtzOjc6ImNvbnRlbnQiO3M6NToiSGVsbG8iO3M6MjoiaWQiO2k6Mzk0NztzOjY6ImF1dGhvciI7czo1OiJhZG1pbiI7czo4OiJhdXRob3JpZCI7aToxO3M6ODoiZGF0ZWxpbmUiO2k6MTQyMDc4MDA5Mzt9fQ==","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":1,"type":"chat","content":"Hi","id":3948,"author":"cometchat1","authorid":2,"dateline":1420780102}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aToxO3M6NDoidHlwZSI7czo0OiJjaGF0IjtzOjc6ImNvbnRlbnQiO3M6MjoiSGkiO3M6MjoiaWQiO2k6Mzk0ODtzOjY6ImF1dGhvciI7czoxMDoiY29tZXRjaGF0MSI7czo4OiJhdXRob3JpZCI7aToyO3M6ODoiZGF0ZWxpbmUiO2k6MTQyMDc4MDEwMjt9fQ==","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":2,"type":"chat","content":":flushed: :flushed: :flushed: :alien: :smiling_imp: :neckbeard: :dizzy_face: :u6307: :no_entry_sign: :do_not_litter:","id":3949,"author":"admin","authorid":1,"dateline":1420780118}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aToyO3M6NDoidHlwZSI7czo0OiJjaGF0IjtzOjc6ImNvbnRlbnQiO3M6MTE2OiI6Zmx1c2hlZDogOmZsdXNoZWQ6IDpmbHVzaGVkOiA6YWxpZW46IDpzbWlsaW5nX2ltcDogOm5lY2tiZWFyZDogOmRpenp5X2ZhY2U6IDp1NjMwNzogOm5vX2VudHJ5X3NpZ246IDpkb19ub3RfbGl0dGVyOiI7czoyOiJpZCI7aTozOTQ5O3M6NjoiYXV0aG9yIjtzOjU6ImFkbWluIjtzOjg6ImF1dGhvcmlkIjtpOjE7czo4OiJkYXRlbGluZSI7aToxNDIwNzgwMTE4O319","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":1,"type":"chat","content":"hi there","id":3952,"author":"mintapatalk","authorid":10,"dateline":1420782351}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aToxO3M6NDoidHlwZSI7czo0OiJjaGF0IjtzOjc6ImNvbnRlbnQiO3M6ODoiaGkgdGhlcmUiO3M6MjoiaWQiO2k6Mzk1MjtzOjY6ImF1dGhvciI7czoxMToibWludGFwYXRhbGsiO3M6ODoiYXV0aG9yaWQiO2k6MTA7czo4OiJkYXRlbGluZSI7aToxNDIwNzgyMzUxO319","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":10,"type":"chat","content":"hi","id":3953,"author":"admin","authorid":1,"dateline":1420782363}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aToxMDtzOjQ6InR5cGUiO3M6NDoiY2hhdCI7czo3OiJjb250ZW50IjtzOjI6ImhpIjtzOjI6ImlkIjtpOjM5NTM7czo2OiJhdXRob3IiO3M6NToiYWRtaW4iO3M6ODoiYXV0aG9yaWQiO2k6MTtzOjg6ImRhdGVsaW5lIjtpOjE0MjA3ODIzNjM7fX0=","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":1,"type":"chat","content":"who's this?","id":3954,"author":"mintapatalk","authorid":10,"dateline":1420782450}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aToxO3M6NDoidHlwZSI7czo0OiJjaGF0IjtzOjc6ImNvbnRlbnQiO3M6MTE6IndobydzIHRoaXM\/IjtzOjI6ImlkIjtpOjM5NTQ7czo2OiJhdXRob3IiO3M6MTE6Im1pbnRhcGF0YWxrIjtzOjg6ImF1dGhvcmlkIjtpOjEwO3M6ODoiZGF0ZWxpbmUiO2k6MTQyMDc4MjQ1MDt9fQ==","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":10,"type":"chat","content":"This is Vivek.","id":3955,"author":"admin","authorid":1,"dateline":1420782497}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aToxMDtzOjQ6InR5cGUiO3M6NDoiY2hhdCI7czo3OiJjb250ZW50IjtzOjE0OiJUaGlzIGlzIFZpdmVrLiI7czoyOiJpZCI7aTozOTU1O3M6NjoiYXV0aG9yIjtzOjU6ImFkbWluIjtzOjg6ImF1dGhvcmlkIjtpOjE7czo4OiJkYXRlbGluZSI7aToxNDIwNzgyNDk3O319","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":1,"type":"chat","content":"i see, you're signed in as Admin","id":3956,"author":"mintapatalk","authorid":10,"dateline":1420782516}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aToxO3M6NDoidHlwZSI7czo0OiJjaGF0IjtzOjc6ImNvbnRlbnQiO3M6MzI6Imkgc2VlLCB5b3UncmUgc2lnbmVkIGluIGFzIEFkbWluIjtzOjI6ImlkIjtpOjM5NTY7czo2OiJhdXRob3IiO3M6MTE6Im1pbnRhcGF0YWxrIjtzOjg6ImF1dGhvcmlkIjtpOjEwO3M6ODoiZGF0ZWxpbmUiO2k6MTQyMDc4MjUxNjt9fQ==","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":1,"type":"chat","content":"i'm also signed as Admin on our mobile app","id":3957,"author":"mintapatalk","authorid":10,"dateline":1420782533}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aToxO3M6NDoidHlwZSI7czo0OiJjaGF0IjtzOjc6ImNvbnRlbnQiO3M6NDI6ImknbSBhbHNvIHNpZ25lZCBhcyBBZG1pbiBvbiBvdXIgbW9iaWxlIGFwcCI7czoyOiJpZCI7aTozOTU3O3M6NjoiYXV0aG9yIjtzOjExOiJtaW50YXBhdGFsayI7czo4OiJhdXRob3JpZCI7aToxMDtzOjg6ImRhdGVsaW5lIjtpOjE0MjA3ODI1MzM7fX0=","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":10,"type":"chat","content":"yes.Should i log out?","id":3958,"author":"admin","authorid":1,"dateline":1420782548}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aToxMDtzOjQ6InR5cGUiO3M6NDoiY2hhdCI7czo3OiJjb250ZW50IjtzOjIxOiJ5ZXMuU2hvdWxkIGkgbG9nIG91dD8iO3M6MjoiaWQiO2k6Mzk1ODtzOjY6ImF1dGhvciI7czo1OiJhZG1pbiI7czo4OiJhdXRob3JpZCI7aToxO3M6ODoiZGF0ZWxpbmUiO2k6MTQyMDc4MjU0ODt9fQ==","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":1,"type":"chat","content":"and its getting confused with the routing","id":3959,"author":"mintapatalk","authorid":10,"dateline":1420782552}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aToxO3M6NDoidHlwZSI7czo0OiJjaGF0IjtzOjc6ImNvbnRlbnQiO3M6NDE6ImFuZCBpdHMgZ2V0dGluZyBjb25mdXNlZCB3aXRoIHRoZSByb3V0aW5nIjtzOjI6ImlkIjtpOjM5NTk7czo2OiJhdXRob3IiO3M6MTE6Im1pbnRhcGF0YWxrIjtzOjg6ImF1dGhvcmlkIjtpOjEwO3M6ODoiZGF0ZWxpbmUiO2k6MTQyMDc4MjU1Mjt9fQ==","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":1,"type":"chat","content":"yes, please.  Thank you.  :smiley:","id":3960,"author":"mintapatalk","authorid":10,"dateline":1420782580}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aToxO3M6NDoidHlwZSI7czo0OiJjaGF0IjtzOjc6ImNvbnRlbnQiO3M6MzQ6InllcywgcGxlYXNlLiAgVGhhbmsgeW91LiAgOnNtaWxleToiO3M6MjoiaWQiO2k6Mzk2MDtzOjY6ImF1dGhvciI7czoxMToibWludGFwYXRhbGsiO3M6ODoiYXV0aG9yaWQiO2k6MTA7czo4OiJkYXRlbGluZSI7aToxNDIwNzgyNTgwO319","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":10,"type":"chat","content":"i will login as cometchat1.You can contact me there","id":3961,"author":"admin","authorid":1,"dateline":1420782608}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aToxMDtzOjQ6InR5cGUiO3M6NDoiY2hhdCI7czo3OiJjb250ZW50IjtzOjUxOiJpIHdpbGwgbG9naW4gYXMgY29tZXRjaGF0MS5Zb3UgY2FuIGNvbnRhY3QgbWUgdGhlcmUiO3M6MjoiaWQiO2k6Mzk2MTtzOjY6ImF1dGhvciI7czo1OiJhZG1pbiI7czo4OiJhdXRob3JpZCI7aToxO3M6ODoiZGF0ZWxpbmUiO2k6MTQyMDc4MjYwODt9fQ==","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":1,"type":"chat","content":"ok great","id":3962,"author":"mintapatalk","authorid":10,"dateline":1420782632}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aToxO3M6NDoidHlwZSI7czo0OiJjaGF0IjtzOjc6ImNvbnRlbnQiO3M6ODoib2sgZ3JlYXQiO3M6MjoiaWQiO2k6Mzk2MjtzOjY6ImF1dGhvciI7czoxMToibWludGFwYXRhbGsiO3M6ODoiYXV0aG9yaWQiO2k6MTA7czo4OiJkYXRlbGluZSI7aToxNDIwNzgyNjMyO319","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":1,"type":"chat","content":"thank you vivek","id":3963,"author":"mintapatalk","authorid":10,"dateline":1420782637}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aToxO3M6NDoidHlwZSI7czo0OiJjaGF0IjtzOjc6ImNvbnRlbnQiO3M6MTU6InRoYW5rIHlvdSB2aXZlayI7czoyOiJpZCI7aTozOTYzO3M6NjoiYXV0aG9yIjtzOjExOiJtaW50YXBhdGFsayI7czo4OiJhdXRob3JpZCI7aToxMDtzOjg6ImRhdGVsaW5lIjtpOjE0MjA3ODI2Mzc7fX0=","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":1,"type":"chat","content":"hello","id":3964,"author":"mintapatalk","authorid":10,"dateline":1420782982}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aToxO3M6NDoidHlwZSI7czo0OiJjaGF0IjtzOjc6ImNvbnRlbnQiO3M6NToiaGVsbG8iO3M6MjoiaWQiO2k6Mzk2NDtzOjY6ImF1dGhvciI7czoxMToibWludGFwYXRhbGsiO3M6ODoiYXV0aG9yaWQiO2k6MTA7czo4OiJkYXRlbGluZSI7aToxNDIwNzgyOTgyO319","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":1,"type":"chat","content":"tghngtghtrftgttygbtyhbggt","id":3965,"author":"mintapatalk","authorid":10,"dateline":1420783001}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aToxO3M6NDoidHlwZSI7czo0OiJjaGF0IjtzOjc6ImNvbnRlbnQiO3M6MjU6InRnaG5ndGdodHJmdGd0dHlnYnR5aGJnZ3QiO3M6MjoiaWQiO2k6Mzk2NTtzOjY6ImF1dGhvciI7czoxMToibWludGFwYXRhbGsiO3M6ODoiYXV0aG9yaWQiO2k6MTA7czo4OiJkYXRlbGluZSI7aToxNDIwNzgzMDAxO319","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":10,"type":"chat","content":"Hi there","id":3966,"author":"admin","authorid":1,"dateline":1420783013}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aToxMDtzOjQ6InR5cGUiO3M6NDoiY2hhdCI7czo3OiJjb250ZW50IjtzOjg6IkhpIHRoZXJlIjtzOjI6ImlkIjtpOjM5NjY7czo2OiJhdXRob3IiO3M6NToiYWRtaW4iO3M6ODoiYXV0aG9yaWQiO2k6MTtzOjg6ImRhdGVsaW5lIjtpOjE0MjA3ODMwMTM7fX0=","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":10,"type":"chat","content":"Wow cool","id":3967,"author":"admin","authorid":1,"dateline":1420783021}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aToxMDtzOjQ6InR5cGUiO3M6NDoiY2hhdCI7czo3OiJjb250ZW50IjtzOjg6IldvdyBjb29sIjtzOjI6ImlkIjtpOjM5Njc7czo2OiJhdXRob3IiO3M6NToiYWRtaW4iO3M6ODoiYXV0aG9yaWQiO2k6MTtzOjg6ImRhdGVsaW5lIjtpOjE0MjA3ODMwMjE7fX0=","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":10,"type":"chat","content":"Nice job","id":3968,"author":"admin","authorid":1,"dateline":1420783031}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aToxMDtzOjQ6InR5cGUiO3M6NDoiY2hhdCI7czo3OiJjb250ZW50IjtzOjg6Ik5pY2Ugam9iIjtzOjI6ImlkIjtpOjM5Njg7czo2OiJhdXRob3IiO3M6NToiYWRtaW4iO3M6ODoiYXV0aG9yaWQiO2k6MTtzOjg6ImRhdGVsaW5lIjtpOjE0MjA3ODMwMzE7fX0=","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":1,"type":"chat","content":"yo","id":3970,"author":"mintapatalk","authorid":10,"dateline":1420783083}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aToxO3M6NDoidHlwZSI7czo0OiJjaGF0IjtzOjc6ImNvbnRlbnQiO3M6MjoieW8iO3M6MjoiaWQiO2k6Mzk3MDtzOjY6ImF1dGhvciI7czoxMToibWludGFwYXRhbGsiO3M6ODoiYXV0aG9yaWQiO2k6MTA7czo4OiJkYXRlbGluZSI7aToxNDIwNzgzMDgzO319","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":10,"type":"chat","content":"Hi","id":3971,"author":"admin","authorid":1,"dateline":1420783126}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aToxMDtzOjQ6InR5cGUiO3M6NDoiY2hhdCI7czo3OiJjb250ZW50IjtzOjI6IkhpIjtzOjI6ImlkIjtpOjM5NzE7czo2OiJhdXRob3IiO3M6NToiYWRtaW4iO3M6ODoiYXV0aG9yaWQiO2k6MTtzOjg6ImRhdGVsaW5lIjtpOjE0MjA3ODMxMjY7fX0=","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":10,"type":"chat","content":"Hello","id":3972,"author":null,"authorid":1,"dateline":1420787560}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aToxMDtzOjQ6InR5cGUiO3M6NDoiY2hhdCI7czo3OiJjb250ZW50IjtzOjU6IkhlbGxvIjtzOjI6ImlkIjtpOjM5NzI7czo2OiJhdXRob3IiO047czo4OiJhdXRob3JpZCI7aToxO3M6ODoiZGF0ZWxpbmUiO2k6MTQyMDc4NzU2MDt9fQ==","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":2,"type":"chat","content":"Hi","id":3973,"author":"vivek","authorid":39,"dateline":1420789819}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aToyO3M6NDoidHlwZSI7czo0OiJjaGF0IjtzOjc6ImNvbnRlbnQiO3M6MjoiSGkiO3M6MjoiaWQiO2k6Mzk3MztzOjY6ImF1dGhvciI7czo1OiJ2aXZlayI7czo4OiJhdXRob3JpZCI7aTozOTtzOjg6ImRhdGVsaW5lIjtpOjE0MjA3ODk4MTk7fX0=","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":39,"type":"chat","content":"Hola","id":3974,"author":"cometchat1","authorid":2,"dateline":1420789870}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aTozOTtzOjQ6InR5cGUiO3M6NDoiY2hhdCI7czo3OiJjb250ZW50IjtzOjQ6IkhvbGEiO3M6MjoiaWQiO2k6Mzk3NDtzOjY6ImF1dGhvciI7czoxMDoiY29tZXRjaGF0MSI7czo4OiJhdXRob3JpZCI7aToyO3M6ODoiZGF0ZWxpbmUiO2k6MTQyMDc4OTg3MDt9fQ==","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":2,"type":"chat","content":"Sweet","id":3975,"author":"vivek","authorid":39,"dateline":1420789879}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aToyO3M6NDoidHlwZSI7czo0OiJjaGF0IjtzOjc6ImNvbnRlbnQiO3M6NToiU3dlZXQiO3M6MjoiaWQiO2k6Mzk3NTtzOjY6ImF1dGhvciI7czo1OiJ2aXZlayI7czo4OiJhdXRob3JpZCI7aTozOTtzOjg6ImRhdGVsaW5lIjtpOjE0MjA3ODk4Nzk7fX0=","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":2,"type":"chat","content":"12334","id":3976,"author":"vivek","authorid":39,"dateline":1420789886}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aToyO3M6NDoidHlwZSI7czo0OiJjaGF0IjtzOjc6ImNvbnRlbnQiO3M6NToiMTIzMzQiO3M6MjoiaWQiO2k6Mzk3NjtzOjY6ImF1dGhvciI7czo1OiJ2aXZlayI7czo4OiJhdXRob3JpZCI7aTozOTtzOjg6ImRhdGVsaW5lIjtpOjE0MjA3ODk4ODY7fX0=","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":39,"type":"chat","content":"hey...","id":3980,"author":"cometchat1","authorid":2,"dateline":1420789939}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aTozOTtzOjQ6InR5cGUiO3M6NDoiY2hhdCI7czo3OiJjb250ZW50IjtzOjY6ImhleS4uLiI7czoyOiJpZCI7aTozOTgwO3M6NjoiYXV0aG9yIjtzOjEwOiJjb21ldGNoYXQxIjtzOjg6ImF1dGhvcmlkIjtpOjI7czo4OiJkYXRlbGluZSI7aToxNDIwNzg5OTM5O319","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":39,"type":"chat","content":"1","id":3981,"author":"cometchat1","authorid":2,"dateline":1420789941}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aTozOTtzOjQ6InR5cGUiO3M6NDoiY2hhdCI7czo3OiJjb250ZW50IjtzOjE6IjEiO3M6MjoiaWQiO2k6Mzk4MTtzOjY6ImF1dGhvciI7czoxMDoiY29tZXRjaGF0MSI7czo4OiJhdXRob3JpZCI7aToyO3M6ODoiZGF0ZWxpbmUiO2k6MTQyMDc4OTk0MTt9fQ==","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":39,"type":"chat","content":"2","id":3982,"author":"cometchat1","authorid":2,"dateline":1420789942}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aTozOTtzOjQ6InR5cGUiO3M6NDoiY2hhdCI7czo3OiJjb250ZW50IjtzOjE6IjIiO3M6MjoiaWQiO2k6Mzk4MjtzOjY6ImF1dGhvciI7czoxMDoiY29tZXRjaGF0MSI7czo4OiJhdXRob3JpZCI7aToyO3M6ODoiZGF0ZWxpbmUiO2k6MTQyMDc4OTk0Mjt9fQ==","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":39,"type":"chat","content":"3","id":3983,"author":"cometchat1","authorid":2,"dateline":1420789943}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aTozOTtzOjQ6InR5cGUiO3M6NDoiY2hhdCI7czo3OiJjb250ZW50IjtzOjE6IjMiO3M6MjoiaWQiO2k6Mzk4MztzOjY6ImF1dGhvciI7czoxMDoiY29tZXRjaGF0MSI7czo4OiJhdXRob3JpZCI7aToyO3M6ODoiZGF0ZWxpbmUiO2k6MTQyMDc4OTk0Mzt9fQ==","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":2,"type":"chat","content":"x","id":3984,"author":"vivek","authorid":39,"dateline":1420789948}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aToyO3M6NDoidHlwZSI7czo0OiJjaGF0IjtzOjc6ImNvbnRlbnQiO3M6MToieCI7czoyOiJpZCI7aTozOTg0O3M6NjoiYXV0aG9yIjtzOjU6InZpdmVrIjtzOjg6ImF1dGhvcmlkIjtpOjM5O3M6ODoiZGF0ZWxpbmUiO2k6MTQyMDc4OTk0ODt9fQ==","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":2,"type":"chat","content":"y","id":3985,"author":"vivek","authorid":39,"dateline":1420789949}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aToyO3M6NDoidHlwZSI7czo0OiJjaGF0IjtzOjc6ImNvbnRlbnQiO3M6MToieSI7czoyOiJpZCI7aTozOTg1O3M6NjoiYXV0aG9yIjtzOjU6InZpdmVrIjtzOjg6ImF1dGhvcmlkIjtpOjM5O3M6ODoiZGF0ZWxpbmUiO2k6MTQyMDc4OTk0OTt9fQ==","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":2,"type":"chat","content":"z","id":3986,"author":"vivek","authorid":39,"dateline":1420789951}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aToyO3M6NDoidHlwZSI7czo0OiJjaGF0IjtzOjc6ImNvbnRlbnQiO3M6MToieiI7czoyOiJpZCI7aTozOTg2O3M6NjoiYXV0aG9yIjtzOjU6InZpdmVrIjtzOjg6ImF1dGhvcmlkIjtpOjM5O3M6ODoiZGF0ZWxpbmUiO2k6MTQyMDc4OTk1MTt9fQ==","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":39,"type":"chat","content":"cool","id":3989,"author":"cometchat1","authorid":2,"dateline":1420790043}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aTozOTtzOjQ6InR5cGUiO3M6NDoiY2hhdCI7czo3OiJjb250ZW50IjtzOjQ6ImNvb2wiO3M6MjoiaWQiO2k6Mzk4OTtzOjY6ImF1dGhvciI7czoxMDoiY29tZXRjaGF0MSI7czo4OiJhdXRob3JpZCI7aToyO3M6ODoiZGF0ZWxpbmUiO2k6MTQyMDc5MDA0Mzt9fQ==","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":39,"type":"chat","content":"1","id":3990,"author":"cometchat1","authorid":2,"dateline":1420790044}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aTozOTtzOjQ6InR5cGUiO3M6NDoiY2hhdCI7czo3OiJjb250ZW50IjtzOjE6IjEiO3M6MjoiaWQiO2k6Mzk5MDtzOjY6ImF1dGhvciI7czoxMDoiY29tZXRjaGF0MSI7czo4OiJhdXRob3JpZCI7aToyO3M6ODoiZGF0ZWxpbmUiO2k6MTQyMDc5MDA0NDt9fQ==","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":39,"type":"chat","content":"2","id":3991,"author":"cometchat1","authorid":2,"dateline":1420790045}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aTozOTtzOjQ6InR5cGUiO3M6NDoiY2hhdCI7czo3OiJjb250ZW50IjtzOjE6IjIiO3M6MjoiaWQiO2k6Mzk5MTtzOjY6ImF1dGhvciI7czoxMDoiY29tZXRjaGF0MSI7czo4OiJhdXRob3JpZCI7aToyO3M6ODoiZGF0ZWxpbmUiO2k6MTQyMDc5MDA0NTt9fQ==","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":39,"type":"chat","content":"3","id":3992,"author":"cometchat1","authorid":2,"dateline":1420790046}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aTozOTtzOjQ6InR5cGUiO3M6NDoiY2hhdCI7czo3OiJjb250ZW50IjtzOjE6IjMiO3M6MjoiaWQiO2k6Mzk5MjtzOjY6ImF1dGhvciI7czoxMDoiY29tZXRjaGF0MSI7czo4OiJhdXRob3JpZCI7aToyO3M6ODoiZGF0ZWxpbmUiO2k6MTQyMDc5MDA0Njt9fQ==","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":39,"type":"chat","content":"4","id":3993,"author":"cometchat1","authorid":2,"dateline":1420790048}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aTozOTtzOjQ6InR5cGUiO3M6NDoiY2hhdCI7czo3OiJjb250ZW50IjtzOjE6IjQiO3M6MjoiaWQiO2k6Mzk5MztzOjY6ImF1dGhvciI7czoxMDoiY29tZXRjaGF0MSI7czo4OiJhdXRob3JpZCI7aToyO3M6ODoiZGF0ZWxpbmUiO2k6MTQyMDc5MDA0ODt9fQ==","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":21,"type":"chat","content":"hi","id":3994,"author":"luosheng","authorid":20,"dateline":1420827652}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aToyMTtzOjQ6InR5cGUiO3M6NDoiY2hhdCI7czo3OiJjb250ZW50IjtzOjI6ImhpIjtzOjI6ImlkIjtpOjM5OTQ7czo2OiJhdXRob3IiO3M6ODoibHVvc2hlbmciO3M6ODoiYXV0aG9yaWQiO2k6MjA7czo4OiJkYXRlbGluZSI7aToxNDIwODI3NjUyO319","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":20,"type":"chat","content":"12312312","id":3995,"author":"shengtapatalk","authorid":21,"dateline":1421013535}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aToyMDtzOjQ6InR5cGUiO3M6NDoiY2hhdCI7czo3OiJjb250ZW50IjtzOjg6IjEyMzEyMzEyIjtzOjI6ImlkIjtpOjM5OTU7czo2OiJhdXRob3IiO3M6MTM6InNoZW5ndGFwYXRhbGsiO3M6ODoiYXV0aG9yaWQiO2k6MjE7czo4OiJkYXRlbGluZSI7aToxNDIxMDEzNTM1O319","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":20,"type":"chat","content":"wtf?","id":3996,"author":"shengtapatalk","authorid":21,"dateline":1421013560}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aToyMDtzOjQ6InR5cGUiO3M6NDoiY2hhdCI7czo3OiJjb250ZW50IjtzOjQ6Ind0Zj8iO3M6MjoiaWQiO2k6Mzk5NjtzOjY6ImF1dGhvciI7czoxMzoic2hlbmd0YXBhdGFsayI7czo4OiJhdXRob3JpZCI7aToyMTtzOjg6ImRhdGVsaW5lIjtpOjE0MjEwMTM1NjA7fX0=","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":20,"type":"chat","content":"12312","id":3997,"author":"shengtapatalk","authorid":21,"dateline":1421013687}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aToyMDtzOjQ6InR5cGUiO3M6NDoiY2hhdCI7czo3OiJjb250ZW50IjtzOjU6IjEyMzEyIjtzOjI6ImlkIjtpOjM5OTc7czo2OiJhdXRob3IiO3M6MTM6InNoZW5ndGFwYXRhbGsiO3M6ODoiYXV0aG9yaWQiO2k6MjE7czo4OiJkYXRlbGluZSI7aToxNDIxMDEzNjg3O319","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":20,"type":"chat","content":"12---","id":3998,"author":"shengtapatalk","authorid":21,"dateline":1421013806}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aToyMDtzOjQ6InR5cGUiO3M6NDoiY2hhdCI7czo3OiJjb250ZW50IjtzOjU6IjEyLS0tIjtzOjI6ImlkIjtpOjM5OTg7czo2OiJhdXRob3IiO3M6MTM6InNoZW5ndGFwYXRhbGsiO3M6ODoiYXV0aG9yaWQiO2k6MjE7czo4OiJkYXRlbGluZSI7aToxNDIxMDEzODA2O319","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":20,"type":"chat","content":"321321","id":3999,"author":"shengtapatalk","authorid":21,"dateline":1421013909}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aToyMDtzOjQ6InR5cGUiO3M6NDoiY2hhdCI7czo3OiJjb250ZW50IjtzOjY6IjMyMTMyMSI7czoyOiJpZCI7aTozOTk5O3M6NjoiYXV0aG9yIjtzOjEzOiJzaGVuZ3RhcGF0YWxrIjtzOjg6ImF1dGhvcmlkIjtpOjIxO3M6ODoiZGF0ZWxpbmUiO2k6MTQyMTAxMzkwOTt9fQ==","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":20,"type":"chat","content":"\u4e2d\u6587\u6d4b\u8bd5","id":4000,"author":"shengtapatalk","authorid":21,"dateline":1421015022}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aToyMDtzOjQ6InR5cGUiO3M6NDoiY2hhdCI7czo3OiJjb250ZW50IjtzOjEyOiLkuK3mlofmtYvor5UiO3M6MjoiaWQiO2k6NDAwMDtzOjY6ImF1dGhvciI7czoxMzoic2hlbmd0YXBhdGFsayI7czo4OiJhdXRob3JpZCI7aToyMTtzOjg6ImRhdGVsaW5lIjtpOjE0MjEwMTUwMjI7fX0=","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":21,"type":"chat","content":"test","id":4001,"author":"luosheng","authorid":20,"dateline":1421015070}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aToyMTtzOjQ6InR5cGUiO3M6NDoiY2hhdCI7czo3OiJjb250ZW50IjtzOjQ6InRlc3QiO3M6MjoiaWQiO2k6NDAwMTtzOjY6ImF1dGhvciI7czo4OiJsdW9zaGVuZyI7czo4OiJhdXRob3JpZCI7aToyMDtzOjg6ImRhdGVsaW5lIjtpOjE0MjEwMTUwNzA7fX0=","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":20,"type":"chat","content":"123214","id":4002,"author":"shengtapatalk","authorid":21,"dateline":1421020123}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aToyMDtzOjQ6InR5cGUiO3M6NDoiY2hhdCI7czo3OiJjb250ZW50IjtzOjY6IjEyMzIxNCI7czoyOiJpZCI7aTo0MDAyO3M6NjoiYXV0aG9yIjtzOjEzOiJzaGVuZ3RhcGF0YWxrIjtzOjg6ImF1dGhvcmlkIjtpOjIxO3M6ODoiZGF0ZWxpbmUiO2k6MTQyMTAyMDEyMzt9fQ==","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":20,"type":"chat","content":"hihi","id":4003,"author":"shengtapatalk","authorid":21,"dateline":1421020126}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aToyMDtzOjQ6InR5cGUiO3M6NDoiY2hhdCI7czo3OiJjb250ZW50IjtzOjQ6ImhpaGkiO3M6MjoiaWQiO2k6NDAwMztzOjY6ImF1dGhvciI7czoxMzoic2hlbmd0YXBhdGFsayI7czo4OiJhdXRob3JpZCI7aToyMTtzOjg6ImRhdGVsaW5lIjtpOjE0MjEwMjAxMjY7fX0=","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":20,"type":"chat","content":"143214","id":4004,"author":"shengtapatalk","authorid":21,"dateline":1421036899}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aToyMDtzOjQ6InR5cGUiO3M6NDoiY2hhdCI7czo3OiJjb250ZW50IjtzOjY6IjE0MzIxNCI7czoyOiJpZCI7aTo0MDA0O3M6NjoiYXV0aG9yIjtzOjEzOiJzaGVuZ3RhcGF0YWxrIjtzOjg6ImF1dGhvcmlkIjtpOjIxO3M6ODoiZGF0ZWxpbmUiO2k6MTQyMTAzNjg5OTt9fQ==","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":20,"type":"chat","content":"sign","id":4005,"author":"shengtapatalk","authorid":21,"dateline":1421036919}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aToyMDtzOjQ6InR5cGUiO3M6NDoiY2hhdCI7czo3OiJjb250ZW50IjtzOjQ6InNpZ24iO3M6MjoiaWQiO2k6NDAwNTtzOjY6ImF1dGhvciI7czoxMzoic2hlbmd0YXBhdGFsayI7czo4OiJhdXRob3JpZCI7aToyMTtzOjg6ImRhdGVsaW5lIjtpOjE0MjEwMzY5MTk7fX0=","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":20,"type":"chat","content":"123`23`23`312","id":4006,"author":"shengtapatalk","authorid":21,"dateline":1421037825}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aToyMDtzOjQ6InR5cGUiO3M6NDoiY2hhdCI7czo3OiJjb250ZW50IjtzOjEzOiIxMjNgMjNgMjNgMzEyIjtzOjI6ImlkIjtpOjQwMDY7czo2OiJhdXRob3IiO3M6MTM6InNoZW5ndGFwYXRhbGsiO3M6ODoiYXV0aG9yaWQiO2k6MjE7czo4OiJkYXRlbGluZSI7aToxNDIxMDM3ODI1O319","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":1,"type":"chat","content":"bnmbnm","id":4007,"author":"cometchat5","authorid":4,"dateline":1421045329}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aToxO3M6NDoidHlwZSI7czo0OiJjaGF0IjtzOjc6ImNvbnRlbnQiO3M6NjoiYm5tYm5tIjtzOjI6ImlkIjtpOjQwMDc7czo2OiJhdXRob3IiO3M6MTA6ImNvbWV0Y2hhdDUiO3M6ODoiYXV0aG9yaWQiO2k6NDtzOjg6ImRhdGVsaW5lIjtpOjE0MjEwNDUzMjk7fX0=","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":6,"type":"chat","content":"kl;\\l;\\","id":4009,"author":"cometchat5","authorid":4,"dateline":1421045411}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aTo2O3M6NDoidHlwZSI7czo0OiJjaGF0IjtzOjc6ImNvbnRlbnQiO3M6Nzoia2w7XGw7XCI7czoyOiJpZCI7aTo0MDA5O3M6NjoiYXV0aG9yIjtzOjEwOiJjb21ldGNoYXQ1IjtzOjg6ImF1dGhvcmlkIjtpOjQ7czo4OiJkYXRlbGluZSI7aToxNDIxMDQ1NDExO319","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":21,"type":"chat","content":"Yo man","id":4010,"author":"admin","authorid":1,"dateline":1421122087}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aToyMTtzOjQ6InR5cGUiO3M6NDoiY2hhdCI7czo3OiJjb250ZW50IjtzOjY6IllvIG1hbiI7czoyOiJpZCI7aTo0MDEwO3M6NjoiYXV0aG9yIjtzOjU6ImFkbWluIjtzOjg6ImF1dGhvcmlkIjtpOjE7czo4OiJkYXRlbGluZSI7aToxNDIxMTIyMDg3O319","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":1,"type":"chat","content":"hey there","id":4011,"author":"mintapatalk","authorid":10,"dateline":1421123807}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aToxO3M6NDoidHlwZSI7czo0OiJjaGF0IjtzOjc6ImNvbnRlbnQiO3M6OToiaGV5IHRoZXJlIjtzOjI6ImlkIjtpOjQwMTE7czo2OiJhdXRob3IiO3M6MTE6Im1pbnRhcGF0YWxrIjtzOjg6ImF1dGhvcmlkIjtpOjEwO3M6ODoiZGF0ZWxpbmUiO2k6MTQyMTEyMzgwNzt9fQ==","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":1,"type":"chat","content":"hi back","id":4012,"author":"mintapatalk","authorid":10,"dateline":1421123819}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aToxO3M6NDoidHlwZSI7czo0OiJjaGF0IjtzOjc6ImNvbnRlbnQiO3M6NzoiaGkgYmFjayI7czoyOiJpZCI7aTo0MDEyO3M6NjoiYXV0aG9yIjtzOjExOiJtaW50YXBhdGFsayI7czo4OiJhdXRob3JpZCI7aToxMDtzOjg6ImRhdGVsaW5lIjtpOjE0MjExMjM4MTk7fX0=","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":10,"type":"chat","content":"Hi","id":4013,"author":"admin","authorid":1,"dateline":1421123826}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aToxMDtzOjQ6InR5cGUiO3M6NDoiY2hhdCI7czo3OiJjb250ZW50IjtzOjI6IkhpIjtzOjI6ImlkIjtpOjQwMTM7czo2OiJhdXRob3IiO3M6NToiYWRtaW4iO3M6ODoiYXV0aG9yaWQiO2k6MTtzOjg6ImRhdGVsaW5lIjtpOjE0MjExMjM4MjY7fX0=","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":10,"type":"chat","content":"Nice!","id":4014,"author":"admin","authorid":1,"dateline":1421123838}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aToxMDtzOjQ6InR5cGUiO3M6NDoiY2hhdCI7czo3OiJjb250ZW50IjtzOjU6Ik5pY2UhIjtzOjI6ImlkIjtpOjQwMTQ7czo2OiJhdXRob3IiO3M6NToiYWRtaW4iO3M6ODoiYXV0aG9yaWQiO2k6MTtzOjg6ImRhdGVsaW5lIjtpOjE0MjExMjM4Mzg7fX0=","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":10,"type":"chat","content":"Ok","id":4015,"author":"admin","authorid":1,"dateline":1421123845}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aToxMDtzOjQ6InR5cGUiO3M6NDoiY2hhdCI7czo3OiJjb250ZW50IjtzOjI6Ik9rIjtzOjI6ImlkIjtpOjQwMTU7czo2OiJhdXRob3IiO3M6NToiYWRtaW4iO3M6ODoiYXV0aG9yaWQiO2k6MTtzOjg6ImRhdGVsaW5lIjtpOjE0MjExMjM4NDU7fX0=","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":1,"type":"chat","content":":grinning:","id":4016,"author":"mintapatalk","authorid":10,"dateline":1421123856}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aToxO3M6NDoidHlwZSI7czo0OiJjaGF0IjtzOjc6ImNvbnRlbnQiO3M6MTA6IjpncmlubmluZzoiO3M6MjoiaWQiO2k6NDAxNjtzOjY6ImF1dGhvciI7czoxMToibWludGFwYXRhbGsiO3M6ODoiYXV0aG9yaWQiO2k6MTA7czo4OiJkYXRlbGluZSI7aToxNDIxMTIzODU2O319","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":10,"type":"chat","content":"Hi","id":4018,"author":"admin","authorid":1,"dateline":1421123968}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aToxMDtzOjQ6InR5cGUiO3M6NDoiY2hhdCI7czo3OiJjb250ZW50IjtzOjI6IkhpIjtzOjI6ImlkIjtpOjQwMTg7czo2OiJhdXRob3IiO3M6NToiYWRtaW4iO3M6ODoiYXV0aG9yaWQiO2k6MTtzOjg6ImRhdGVsaW5lIjtpOjE0MjExMjM5Njg7fX0=","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":1,"type":"chat","content":"yo yo","id":4020,"author":"mintapatalk","authorid":10,"dateline":1421124006}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aToxO3M6NDoidHlwZSI7czo0OiJjaGF0IjtzOjc6ImNvbnRlbnQiO3M6NToieW8geW8iO3M6MjoiaWQiO2k6NDAyMDtzOjY6ImF1dGhvciI7czoxMToibWludGFwYXRhbGsiO3M6ODoiYXV0aG9yaWQiO2k6MTA7czo4OiJkYXRlbGluZSI7aToxNDIxMTI0MDA2O319","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":2,"type":"chat","content":"test","id":4021,"author":"admin","authorid":1,"dateline":1421128455}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aToyO3M6NDoidHlwZSI7czo0OiJjaGF0IjtzOjc6ImNvbnRlbnQiO3M6NDoidGVzdCI7czoyOiJpZCI7aTo0MDIxO3M6NjoiYXV0aG9yIjtzOjU6ImFkbWluIjtzOjg6ImF1dGhvcmlkIjtpOjE7czo4OiJkYXRlbGluZSI7aToxNDIxMTI4NDU1O319","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":10,"type":"chat","content":"Hello","id":4022,"author":"admin","authorid":1,"dateline":1421291914}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aToxMDtzOjQ6InR5cGUiO3M6NDoiY2hhdCI7czo3OiJjb250ZW50IjtzOjU6IkhlbGxvIjtzOjI6ImlkIjtpOjQwMjI7czo2OiJhdXRob3IiO3M6NToiYWRtaW4iO3M6ODoiYXV0aG9yaWQiO2k6MTtzOjg6ImRhdGVsaW5lIjtpOjE0MjEyOTE5MTQ7fX0=","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":1,"type":"chat","content":"hi hi","id":4023,"author":"mintapatalk","authorid":10,"dateline":1421291928}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aToxO3M6NDoidHlwZSI7czo0OiJjaGF0IjtzOjc6ImNvbnRlbnQiO3M6NToiaGkgaGkiO3M6MjoiaWQiO2k6NDAyMztzOjY6ImF1dGhvciI7czoxMToibWludGFwYXRhbGsiO3M6ODoiYXV0aG9yaWQiO2k6MTA7czo4OiJkYXRlbGluZSI7aToxNDIxMjkxOTI4O319","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":1,"type":"chat","content":"yo","id":4024,"author":"mintapatalk","authorid":10,"dateline":1421291966}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aToxO3M6NDoidHlwZSI7czo0OiJjaGF0IjtzOjc6ImNvbnRlbnQiO3M6MjoieW8iO3M6MjoiaWQiO2k6NDAyNDtzOjY6ImF1dGhvciI7czoxMToibWludGFwYXRhbGsiO3M6ODoiYXV0aG9yaWQiO2k6MTA7czo4OiJkYXRlbGluZSI7aToxNDIxMjkxOTY2O319","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":1,"type":"chat","content":"Hi","id":4025,"author":"mintapatalk","authorid":10,"dateline":1421292095}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aToxO3M6NDoidHlwZSI7czo0OiJjaGF0IjtzOjc6ImNvbnRlbnQiO3M6MjoiSGkiO3M6MjoiaWQiO2k6NDAyNTtzOjY6ImF1dGhvciI7czoxMToibWludGFwYXRhbGsiO3M6ODoiYXV0aG9yaWQiO2k6MTA7czo4OiJkYXRlbGluZSI7aToxNDIxMjkyMDk1O319","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":1,"type":"chat","content":"Yo!","id":4026,"author":"mintapatalk","authorid":10,"dateline":1421292140}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aToxO3M6NDoidHlwZSI7czo0OiJjaGF0IjtzOjc6ImNvbnRlbnQiO3M6MzoiWW8hIjtzOjI6ImlkIjtpOjQwMjY7czo2OiJhdXRob3IiO3M6MTE6Im1pbnRhcGF0YWxrIjtzOjg6ImF1dGhvcmlkIjtpOjEwO3M6ODoiZGF0ZWxpbmUiO2k6MTQyMTI5MjE0MDt9fQ==","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":10,"type":"chat","content":"hello man","id":4027,"author":"admin","authorid":1,"dateline":1421292148}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aToxMDtzOjQ6InR5cGUiO3M6NDoiY2hhdCI7czo3OiJjb250ZW50IjtzOjk6ImhlbGxvIG1hbiI7czoyOiJpZCI7aTo0MDI3O3M6NjoiYXV0aG9yIjtzOjU6ImFkbWluIjtzOjg6ImF1dGhvcmlkIjtpOjE7czo4OiJkYXRlbGluZSI7aToxNDIxMjkyMTQ4O319","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":2,"type":"chat","content":"1","id":4028,"author":"admin","authorid":1,"dateline":1421299355}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aToyO3M6NDoidHlwZSI7czo0OiJjaGF0IjtzOjc6ImNvbnRlbnQiO3M6MToiMSI7czoyOiJpZCI7aTo0MDI4O3M6NjoiYXV0aG9yIjtzOjU6ImFkbWluIjtzOjg6ImF1dGhvcmlkIjtpOjE7czo4OiJkYXRlbGluZSI7aToxNDIxMjk5MzU1O319","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":2,"type":"chat","content":"2","id":4029,"author":"admin","authorid":1,"dateline":1421299358}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aToyO3M6NDoidHlwZSI7czo0OiJjaGF0IjtzOjc6ImNvbnRlbnQiO3M6MToiMiI7czoyOiJpZCI7aTo0MDI5O3M6NjoiYXV0aG9yIjtzOjU6ImFkbWluIjtzOjg6ImF1dGhvcmlkIjtpOjE7czo4OiJkYXRlbGluZSI7aToxNDIxMjk5MzU4O319","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":2,"type":"chat","content":"3","id":4030,"author":"admin","authorid":1,"dateline":1421299359}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aToyO3M6NDoidHlwZSI7czo0OiJjaGF0IjtzOjc6ImNvbnRlbnQiO3M6MToiMyI7czoyOiJpZCI7aTo0MDMwO3M6NjoiYXV0aG9yIjtzOjU6ImFkbWluIjtzOjg6ImF1dGhvcmlkIjtpOjE7czo4OiJkYXRlbGluZSI7aToxNDIxMjk5MzU5O319","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":2,"type":"chat","content":"1","id":4031,"author":"vivek","authorid":39,"dateline":1421299409}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aToyO3M6NDoidHlwZSI7czo0OiJjaGF0IjtzOjc6ImNvbnRlbnQiO3M6MToiMSI7czoyOiJpZCI7aTo0MDMxO3M6NjoiYXV0aG9yIjtzOjU6InZpdmVrIjtzOjg6ImF1dGhvcmlkIjtpOjM5O3M6ODoiZGF0ZWxpbmUiO2k6MTQyMTI5OTQwOTt9fQ==","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":2,"type":"chat","content":"23","id":4032,"author":"vivek","authorid":39,"dateline":1421299412}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aToyO3M6NDoidHlwZSI7czo0OiJjaGF0IjtzOjc6ImNvbnRlbnQiO3M6MjoiMjMiO3M6MjoiaWQiO2k6NDAzMjtzOjY6ImF1dGhvciI7czo1OiJ2aXZlayI7czo4OiJhdXRob3JpZCI7aTozOTtzOjg6ImRhdGVsaW5lIjtpOjE0MjEyOTk0MTI7fX0=","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":2,"type":"chat","content":"4","id":4033,"author":"vivek","authorid":39,"dateline":1421299413}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aToyO3M6NDoidHlwZSI7czo0OiJjaGF0IjtzOjc6ImNvbnRlbnQiO3M6MToiNCI7czoyOiJpZCI7aTo0MDMzO3M6NjoiYXV0aG9yIjtzOjU6InZpdmVrIjtzOjg6ImF1dGhvcmlkIjtpOjM5O3M6ODoiZGF0ZWxpbmUiO2k6MTQyMTI5OTQxMzt9fQ==","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":39,"type":"chat","content":"x","id":4034,"author":"cometchat1","authorid":2,"dateline":1421299441}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aTozOTtzOjQ6InR5cGUiO3M6NDoiY2hhdCI7czo3OiJjb250ZW50IjtzOjE6IngiO3M6MjoiaWQiO2k6NDAzNDtzOjY6ImF1dGhvciI7czoxMDoiY29tZXRjaGF0MSI7czo4OiJhdXRob3JpZCI7aToyO3M6ODoiZGF0ZWxpbmUiO2k6MTQyMTI5OTQ0MTt9fQ==","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":39,"type":"chat","content":"y","id":4035,"author":"cometchat1","authorid":2,"dateline":1421299442}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aTozOTtzOjQ6InR5cGUiO3M6NDoiY2hhdCI7czo3OiJjb250ZW50IjtzOjE6InkiO3M6MjoiaWQiO2k6NDAzNTtzOjY6ImF1dGhvciI7czoxMDoiY29tZXRjaGF0MSI7czo4OiJhdXRob3JpZCI7aToyO3M6ODoiZGF0ZWxpbmUiO2k6MTQyMTI5OTQ0Mjt9fQ==","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":39,"type":"chat","content":"z","id":4036,"author":"cometchat1","authorid":2,"dateline":1421299443}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aTozOTtzOjQ6InR5cGUiO3M6NDoiY2hhdCI7czo3OiJjb250ZW50IjtzOjE6InoiO3M6MjoiaWQiO2k6NDAzNjtzOjY6ImF1dGhvciI7czoxMDoiY29tZXRjaGF0MSI7czo4OiJhdXRob3JpZCI7aToyO3M6ODoiZGF0ZWxpbmUiO2k6MTQyMTI5OTQ0Mzt9fQ==","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":2,"type":"chat","content":"a","id":4037,"author":"vivek","authorid":39,"dateline":1421299455}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aToyO3M6NDoidHlwZSI7czo0OiJjaGF0IjtzOjc6ImNvbnRlbnQiO3M6MToiYSI7czoyOiJpZCI7aTo0MDM3O3M6NjoiYXV0aG9yIjtzOjU6InZpdmVrIjtzOjg6ImF1dGhvcmlkIjtpOjM5O3M6ODoiZGF0ZWxpbmUiO2k6MTQyMTI5OTQ1NTt9fQ==","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":2,"type":"chat","content":"b","id":4038,"author":"vivek","authorid":39,"dateline":1421299456}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aToyO3M6NDoidHlwZSI7czo0OiJjaGF0IjtzOjc6ImNvbnRlbnQiO3M6MToiYiI7czoyOiJpZCI7aTo0MDM4O3M6NjoiYXV0aG9yIjtzOjU6InZpdmVrIjtzOjg6ImF1dGhvcmlkIjtpOjM5O3M6ODoiZGF0ZWxpbmUiO2k6MTQyMTI5OTQ1Njt9fQ==","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":2,"type":"chat","content":"c","id":4039,"author":"vivek","authorid":39,"dateline":1421299457}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aToyO3M6NDoidHlwZSI7czo0OiJjaGF0IjtzOjc6ImNvbnRlbnQiO3M6MToiYyI7czoyOiJpZCI7aTo0MDM5O3M6NjoiYXV0aG9yIjtzOjU6InZpdmVrIjtzOjg6ImF1dGhvcmlkIjtpOjM5O3M6ODoiZGF0ZWxpbmUiO2k6MTQyMTI5OTQ1Nzt9fQ==","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":2,"type":"chat","content":"ghhghg","id":4040,"author":"vivek","authorid":39,"dateline":1421301375}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aToyO3M6NDoidHlwZSI7czo0OiJjaGF0IjtzOjc6ImNvbnRlbnQiO3M6NjoiZ2hoZ2hnIjtzOjI6ImlkIjtpOjQwNDA7czo2OiJhdXRob3IiO3M6NToidml2ZWsiO3M6ODoiYXV0aG9yaWQiO2k6Mzk7czo4OiJkYXRlbGluZSI7aToxNDIxMzAxMzc1O319","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":2,"type":"chat","content":"ghg","id":4041,"author":"vivek","authorid":39,"dateline":1421301378}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aToyO3M6NDoidHlwZSI7czo0OiJjaGF0IjtzOjc6ImNvbnRlbnQiO3M6MzoiZ2hnIjtzOjI6ImlkIjtpOjQwNDE7czo2OiJhdXRob3IiO3M6NToidml2ZWsiO3M6ODoiYXV0aG9yaWQiO2k6Mzk7czo4OiJkYXRlbGluZSI7aToxNDIxMzAxMzc4O319","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":2,"type":"chat","content":"hg","id":4042,"author":"vivek","authorid":39,"dateline":1421301379}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aToyO3M6NDoidHlwZSI7czo0OiJjaGF0IjtzOjc6ImNvbnRlbnQiO3M6MjoiaGciO3M6MjoiaWQiO2k6NDA0MjtzOjY6ImF1dGhvciI7czo1OiJ2aXZlayI7czo4OiJhdXRob3JpZCI7aTozOTtzOjg6ImRhdGVsaW5lIjtpOjE0MjEzMDEzNzk7fX0=","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":2,"type":"chat","content":"hg","id":4043,"author":"vivek","authorid":39,"dateline":1421301380}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aToyO3M6NDoidHlwZSI7czo0OiJjaGF0IjtzOjc6ImNvbnRlbnQiO3M6MjoiaGciO3M6MjoiaWQiO2k6NDA0MztzOjY6ImF1dGhvciI7czo1OiJ2aXZlayI7czo4OiJhdXRob3JpZCI7aTozOTtzOjg6ImRhdGVsaW5lIjtpOjE0MjEzMDEzODA7fX0=","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":2,"type":"chat","content":"g","id":4044,"author":"vivek","authorid":39,"dateline":1421301381}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aToyO3M6NDoidHlwZSI7czo0OiJjaGF0IjtzOjc6ImNvbnRlbnQiO3M6MToiZyI7czoyOiJpZCI7aTo0MDQ0O3M6NjoiYXV0aG9yIjtzOjU6InZpdmVrIjtzOjg6ImF1dGhvcmlkIjtpOjM5O3M6ODoiZGF0ZWxpbmUiO2k6MTQyMTMwMTM4MTt9fQ==","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":2,"type":"chat","content":"g trtrtt","id":4045,"author":"vivek","authorid":39,"dateline":1421301418}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aToyO3M6NDoidHlwZSI7czo0OiJjaGF0IjtzOjc6ImNvbnRlbnQiO3M6ODoiZyB0cnRydHQiO3M6MjoiaWQiO2k6NDA0NTtzOjY6ImF1dGhvciI7czo1OiJ2aXZlayI7czo4OiJhdXRob3JpZCI7aTozOTtzOjg6ImRhdGVsaW5lIjtpOjE0MjEzMDE0MTg7fX0=","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":2,"type":"chat","content":"tr","id":4046,"author":"vivek","authorid":39,"dateline":1421301420}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aToyO3M6NDoidHlwZSI7czo0OiJjaGF0IjtzOjc6ImNvbnRlbnQiO3M6MjoidHIiO3M6MjoiaWQiO2k6NDA0NjtzOjY6ImF1dGhvciI7czo1OiJ2aXZlayI7czo4OiJhdXRob3JpZCI7aTozOTtzOjg6ImRhdGVsaW5lIjtpOjE0MjEzMDE0MjA7fX0=","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":2,"type":"chat","content":"rtrt","id":4047,"author":"vivek","authorid":39,"dateline":1421301428}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aToyO3M6NDoidHlwZSI7czo0OiJjaGF0IjtzOjc6ImNvbnRlbnQiO3M6NDoicnRydCI7czoyOiJpZCI7aTo0MDQ3O3M6NjoiYXV0aG9yIjtzOjU6InZpdmVrIjtzOjg6ImF1dGhvcmlkIjtpOjM5O3M6ODoiZGF0ZWxpbmUiO2k6MTQyMTMwMTQyODt9fQ==","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":2,"type":"chat","content":"rtg","id":4048,"author":"vivek","authorid":39,"dateline":1421301430}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aToyO3M6NDoidHlwZSI7czo0OiJjaGF0IjtzOjc6ImNvbnRlbnQiO3M6MzoicnRnIjtzOjI6ImlkIjtpOjQwNDg7czo2OiJhdXRob3IiO3M6NToidml2ZWsiO3M6ODoiYXV0aG9yaWQiO2k6Mzk7czo4OiJkYXRlbGluZSI7aToxNDIxMzAxNDMwO319","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":39,"type":"chat","content":"Jcjv","id":4049,"author":"cometchat1","authorid":2,"dateline":1421301731}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aTozOTtzOjQ6InR5cGUiO3M6NDoiY2hhdCI7czo3OiJjb250ZW50IjtzOjQ6IkpjanYiO3M6MjoiaWQiO2k6NDA0OTtzOjY6ImF1dGhvciI7czoxMDoiY29tZXRjaGF0MSI7czo4OiJhdXRob3JpZCI7aToyO3M6ODoiZGF0ZWxpbmUiO2k6MTQyMTMwMTczMTt9fQ==","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":39,"type":"chat","content":"mmmmmnbnmbn,mn,mn,,.....hjkhjllll","id":4050,"author":"cometchat1","authorid":2,"dateline":1421302235}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aTozOTtzOjQ6InR5cGUiO3M6NDoiY2hhdCI7czo3OiJjb250ZW50IjtzOjMzOiJtbW1tbW5ibm1ibixtbixtbiwsLi4uLi5oamtoamxsbGwiO3M6MjoiaWQiO2k6NDA1MDtzOjY6ImF1dGhvciI7czoxMDoiY29tZXRjaGF0MSI7czo4OiJhdXRob3JpZCI7aToyO3M6ODoiZGF0ZWxpbmUiO2k6MTQyMTMwMjIzNTt9fQ==","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":39,"type":"chat","content":"It hoy","id":4051,"author":"cometchat1","authorid":2,"dateline":1421319219}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aTozOTtzOjQ6InR5cGUiO3M6NDoiY2hhdCI7czo3OiJjb250ZW50IjtzOjY6Ikl0IGhveSI7czoyOiJpZCI7aTo0MDUxO3M6NjoiYXV0aG9yIjtzOjEwOiJjb21ldGNoYXQxIjtzOjg6ImF1dGhvcmlkIjtpOjI7czo4OiJkYXRlbGluZSI7aToxNDIxMzE5MjE5O319","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":2,"type":"chat","content":"Test","id":4052,"author":"admin","authorid":1,"dateline":1421319470}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aToyO3M6NDoidHlwZSI7czo0OiJjaGF0IjtzOjc6ImNvbnRlbnQiO3M6NDoiVGVzdCI7czoyOiJpZCI7aTo0MDUyO3M6NjoiYXV0aG9yIjtzOjU6ImFkbWluIjtzOjg6ImF1dGhvcmlkIjtpOjE7czo4OiJkYXRlbGluZSI7aToxNDIxMzE5NDcwO319","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":2,"type":"chat","content":"Abc","id":4053,"author":"admin","authorid":1,"dateline":1421319478}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aToyO3M6NDoidHlwZSI7czo0OiJjaGF0IjtzOjc6ImNvbnRlbnQiO3M6MzoiQWJjIjtzOjI6ImlkIjtpOjQwNTM7czo2OiJhdXRob3IiO3M6NToiYWRtaW4iO3M6ODoiYXV0aG9yaWQiO2k6MTtzOjg6ImRhdGVsaW5lIjtpOjE0MjEzMTk0Nzg7fX0=","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":1,"type":"chat","content":"Xy","id":4054,"author":"cometchat1","authorid":2,"dateline":1421319640}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aToxO3M6NDoidHlwZSI7czo0OiJjaGF0IjtzOjc6ImNvbnRlbnQiO3M6MjoiWHkiO3M6MjoiaWQiO2k6NDA1NDtzOjY6ImF1dGhvciI7czoxMDoiY29tZXRjaGF0MSI7czo4OiJhdXRob3JpZCI7aToyO3M6ODoiZGF0ZWxpbmUiO2k6MTQyMTMxOTY0MDt9fQ==","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":1,"type":"chat","content":"Y","id":4055,"author":"cometchat1","authorid":2,"dateline":1421319643}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aToxO3M6NDoidHlwZSI7czo0OiJjaGF0IjtzOjc6ImNvbnRlbnQiO3M6MToiWSI7czoyOiJpZCI7aTo0MDU1O3M6NjoiYXV0aG9yIjtzOjEwOiJjb21ldGNoYXQxIjtzOjg6ImF1dGhvcmlkIjtpOjI7czo4OiJkYXRlbGluZSI7aToxNDIxMzE5NjQzO319","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":1,"type":"chat","content":"Z","id":4056,"author":"cometchat1","authorid":2,"dateline":1421319644}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aToxO3M6NDoidHlwZSI7czo0OiJjaGF0IjtzOjc6ImNvbnRlbnQiO3M6MToiWiI7czoyOiJpZCI7aTo0MDU2O3M6NjoiYXV0aG9yIjtzOjEwOiJjb21ldGNoYXQxIjtzOjg6ImF1dGhvcmlkIjtpOjI7czo4OiJkYXRlbGluZSI7aToxNDIxMzE5NjQ0O319","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":1,"type":"chat","content":"l","id":4057,"author":"cometchat1","authorid":2,"dateline":1421319649}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aToxO3M6NDoidHlwZSI7czo0OiJjaGF0IjtzOjc6ImNvbnRlbnQiO3M6MToibCI7czoyOiJpZCI7aTo0MDU3O3M6NjoiYXV0aG9yIjtzOjEwOiJjb21ldGNoYXQxIjtzOjg6ImF1dGhvcmlkIjtpOjI7czo4OiJkYXRlbGluZSI7aToxNDIxMzE5NjQ5O319","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":1,"type":"chat","content":"m","id":4058,"author":"cometchat1","authorid":2,"dateline":1421319650}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aToxO3M6NDoidHlwZSI7czo0OiJjaGF0IjtzOjc6ImNvbnRlbnQiO3M6MToibSI7czoyOiJpZCI7aTo0MDU4O3M6NjoiYXV0aG9yIjtzOjEwOiJjb21ldGNoYXQxIjtzOjg6ImF1dGhvcmlkIjtpOjI7czo4OiJkYXRlbGluZSI7aToxNDIxMzE5NjUwO319","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":1,"type":"chat","content":"n","id":4059,"author":"cometchat1","authorid":2,"dateline":1421319652}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aToxO3M6NDoidHlwZSI7czo0OiJjaGF0IjtzOjc6ImNvbnRlbnQiO3M6MToibiI7czoyOiJpZCI7aTo0MDU5O3M6NjoiYXV0aG9yIjtzOjEwOiJjb21ldGNoYXQxIjtzOjg6ImF1dGhvcmlkIjtpOjI7czo4OiJkYXRlbGluZSI7aToxNDIxMzE5NjUyO319","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":1,"type":"chat","content":"ljjkjk","id":4064,"author":"cometchat1","authorid":2,"dateline":1421320003}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aToxO3M6NDoidHlwZSI7czo0OiJjaGF0IjtzOjc6ImNvbnRlbnQiO3M6NjoibGpqa2prIjtzOjI6ImlkIjtpOjQwNjQ7czo2OiJhdXRob3IiO3M6MTA6ImNvbWV0Y2hhdDEiO3M6ODoiYXV0aG9yaWQiO2k6MjtzOjg6ImRhdGVsaW5lIjtpOjE0MjEzMjAwMDM7fX0=","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":1,"type":"chat","content":"klk","id":4065,"author":"cometchat1","authorid":2,"dateline":1421320004}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aToxO3M6NDoidHlwZSI7czo0OiJjaGF0IjtzOjc6ImNvbnRlbnQiO3M6Mzoia2xrIjtzOjI6ImlkIjtpOjQwNjU7czo2OiJhdXRob3IiO3M6MTA6ImNvbWV0Y2hhdDEiO3M6ODoiYXV0aG9yaWQiO2k6MjtzOjg6ImRhdGVsaW5lIjtpOjE0MjEzMjAwMDQ7fX0=","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":1,"type":"chat","content":"klk","id":4066,"author":"cometchat1","authorid":2,"dateline":1421320006}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aToxO3M6NDoidHlwZSI7czo0OiJjaGF0IjtzOjc6ImNvbnRlbnQiO3M6Mzoia2xrIjtzOjI6ImlkIjtpOjQwNjY7czo2OiJhdXRob3IiO3M6MTA6ImNvbWV0Y2hhdDEiO3M6ODoiYXV0aG9yaWQiO2k6MjtzOjg6ImRhdGVsaW5lIjtpOjE0MjEzMjAwMDY7fX0=","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":2,"type":"chat","content":"Jbbjjjj","id":4067,"author":"admin","authorid":1,"dateline":1421320014}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aToyO3M6NDoidHlwZSI7czo0OiJjaGF0IjtzOjc6ImNvbnRlbnQiO3M6NzoiSmJiampqaiI7czoyOiJpZCI7aTo0MDY3O3M6NjoiYXV0aG9yIjtzOjU6ImFkbWluIjtzOjg6ImF1dGhvcmlkIjtpOjE7czo4OiJkYXRlbGluZSI7aToxNDIxMzIwMDE0O319","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":39,"type":"chat","content":"sdxsdsd","id":4068,"author":"cometchat1","authorid":2,"dateline":1421320476}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aTozOTtzOjQ6InR5cGUiO3M6NDoiY2hhdCI7czo3OiJjb250ZW50IjtzOjc6InNkeHNkc2QiO3M6MjoiaWQiO2k6NDA2ODtzOjY6ImF1dGhvciI7czoxMDoiY29tZXRjaGF0MSI7czo4OiJhdXRob3JpZCI7aToyO3M6ODoiZGF0ZWxpbmUiO2k6MTQyMTMyMDQ3Njt9fQ==","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":2,"type":"chat","content":"Nznss","id":4069,"author":"vivek","authorid":39,"dateline":1421320484}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aToyO3M6NDoidHlwZSI7czo0OiJjaGF0IjtzOjc6ImNvbnRlbnQiO3M6NToiTnpuc3MiO3M6MjoiaWQiO2k6NDA2OTtzOjY6ImF1dGhvciI7czo1OiJ2aXZlayI7czo4OiJhdXRob3JpZCI7aTozOTtzOjg6ImRhdGVsaW5lIjtpOjE0MjEzMjA0ODQ7fX0=","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":2,"type":"chat","content":"Bsbsbs","id":4070,"author":"vivek","authorid":39,"dateline":1421320487}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aToyO3M6NDoidHlwZSI7czo0OiJjaGF0IjtzOjc6ImNvbnRlbnQiO3M6NjoiQnNic2JzIjtzOjI6ImlkIjtpOjQwNzA7czo2OiJhdXRob3IiO3M6NToidml2ZWsiO3M6ODoiYXV0aG9yaWQiO2k6Mzk7czo4OiJkYXRlbGluZSI7aToxNDIxMzIwNDg3O319","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":39,"type":"chat","content":"kl,l.,","id":4071,"author":"cometchat1","authorid":2,"dateline":1421320495}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aTozOTtzOjQ6InR5cGUiO3M6NDoiY2hhdCI7czo3OiJjb250ZW50IjtzOjY6ImtsLGwuLCI7czoyOiJpZCI7aTo0MDcxO3M6NjoiYXV0aG9yIjtzOjEwOiJjb21ldGNoYXQxIjtzOjg6ImF1dGhvcmlkIjtpOjI7czo4OiJkYXRlbGluZSI7aToxNDIxMzIwNDk1O319","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":39,"type":"chat","content":"jh","id":4072,"author":"cometchat1","authorid":2,"dateline":1421320512}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aTozOTtzOjQ6InR5cGUiO3M6NDoiY2hhdCI7czo3OiJjb250ZW50IjtzOjI6ImpoIjtzOjI6ImlkIjtpOjQwNzI7czo2OiJhdXRob3IiO3M6MTA6ImNvbWV0Y2hhdDEiO3M6ODoiYXV0aG9yaWQiO2k6MjtzOjg6ImRhdGVsaW5lIjtpOjE0MjEzMjA1MTI7fX0=","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":39,"type":"chat","content":"gg","id":4073,"author":"cometchat1","authorid":2,"dateline":1421320519}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aTozOTtzOjQ6InR5cGUiO3M6NDoiY2hhdCI7czo3OiJjb250ZW50IjtzOjI6ImdnIjtzOjI6ImlkIjtpOjQwNzM7czo2OiJhdXRob3IiO3M6MTA6ImNvbWV0Y2hhdDEiO3M6ODoiYXV0aG9yaWQiO2k6MjtzOjg6ImRhdGVsaW5lIjtpOjE0MjEzMjA1MTk7fX0=","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":2,"type":"chat","content":":flushed: :flushed: :flushed: :sweat: :sweat: :sweat: :disappointed_relieved: :disappointed: :disappointed:","id":4076,"author":"admin","authorid":1,"dateline":1421320795}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aToyO3M6NDoidHlwZSI7czo0OiJjaGF0IjtzOjc6ImNvbnRlbnQiO3M6MTA3OiI6Zmx1c2hlZDogOmZsdXNoZWQ6IDpmbHVzaGVkOiA6c3dlYXQ6IDpzd2VhdDogOnN3ZWF0OiA6ZGlzYXBwb2ludGVkX3JlbGlldmVkOiA6ZGlzYXBwb2ludGVkOiA6ZGlzYXBwb2ludGVkOiI7czoyOiJpZCI7aTo0MDc2O3M6NjoiYXV0aG9yIjtzOjU6ImFkbWluIjtzOjg6ImF1dGhvcmlkIjtpOjE7czo4OiJkYXRlbGluZSI7aToxNDIxMzIwNzk1O319","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":2,"type":"chat","content":":smiley: :blush: :grin: :grin: :grin: :kissing_heart: :kissing_heart: :kissing_heart: :grinning:","id":4077,"author":"vivek","authorid":39,"dateline":1421320808}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aToyO3M6NDoidHlwZSI7czo0OiJjaGF0IjtzOjc6ImNvbnRlbnQiO3M6OTY6IjpzbWlsZXk6IDpibHVzaDogOmdyaW46IDpncmluOiA6Z3JpbjogOmtpc3NpbmdfaGVhcnQ6IDpraXNzaW5nX2hlYXJ0OiA6a2lzc2luZ19oZWFydDogOmdyaW5uaW5nOiI7czoyOiJpZCI7aTo0MDc3O3M6NjoiYXV0aG9yIjtzOjU6InZpdmVrIjtzOjg6ImF1dGhvcmlkIjtpOjM5O3M6ODoiZGF0ZWxpbmUiO2k6MTQyMTMyMDgwODt9fQ==","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":2,"type":"chat","content":"Ggig","id":4078,"author":"vivek","authorid":39,"dateline":1421390523}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aToyO3M6NDoidHlwZSI7czo0OiJjaGF0IjtzOjc6ImNvbnRlbnQiO3M6NDoiR2dpZyI7czoyOiJpZCI7aTo0MDc4O3M6NjoiYXV0aG9yIjtzOjU6InZpdmVrIjtzOjg6ImF1dGhvcmlkIjtpOjM5O3M6ODoiZGF0ZWxpbmUiO2k6MTQyMTM5MDUyMzt9fQ==","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":2,"type":"chat","content":"abc","id":4079,"author":"admin","authorid":1,"dateline":1421402391}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aToyO3M6NDoidHlwZSI7czo0OiJjaGF0IjtzOjc6ImNvbnRlbnQiO3M6MzoiYWJjIjtzOjI6ImlkIjtpOjQwNzk7czo2OiJhdXRob3IiO3M6NToiYWRtaW4iO3M6ODoiYXV0aG9yaWQiO2k6MTtzOjg6ImRhdGVsaW5lIjtpOjE0MjE0MDIzOTE7fX0=","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":10,"type":"chat","content":"hello","id":4080,"author":"admin","authorid":1,"dateline":1421639323}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aToxMDtzOjQ6InR5cGUiO3M6NDoiY2hhdCI7czo3OiJjb250ZW50IjtzOjU6ImhlbGxvIjtzOjI6ImlkIjtpOjQwODA7czo2OiJhdXRob3IiO3M6NToiYWRtaW4iO3M6ODoiYXV0aG9yaWQiO2k6MTtzOjg6ImRhdGVsaW5lIjtpOjE0MjE2MzkzMjM7fX0=","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":1,"type":"chat","content":"Hi there","id":4081,"author":"mintapatalk","authorid":10,"dateline":1421639338}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aToxO3M6NDoidHlwZSI7czo0OiJjaGF0IjtzOjc6ImNvbnRlbnQiO3M6ODoiSGkgdGhlcmUiO3M6MjoiaWQiO2k6NDA4MTtzOjY6ImF1dGhvciI7czoxMToibWludGFwYXRhbGsiO3M6ODoiYXV0aG9yaWQiO2k6MTA7czo4OiJkYXRlbGluZSI7aToxNDIxNjM5MzM4O319","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":1,"type":"chat","content":"Hi again","id":4082,"author":"mintapatalk","authorid":10,"dateline":1421639437}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aToxO3M6NDoidHlwZSI7czo0OiJjaGF0IjtzOjc6ImNvbnRlbnQiO3M6ODoiSGkgYWdhaW4iO3M6MjoiaWQiO2k6NDA4MjtzOjY6ImF1dGhvciI7czoxMToibWludGFwYXRhbGsiO3M6ODoiYXV0aG9yaWQiO2k6MTA7czo4OiJkYXRlbGluZSI7aToxNDIxNjM5NDM3O319","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":10,"type":"chat","content":"What's going on?","id":4083,"author":"admin","authorid":1,"dateline":1421639566}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aToxMDtzOjQ6InR5cGUiO3M6NDoiY2hhdCI7czo3OiJjb250ZW50IjtzOjE2OiJXaGF0J3MgZ29pbmcgb24\/IjtzOjI6ImlkIjtpOjQwODM7czo2OiJhdXRob3IiO3M6NToiYWRtaW4iO3M6ODoiYXV0aG9yaWQiO2k6MTtzOjg6ImRhdGVsaW5lIjtpOjE0MjE2Mzk1NjY7fX0=","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":1,"type":"chat","content":"yes...","id":4084,"author":"mintapatalk","authorid":10,"dateline":1421639585}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aToxO3M6NDoidHlwZSI7czo0OiJjaGF0IjtzOjc6ImNvbnRlbnQiO3M6NjoieWVzLi4uIjtzOjI6ImlkIjtpOjQwODQ7czo2OiJhdXRob3IiO3M6MTE6Im1pbnRhcGF0YWxrIjtzOjg6ImF1dGhvcmlkIjtpOjEwO3M6ODoiZGF0ZWxpbmUiO2k6MTQyMTYzOTU4NTt9fQ==","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":10,"type":"chat","content":"Hi there","id":4085,"author":"admin","authorid":1,"dateline":1421639611}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aToxMDtzOjQ6InR5cGUiO3M6NDoiY2hhdCI7czo3OiJjb250ZW50IjtzOjg6IkhpIHRoZXJlIjtzOjI6ImlkIjtpOjQwODU7czo2OiJhdXRob3IiO3M6NToiYWRtaW4iO3M6ODoiYXV0aG9yaWQiO2k6MTtzOjg6ImRhdGVsaW5lIjtpOjE0MjE2Mzk2MTE7fX0=","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":1,"type":"chat","content":"ok i see","id":4086,"author":"mintapatalk","authorid":10,"dateline":1421639624}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aToxO3M6NDoidHlwZSI7czo0OiJjaGF0IjtzOjc6ImNvbnRlbnQiO3M6ODoib2sgaSBzZWUiO3M6MjoiaWQiO2k6NDA4NjtzOjY6ImF1dGhvciI7czoxMToibWludGFwYXRhbGsiO3M6ODoiYXV0aG9yaWQiO2k6MTA7czo4OiJkYXRlbGluZSI7aToxNDIxNjM5NjI0O319","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":1,"type":"chat","content":"i think its working now","id":4087,"author":"mintapatalk","authorid":10,"dateline":1421639629}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aToxO3M6NDoidHlwZSI7czo0OiJjaGF0IjtzOjc6ImNvbnRlbnQiO3M6MjM6ImkgdGhpbmsgaXRzIHdvcmtpbmcgbm93IjtzOjI6ImlkIjtpOjQwODc7czo2OiJhdXRob3IiO3M6MTE6Im1pbnRhcGF0YWxrIjtzOjg6ImF1dGhvcmlkIjtpOjEwO3M6ODoiZGF0ZWxpbmUiO2k6MTQyMTYzOTYyOTt9fQ==","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":1,"type":"chat","content":"today is monday.  hello to you.  i hope you are well.  how is the weather where you are? would you like to meet me for lunch?","id":4088,"author":"mintapatalk","authorid":10,"dateline":1421639660}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aToxO3M6NDoidHlwZSI7czo0OiJjaGF0IjtzOjc6ImNvbnRlbnQiO3M6MTI1OiJ0b2RheSBpcyBtb25kYXkuICBoZWxsbyB0byB5b3UuICBpIGhvcGUgeW91IGFyZSB3ZWxsLiAgaG93IGlzIHRoZSB3ZWF0aGVyIHdoZXJlIHlvdSBhcmU\/IHdvdWxkIHlvdSBsaWtlIHRvIG1lZXQgbWUgZm9yIGx1bmNoPyI7czoyOiJpZCI7aTo0MDg4O3M6NjoiYXV0aG9yIjtzOjExOiJtaW50YXBhdGFsayI7czo4OiJhdXRob3JpZCI7aToxMDtzOjg6ImRhdGVsaW5lIjtpOjE0MjE2Mzk2NjA7fX0=","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":1,"type":"chat","content":"yo my mang!","id":4089,"author":"mintapatalk","authorid":10,"dateline":1421639752}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aToxO3M6NDoidHlwZSI7czo0OiJjaGF0IjtzOjc6ImNvbnRlbnQiO3M6MTE6InlvIG15IG1hbmchIjtzOjI6ImlkIjtpOjQwODk7czo2OiJhdXRob3IiO3M6MTE6Im1pbnRhcGF0YWxrIjtzOjg6ImF1dGhvcmlkIjtpOjEwO3M6ODoiZGF0ZWxpbmUiO2k6MTQyMTYzOTc1Mjt9fQ==","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":1,"type":"chat","content":"hehre","id":4090,"author":"mintapatalk","authorid":10,"dateline":1421639768}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aToxO3M6NDoidHlwZSI7czo0OiJjaGF0IjtzOjc6ImNvbnRlbnQiO3M6NToiaGVocmUiO3M6MjoiaWQiO2k6NDA5MDtzOjY6ImF1dGhvciI7czoxMToibWludGFwYXRhbGsiO3M6ODoiYXV0aG9yaWQiO2k6MTA7czo4OiJkYXRlbGluZSI7aToxNDIxNjM5NzY4O319","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":1,"type":"chat","content":"nachoooo","id":4091,"author":"mintapatalk","authorid":10,"dateline":1421639783}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aToxO3M6NDoidHlwZSI7czo0OiJjaGF0IjtzOjc6ImNvbnRlbnQiO3M6ODoibmFjaG9vb28iO3M6MjoiaWQiO2k6NDA5MTtzOjY6ImF1dGhvciI7czoxMToibWludGFwYXRhbGsiO3M6ODoiYXV0aG9yaWQiO2k6MTA7czo4OiJkYXRlbGluZSI7aToxNDIxNjM5NzgzO319","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0Curl Url:https://push.tapatalk.com/push.php
+Response: 1
+The Message{"userid":10,"type":"chat","content":"Wow","id":4092,"author":"admin","authorid":1,"dateline":1421639793}
+Payload For push{"url":"dbd.tapatest.com\/testforum\/vb\/388","data":"YToxOntpOjA7YTo3OntzOjY6InVzZXJpZCI7aToxMDtzOjQ6InR5cGUiO3M6NDoiY2hhdCI7czo3OiJjb250ZW50IjtzOjM6IldvdyI7czoyOiJpZCI7aTo0MDkyO3M6NjoiYXV0aG9yIjtzOjU6ImFkbWluIjtzOjg6ImF1dGhvcmlkIjtpOjE7czo4OiJkYXRlbGluZSI7aToxNDIxNjM5NzkzO319","key":"FD817B0E8361346AE9DCB6980612B18B"}
+-----------------
+
+
+Error: "" - Code: 0

@@ -1,0 +1,487 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<product productid="tapatalk" active="1">
+	<title>Tapatalk</title>
+	<description>Tapatalk mobile app plugin for vbulletin 3</description>
+	<version>4.9.4</version>
+	<url>https://tapatalk.com</url>
+	<versioncheckurl>https://tapatalk.com/vb3.php</versioncheckurl>
+	<dependencies>
+	</dependencies>
+	<codes>
+		<code version="3.4.0">
+			<installcode><![CDATA[$vbulletin->db->query("
+    CREATE TABLE IF NOT EXISTS " . TABLE_PREFIX . "tapatalk_users (
+      userid int(10) NOT NULL,
+      announcement smallint(5) NOT NULL DEFAULT '1',
+      pm smallint(5) NOT NULL DEFAULT '1',
+      subscribe smallint(5) NOT NULL DEFAULT '1',
+      updated INT( 10 ) NOT NULL,
+      PRIMARY KEY (userid)
+    )
+");
+
+$vbulletin->db->query("
+    CREATE TABLE IF NOT EXISTS " . TABLE_PREFIX . "tapatalk_push (
+      userid INT( 10 ) NOT NULL ,
+      type VARCHAR( 10 ) NOT NULL ,
+      id INT( 10 ) NOT NULL ,
+      subid INT( 10 ),
+      title VARCHAR( 250 ) NOT NULL ,
+      author VARCHAR( 100 ) NOT NULL ,
+      dateline INT( 10 ) NOT NULL,
+      status TINYINT NOT NULL DEFAULT '0'
+    )
+");]]></installcode>
+			<uninstallcode><![CDATA[$db->query_write("DROP TABLE IF EXISTS " . TABLE_PREFIX . "tapatalk_users");
+$db->query_write("DROP TABLE IF EXISTS " . TABLE_PREFIX . "tapatalk_push");]]></uninstallcode>
+		</code>
+		<code version="3.6.0">
+			<installcode><![CDATA[$vbulletin->db->query("
+    CREATE TABLE IF NOT EXISTS " . TABLE_PREFIX . "tapatalk_users (
+      userid int(10) NOT NULL,
+      announcement smallint(5) NOT NULL DEFAULT '1',
+      pm smallint(5) NOT NULL DEFAULT '1',
+      subscribe smallint(5) NOT NULL DEFAULT '1',
+      updated INT( 10 ) NOT NULL,
+      PRIMARY KEY (userid)
+    )
+");
+
+$vbulletin->db->query("
+    CREATE TABLE IF NOT EXISTS " . TABLE_PREFIX . "tapatalk_push (
+      userid INT( 10 ) NOT NULL ,
+      type VARCHAR( 10 ) NOT NULL ,
+      id INT( 10 ) NOT NULL ,
+      subid INT( 10 ),
+      title VARCHAR( 250 ) NOT NULL ,
+      author VARCHAR( 100 ) NOT NULL ,
+      dateline INT( 10 ) NOT NULL,
+      status TINYINT NOT NULL DEFAULT '0'
+    )
+");
+
+$vbulletin->db->query("
+    ALTER TABLE " . TABLE_PREFIX . "tapatalk_users  ADD `quote` SMALLINT( 5 ) NOT NULL DEFAULT '1' AFTER `subscribe` ,
+ADD `tag` SMALLINT( 5 ) NOT NULL DEFAULT '1' AFTER `quote` ,
+ADD `newtopic` SMALLINT( 5 ) NOT NULL DEFAULT '1' AFTER `tag`
+");]]></installcode>
+			<uninstallcode><![CDATA[$db->query_write("DROP TABLE IF EXISTS " . TABLE_PREFIX . "tapatalk_users");
+$db->query_write("DROP TABLE IF EXISTS " . TABLE_PREFIX . "tapatalk_push");]]></uninstallcode>
+		</code>
+		<code version="3.6.1">
+			<installcode><![CDATA[$vbulletin->db->query("
+ALTER TABLE " . TABLE_PREFIX . "tapatalk_users CHANGE `updated` `updated` INT( 10 ) NOT NULL
+");]]></installcode>
+			<uninstallcode><![CDATA[$db->query_write("DROP TABLE IF EXISTS " . TABLE_PREFIX . "tapatalk_users");
+$db->query_write("DROP TABLE IF EXISTS " . TABLE_PREFIX . "tapatalk_push");]]></uninstallcode>
+		</code>
+		<code version="3.7.0">
+			<installcode><![CDATA[$vbulletin->db->query("
+    ALTER TABLE " . TABLE_PREFIX . "tapatalk_push  CHANGE `id` `id` VARCHAR( 100 ) NOT NULL DEFAULT '0' ,
+CHANGE `subid` `subid` VARCHAR( 100 ) NULL DEFAULT '0'
+");]]></installcode>
+			<uninstallcode><![CDATA[$db->query_write("DROP TABLE IF EXISTS " . TABLE_PREFIX . "tapatalk_users");
+$db->query_write("DROP TABLE IF EXISTS " . TABLE_PREFIX . "tapatalk_push");]]></uninstallcode>
+		</code>
+		<code version="3.8.0">
+			<installcode><![CDATA[$vbulletin->db->query("
+    ALTER TABLE " . TABLE_PREFIX . "tapatalk_push  ADD `pushid` INT NOT NULL AUTO_INCREMENT FIRST ,
+ADD PRIMARY KEY ( `pushid` ), ADD INDEX ( `userid` ) , ADD INDEX ( `dateline` )
+");]]></installcode>
+			<uninstallcode><![CDATA[$db->query_write("DROP TABLE IF EXISTS " . TABLE_PREFIX . "tapatalk_users");
+$db->query_write("DROP TABLE IF EXISTS " . TABLE_PREFIX . "tapatalk_push");]]></uninstallcode>
+		</code>
+	</codes>
+	<templates>
+	</templates>
+	<plugins>
+		<plugin active="1" executionorder="5">
+			<title>Tapatalk: Options Format Print</title>
+			<hookname>admin_options_print</hookname>
+			<phpcode><![CDATA[if ($setting['optioncode'] == 'selectmulti:eval_tapatalk_hide_forum' || $setting['optioncode'] == 'selectmulti:eval_tapatalk_readonly_forums')
+{
+    $options = null;
+    
+    $setting['value'] = unserialize($setting['value']);
+    
+    if (!is_array($setting['value']) || in_array(-1, $setting['value'])) {
+        $setting['value'] = array();
+    }
+    
+    $options = construct_forum_chooser_options(false, 'Show All');
+    
+    if (is_array($options) AND !empty($options))
+    {
+        print_select_row($description, $name . '[]', $options, $setting['value'], false, 10, true);
+    }
+    else
+    {
+        print_input_row($description, $name, $setting['value']);
+    }
+
+    $handled = true;
+}]]></phpcode>
+		</plugin>
+		<plugin active="1" executionorder="5">
+			<title>Tapatalk: Options Format Transform</title>
+			<hookname>admin_options_processing</hookname>
+			<phpcode><![CDATA[if ($oldsetting['varname'] == 'tapatalk_hide_forum' || $oldsetting['varname'] == 'tapatalk_readonly_forums') {
+    // serialize the array of forum id inputs
+    if (!is_array($settings["$oldsetting[varname]"]) || in_array(-1, $settings["$oldsetting[varname]"]))
+    {
+        $settings["$oldsetting[varname]"] = array();
+    }
+    $settings["$oldsetting[varname]"] = array_map('intval', $settings["$oldsetting[varname]"]);
+    $settings["$oldsetting[varname]"] = serialize($settings["$oldsetting[varname]"]);
+}]]></phpcode>
+		</plugin>
+		<plugin active="1" executionorder="5">
+			<title>Tapatalk: Error redirect</title>
+			<hookname>error_generic</hookname>
+			<phpcode><![CDATA[if (defined('IN_MOBIQUO') && function_exists('return_fault')) {
+  return_fault($errormessage);
+}]]></phpcode>
+		</plugin>
+		<plugin active="1" executionorder="1">
+			<title>Avoid external permission injection</title>
+			<hookname>global_bootstrap_complete</hookname>
+			<phpcode><![CDATA[if(defined('IN_MOBIQUO'))
+{
+    $force_thread_active = true;
+}]]></phpcode>
+		</plugin>
+		<plugin active="1" executionorder="65535">
+			<title>Tapatalk: Add Tapatalk detect JS</title>
+			<hookname>global_setup_complete</hookname>
+			<phpcode><![CDATA[include_once(CWD . '/'.$vbulletin->options['tapatalk_directory'].'/smartbanner.php');
+if(defined('IN_MOBIQUO'))
+{
+global $request_method, $mobiquo_is_login_processed;
+if (strpos($request_method, 'm_') !== 0 || strpos($request_method, 'm_get') === 0)
+{
+    header('Mobiquo_is_login:'.(isset($vbulletin) && $vbulletin->userinfo['userid'] != 0 ? 'true' : 'false'));
+}
+$mobiquo_is_login_processed = true;
+}]]></phpcode>
+		</plugin>
+		<plugin active="1" executionorder="5">
+			<title>Avoid unexpected shut down</title>
+			<hookname>global_shutdown</hookname>
+			<phpcode><![CDATA[if (!empty($vbulletin->profilefield['required']) && defined('IN_MOBIQUO'))
+{
+    $vbulletin->profilefield['required'] = array();
+}]]></phpcode>
+		</plugin>
+		<plugin active="1" executionorder="1">
+			<title>Tapatalk: Subscribed topic push</title>
+			<hookname>newpost_complete</hookname>
+			<phpcode><![CDATA[global $vbulletin;
+if( !function_exists('tapatalk_push_reply') ){
+    if( file_exists(DIR.'/'.$vbulletin->options['tapatalk_directory'].'/push_hook.php') )
+    {
+        include_once(DIR.'/'.$vbulletin->options['tapatalk_directory'].'/push_hook.php');
+        tapatalk_push_reply($type, $post, $threadinfo);
+    }
+}else{
+    tapatalk_push_reply($type, $post, $threadinfo);
+}]]></phpcode>
+		</plugin>
+		<plugin active="1" executionorder="5">
+			<title>Taptalk: Get Tapatalk Online Users</title>
+			<hookname>online_bit_complete</hookname>
+			<phpcode><![CDATA[global $tapatalk_user_ids, $byo_user_ids;
+    if(strpos($userinfo['useragent'], 'Tapatalk')!== false)
+    {
+        if(is_array($tapatalk_user_ids))
+            $tapatalk_user_ids[] = $userinfo['userid'];
+        else
+            $tapatalk_user_ids = array($userinfo['userid']);
+    }
+
+    if(strpos($userinfo['useragent'], 'BYO')!== false)
+    {
+        if(is_array($byo_user_ids))
+            $byo_user_ids[] = $userinfo['userid'];
+        else
+            $byo_user_ids = array($userinfo['userid']);
+    }]]></phpcode>
+		</plugin>
+		<plugin active="1" executionorder="5">
+			<title>Tapatalk: Display Tapatalk Online Icon for Tapatalk Online Users</title>
+			<hookname>online_complete</hookname>
+			<phpcode><![CDATA[global $tapatalk_user_ids;
+if(is_array($tapatalk_user_ids))
+{
+    $onlinebits_arr = preg_split('/<\/tr>/', $onlinebits, -1, PREG_SPLIT_NO_EMPTY);
+    $onlinebits = '';
+    $mobi_dir = $vbulletin->options['tapatalk_directory'];
+    foreach($onlinebits_arr as $online_show)
+    {
+        if(!empty($online_show))
+            foreach($tapatalk_user_ids as $user_id)
+                if(preg_match('/<a href="member\.php\?u='.$user_id.'">/',$online_show))
+                    $online_show = preg_replace('/<td class="alt2" width="35%">\s*<div>\s*<span style="float:right">(.*)<\/span>/s', '<td class="alt2" width="35%"><div><span style="float:right">$1</span><span style="float:right;margin-right:6px;"><img src="'.$mobi_dir.'/forum_icons/tapatalk-online.png" title="On Tapatalk"></span>', $online_show);
+        $onlinebits .= $online_show.'</tr>';
+    }
+}
+]]></phpcode>
+		</plugin>
+		<plugin active="1" executionorder="5">
+			<title>Tapatalk: Display Via Tapatalk on Online page for users on Tapatalk App</title>
+			<hookname>online_location_unknown</hookname>
+			<phpcode><![CDATA[if (strpos($userinfo['useragent'], 'Tapatalk') !== false || strpos($userinfo['useragent'], 'BYO') !== false)
+{
+					$userinfo['action'] = $vbphrase['viewing_index'];
+					$userinfo['where'] = '<a href="' . $vbulletin->options['forumhome'] . '.php' . $vbulletin->session->vars['sessionurl_q'] . '">' . $vbulletin->options['bbtitle'] . "</a>";
+
+    $handled = true;
+}]]></phpcode>
+		</plugin>
+		<plugin active="1" executionorder="5">
+			<title>Tapatalk: PM push</title>
+			<hookname>pmdata_postsave</hookname>
+			<phpcode><![CDATA[global $vbulletin;
+if( !function_exists('tapatalk_push_pm') ){
+    if( file_exists(DIR.'/'.$vbulletin->options['tapatalk_directory'].'/push_hook.php') )
+    {
+        include_once(DIR.'/'.$vbulletin->options['tapatalk_directory'].'/push_hook.php');
+        tapatalk_push_pm($this);
+    }
+}else{
+    tapatalk_push_pm($this);
+}]]></phpcode>
+		</plugin>
+		<plugin active="1" executionorder="5">
+			<title>Tapatalk Stop Forum Spam Integration</title>
+			<hookname>register_addmember_process</hookname>
+			<phpcode><![CDATA[global $vbulletin;
+        include_once(CWD .'/'.$vbulletin->options['tapatalk_directory'].'/include/function_push.php');
+        if(isset($vbulletin->options['stop_forum_spam']))
+        {
+            if((defined('IN_MOBIQUO') && $vbulletin->options['stop_forum_spam'] == 2 ) || $vbulletin->options['stop_forum_spam'] == 4 || (!defined('IN_MOBIQUO') && $vbulletin->options['stop_forum_spam'] == 3))
+            {
+                if(is_spam($vbulletin->GPC['email'], IPADDRESS))
+                {
+                    if (!function_exists('fetch_phrase'))
+                    {
+                        require_once(DIR . '/includes/functions_misc.php');
+                    }
+                    if(!defined('IN_MOBIQUO'))
+                        eval(standard_error(fetch_phrase('email_mark_as_spam', 'error'), '', false));
+                    else
+                        return_fault(fetch_phrase('email_mark_as_spam', 'error'));
+                }
+            }
+        }]]></phpcode>
+		</plugin>
+		<plugin active="1" executionorder="5">
+			<title>Tapatalk: Tapatalk Image Link</title>
+			<hookname>showthread_complete</hookname>
+			<phpcode><![CDATA[
+$protocol = isset($_SERVER['HTTPS']) && $_SERVER['HTTPS'] == 'on' ? 'https:' : 'http:';
+$postbits = preg_replace('/\[emoji(\d+)\]/i', '<img src="'.$protocol.'//emoji.tapatalk-cdn.com/emoji$1.png" />', $postbits);
+$postbits = preg_replace('#<a [^>]*?href="https?://(www\.)?vimeo\.com/(\d+)"[^>]*?>[^>]*?</a>#si', '<iframe src="https://player.vimeo.com/video/$2" width="500" height="300" frameborder="0"></iframe>', $postbits);
+]]></phpcode>
+		</plugin>
+	</plugins>
+	<phrases>
+		<phrasetype name="Scheduled Tasks" fieldname="cron">
+			<phrase name="task_OutDatePushClean_desc" date="1357377487" username="admin" version="3.6.3"><![CDATA[clean outdated push/alert data.]]></phrase>
+			<phrase name="task_OutDatePushClean_log" date="1357377487" username="admin" version="3.6.3" />
+			<phrase name="task_OutDatePushClean_title" date="1357377487" username="admin" version="3.6.3"><![CDATA[OutDatePushClean]]></phrase>
+		</phrasetype>
+		<phrasetype name="Error Messages" fieldname="error">
+			<phrase name="email_mark_as_spam" date="1395480010" username="admin" version="4.9.1"><![CDATA[Your email is marked as spam.]]></phrase>
+		</phrasetype>
+		<phrasetype name="GLOBAL" fieldname="global">
+			<phrase name="byo_link" date="1366721582" username="admin" version="3.8.0"><![CDATA[https://tapatalk.com]]></phrase>
+			<phrase name="on_byo" date="1366721532" username="admin" version="3.8.0"><![CDATA[On Tapatalk(*)]]></phrase>
+		</phrasetype>
+		<phrasetype name="vBulletin Settings" fieldname="vbsettings">
+			<phrase name="setting_alert_outdate_period_desc" date="1357377169" username="admin" version="3.6.3"><![CDATA[Specify the amount of time you wish to retain push notification data that users can access. Note: longer times specified will require more storage to retain data and database performance may be affected as well.]]></phrase>
+			<phrase name="setting_alert_outdate_period_title" date="1357377169" username="admin" version="3.6.3"><![CDATA[Notification Table Clean-Up]]></phrase>
+			<phrase name="setting_full_ads_desc" date="1381300506" username="admin" version="4.1.0"><![CDATA[Tapatalk will show a one-time welcome screen to mobile web users informing them to download and view your forum in the free app. This screen will contain your forum branding only along with a download button.]]></phrase>
+			<phrase name="setting_full_ads_title" date="1381300506" username="admin" version="4.1.0"><![CDATA[Mobile Welcome Screen]]></phrase>
+			<phrase name="setting_push_key_desc" date="1376556467" username="admin" version="4.0.0"><![CDATA[Formerly known as Push Key. This key is now required for secure connection between your community and Tapatalk server. Features such as Push Notification and Single Sign-On requires this key to work.]]></phrase>
+			<phrase name="setting_push_key_title" date="1376556467" username="admin" version="4.0.0"><![CDATA[Tapatalk API Key]]></phrase>
+			<phrase name="setting_push_notifications_desc" date="1415591174" username="admin" version="4.6.0"><![CDATA[<b>Basic Message</b> - Do not include post content and images preview in Push Notifications.<br />
+<b>Rich Message</b> - Includes post content and images preview in Push Notifications.]]></phrase>
+			<phrase name="setting_push_notifications_title" date="1415591174" username="admin" version="4.6.0"><![CDATA[Push Notifications]]></phrase>
+			<phrase name="setting_reg_url_desc" date="1363852958" username="admin" version="3.7.2"><![CDATA[This field is required if you select "Redirect to External Registration URL" under "Registration Options". You do not need to include the forum root URL.]]></phrase>
+			<phrase name="setting_reg_url_title" date="1363852958" username="admin" version="3.7.2"><![CDATA[Registration URL]]></phrase>
+			<phrase name="setting_stop_forum_spam_desc" date="1396598572" username="admin" version="4.3.1"><![CDATA[By enabling StopForumSpam integration, new user registration from Tapatalk app and/or from web will be screened with StopForumSpam database to prevent existing black-listed spammers.]]></phrase>
+			<phrase name="setting_stop_forum_spam_title" date="1396598572" username="admin" version="4.3.1"><![CDATA[Spam Prevention]]></phrase>
+			<phrase name="setting_tapatalk_ads_desc" date="1410424747" username="admin" version="5.0.1"><![CDATA[This option enables you to specify user groups to be excluded from being served advertising. Each user group name should be separated by a comma, for example, "3,11,6" which means only users who belong to groups 3,6 and 11 will not be shown ads.]]></phrase>
+			<phrase name="setting_tapatalk_ads_title" date="1410424747" username="admin" version="5.0.1"><![CDATA[Disable Ads for Group]]></phrase>
+			<phrase name="setting_tapatalk_autoapproved_desc" date="1396600441" username="admin" version="4.7.2"><![CDATA[This option automatically approve verified Tapatalk member without the need of moderation or other additional steps.]]></phrase>
+			<phrase name="setting_tapatalk_autoapproved_title" date="1396600441" username="admin" version="4.7.2"><![CDATA[Automatically Approve Verified Tapatalk Members]]></phrase>
+			<phrase name="setting_tapatalk_delete_option_desc" date="1338184657" username="admin" version="3.4.0"><![CDATA[Enable hard delete post and topic for authorized user.]]></phrase>
+			<phrase name="setting_tapatalk_delete_option_title" date="1338184657" username="admin" version="3.4.0"><![CDATA[Advanved Delete Option]]></phrase>
+			<phrase name="setting_tapatalk_directory_desc" date="1338184710" username="admin" version="3.4.0"><![CDATA[This setting is for advanced users. If you installed the Tapatalk plug-in into a custom folder by manually changing the name of the name of the default "mobiquo" folder, you must specify the custom folder name here. You will also need to specify the custom folder name AND path in your Tapatalk forum owner account as well. (http://tapatalk.com/landing.php)]]></phrase>
+			<phrase name="setting_tapatalk_directory_title" date="1338184710" username="admin" version="3.4.0"><![CDATA[Tapatalk Plug-In Directory]]></phrase>
+			<phrase name="setting_tapatalk_hide_forum_desc" date="1338184200" username="admin" version="3.4.0"><![CDATA[Hide forums you don't want them to be listed in Tapatalk app.]]></phrase>
+			<phrase name="setting_tapatalk_hide_forum_title" date="1338184200" username="admin" version="3.4.0"><![CDATA[Hide Forums]]></phrase>
+			<phrase name="setting_tapatalk_push_desc" date="1338184765" username="admin" version="3.4.0"><![CDATA[Tapatalk users on your forum can get instant notification with new reply of subscribed topic and new pm if this setting was enabled.]]></phrase>
+			<phrase name="setting_tapatalk_push_title" date="1338184765" username="admin" version="3.4.0"><![CDATA[Enable Tapatalk Push Notification]]></phrase>
+			<phrase name="setting_tapatalk_readonly_forums_desc" date="1356685929" username="admin" version="3.6.3"><![CDATA[Prevent Tapatalk users from creating new topics in the selected sub-forums. This feature is useful for forums that require additional information or credentials that Tapatalk does not yet support.]]></phrase>
+			<phrase name="setting_tapatalk_readonly_forums_title" date="1356685929" username="admin" version="3.6.3"><![CDATA[Disable New Topics]]></phrase>
+			<phrase name="setting_tapatalk_reg_type_desc" date="1392283732" username="admin" version="4.3.1"><![CDATA[Verified Tapatalk users signed in from Facebook, Google or verified email address can register your forum natively in-app. COPPA and additional custom fields are also supported, althought we strongly recommend to keep the custom fields to absolute minimal to make registration easier on mobile.]]></phrase>
+			<phrase name="setting_tapatalk_reg_type_title" date="1392283732" username="admin" version="4.3.1"><![CDATA[In-App Registration]]></phrase>
+			<phrase name="setting_tapatalk_reg_ug_desc" date="1392283579" username="admin" version="4.3.1"><![CDATA[You can assign users registered with Tapatalk to specific user groups(filling usergroup id). If you do not assign them to a specific group, they will be assigned a default group.]]></phrase>
+			<phrase name="setting_tapatalk_reg_ug_title" date="1392283579" username="admin" version="4.3.1"><![CDATA[User Group Assignment]]></phrase>
+			<phrase name="setting_tapatalk_smartbanner_desc" date="1406019437" username="admin" version="4.5.0"><![CDATA[Tapatalk will show a smart banner to mobile users, when your forum is viewed by a mobile web browser. The smart banner will contain two buttons: "Open in app" and "Install".]]></phrase>
+			<phrase name="setting_tapatalk_smartbanner_title" date="1406019437" username="admin" version="4.5.0"><![CDATA[Mobile Smart Banner]]></phrase>
+			<phrase name="setting_tp_app_android_url_desc" date="1366702311" username="admin" version="3.8.0"><![CDATA[Enter your BYO App URL from Google Play, to be used on Android device]]></phrase>
+			<phrase name="setting_tp_app_android_url_title" date="1366702311" username="admin" version="3.8.0"><![CDATA[Android Product URL]]></phrase>
+			<phrase name="setting_tp_app_banner_message_desc" date="1366702228" username="admin" version="3.8.0"><![CDATA[E.g. "Follow {your_forum_name} with {app_name} for [os_platform]". Do not change the [os_platform] tag as it is displayed dynamically based on user's device platform.]]></phrase>
+			<phrase name="setting_tp_app_banner_message_title" date="1366702228" username="admin" version="3.8.0"><![CDATA[BYO App Banner Message]]></phrase>
+			<phrase name="setting_tp_app_ios_id_desc" date="1366702325" username="admin" version="3.8.0"><![CDATA[Enter your product ID in Apple App Store, to be used on iPhone device]]></phrase>
+			<phrase name="setting_tp_app_ios_id_title" date="1366702325" username="admin" version="3.8.0"><![CDATA[BYO iOS App ID]]></phrase>
+			<phrase name="setting_tp_custom_content_replacement_desc" date="1363775355" username="admin" version="3.7.2"><![CDATA[Ability to match and replace thread content using PHP preg_replace function(http://www.php.net/manual/en/function.preg-replace.php). E.g. "'pattern', 'replacement'" . You can define more than one replace rule on each line.]]></phrase>
+			<phrase name="setting_tp_custom_content_replacement_title" date="1363775355" username="admin" version="3.7.2"><![CDATA[Thread Content Replacement(Advanced)]]></phrase>
+			<phrase name="setting_twitterfacebook_card_enabled_desc" date="1427696718" username="admin" version="4.8.1"><![CDATA[Allow your members to open the same thread in Tapatalk from your Facebook post / Twitter tweet.]]></phrase>
+			<phrase name="setting_twitterfacebook_card_enabled_title" date="1427696718" username="admin" version="4.8.1"><![CDATA[Facebook and Twitter Deep Linking]]></phrase>
+			<phrase name="setting_vbseo_like_enable_desc" date="1355469344" username="admin" version="3.6.3"><![CDATA[Enable this to support VBSEO like mode with Tapatalk.  Disable this if VBSEO is not an installed add-on in your forum.]]></phrase>
+			<phrase name="setting_vbseo_like_enable_title" date="1355469344" username="admin" version="3.6.3"><![CDATA[Support For Vbseo Like]]></phrase>
+			<phrase name="settinggroup_tapatalk" date="1338182204" username="admin" version="3.4.0"><![CDATA[Tapatalk Options]]></phrase>
+			<phrase name="settinggroup_tapatalkBYOOptions" date="1361096357" username="admin" version="3.7.2"><![CDATA[Tapatalk Build Your Own Options]]></phrase>
+			<phrase name="settinggroup_tapatalk_inappreg" date="1392282478" username="admin" version="4.3.1"><![CDATA[Tapatalk In App Registration Options]]></phrase>
+		</phrasetype>
+	</phrases>
+	<options>
+		<settinggroup name="tapatalk" displayorder="1">
+      <setting varname="push_key" displayorder="1">
+        <datatype>free</datatype>
+      </setting>
+      <setting varname="tapatalk_reg_type" displayorder="2">
+        <datatype>free</datatype>
+        <optioncode>radio:piped
+0|Yes
+1|No
+        </optioncode>
+        <defaultvalue>0</defaultvalue>
+      </setting>
+      <setting varname="tapatalk_autoapproved" displayorder="3">
+        <datatype>boolean</datatype>
+        <optioncode>yesno</optioncode>
+        <defaultvalue>1</defaultvalue>
+      </setting>
+      <setting varname="stop_forum_spam" displayorder="4">
+        <datatype>number</datatype>
+        <optioncode>radio:piped
+1|Disable
+2|Enable StopForumSpam in Tapatalk in-app registration
+3|Enable StopForumSpam in web registration
+4|Enable Both
+        </optioncode>
+        <defaultvalue>2</defaultvalue>
+      </setting>
+      <setting varname="tapatalk_reg_ug" displayorder="5">
+        <datatype>free</datatype>
+        <defaultvalue>2</defaultvalue>
+      </setting>
+      <setting varname="tapatalk_ads" displayorder="6">
+        <datatype>free</datatype>
+      </setting>
+      <setting varname="tapatalk_directory" displayorder="7">
+        <datatype>free</datatype>
+        <defaultvalue>mobiquo</defaultvalue>
+      </setting>
+			<setting varname="tapatalk_hide_forum" displayorder="8">
+				<datatype>free</datatype>
+				<optioncode>selectmulti:eval_tapatalk_hide_forum</optioncode>
+			</setting>
+			<setting varname="tapatalk_readonly_forums" displayorder="9">
+				<datatype>free</datatype>
+				<optioncode>selectmulti:eval_tapatalk_readonly_forums</optioncode>
+			</setting>
+      <setting varname="tp_custom_content_replacement" displayorder="10">
+        <datatype>free</datatype>
+        <optioncode>textarea</optioncode>
+        <defaultvalue>
+          <![CDATA[# For each sample blow, remove the '#' ahead to test
+# More infor: http://support.tapatalk.com/threads/advanced-plugin-usage.17106/
+
+# Sample 1, replace all string 'abc' in post content to 'xyz'
+# '/abc/', 'xyz'
+
+# Sample 2, replace [JAVA] BBCODE to [QUOTE] for better display in tapatalk
+# '/\[java\](.*?)\[\/java\]/si', '[quote]$1[/quote]']]>
+        </defaultvalue>
+      </setting>
+      <setting varname="full_ads" displayorder="11">
+        <datatype>free</datatype>
+        <optioncode>yesno</optioncode>
+        <defaultvalue>1</defaultvalue>
+      </setting>
+      <setting varname="tapatalk_smartbanner" displayorder="12">
+        <datatype>free</datatype>
+        <optioncode>yesno</optioncode>
+        <defaultvalue>1</defaultvalue>
+      </setting>
+      <setting varname="twitterfacebook_card_enabled" displayorder="13">
+        <datatype>free</datatype>
+        <optioncode>yesno</optioncode>
+        <defaultvalue>1</defaultvalue>
+      </setting>
+			<setting varname="vbseo_like_enable" displayorder="14">
+				<datatype>free</datatype>
+				<optioncode>yesno</optioncode>
+				<defaultvalue>1</defaultvalue>
+			</setting>
+			<setting varname="tapatalk_delete_option" displayorder="15">
+				<datatype>boolean</datatype>
+				<optioncode>yesno</optioncode>
+				<defaultvalue>1</defaultvalue>
+			</setting>
+			<setting varname="tapatalk_push" displayorder="16">
+				<datatype>boolean</datatype>
+				<optioncode>yesno</optioncode>
+				<defaultvalue>1</defaultvalue>
+			</setting>
+			<setting varname="alert_outdate_period" displayorder="17">
+				<datatype>free</datatype>
+				<optioncode>radio:piped
+14|2 weeks (on extremely busy forums)
+30|1 month
+90|3 months
+365|1 year</optioncode>
+				<defaultvalue>90</defaultvalue>
+			</setting>
+			<setting varname="push_notifications" displayorder="18">
+				<datatype>free</datatype>
+				<optioncode>radio:piped
+0|Basic Message
+1|Rich  Message</optioncode>
+				<defaultvalue>1</defaultvalue>
+			</setting>
+    </settinggroup>
+      <settinggroup name="tapatalkBYOOptions" displayorder="1">
+        <setting varname="tp_app_banner_message" displayorder="19">
+				<datatype>free</datatype>
+				<optioncode><![CDATA[<textarea name=\"setting[tp_app_banner_message]\" rows=\"8\" cols=\"40\" dir=\"ltr\" class=\"bginput\" tabindex=\"1\" title=\"name=&quot;setting[tp_app_banner_message]&quot;\">" .  $vbulletin->options['tp_app_banner_message']   . "</textarea>]]></optioncode>
+			</setting>
+			<setting varname="tp_app_ios_id" displayorder="20">
+				<datatype>free</datatype>
+			</setting>
+			<setting varname="tp_app_android_url" displayorder="21">
+				<datatype>free</datatype>
+			</setting>
+			<!--<setting varname="reg_url" displayorder="22">
+				<datatype>free</datatype>
+				<defaultvalue>register.php</defaultvalue>
+			</setting>-->
+		</settinggroup>
+	</options>
+	<helptopics>
+	</helptopics>
+	<cronentries>
+		<cron varname="OutDatePushClean" active="1" loglevel="0">
+			<filename>./mobiquo/include/cleanOutdatePushData.php</filename>
+			<scheduling weekday="-1" day="-1" hour="10" minute="-1" />
+		</cron>
+	</cronentries>
+	<faqentries>
+	</faqentries>
+</product>
